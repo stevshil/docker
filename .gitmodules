@@ -1,0 +1,6 @@
+[submodule "dockerdb"]
+	path = dockerdb
+	url = https://github.com/stevshil/dockerDB.git
+[submodule "dockerDB"]
+	path = dockerDB
+	url = https://github.com/stevshil/dockerDB.git
