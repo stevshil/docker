@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if (( $# < 2 ))
+then
+	echo "SYNTAX: $0 <DockerServer> <AppName>" 1>&2
+	exit 1
+fi
+
+SERVER=$1
+APP=$2
+
+curl ${SERVER}:5000/v2/${APP}/tags/list

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+until mysql -h mysql -u root -proot phone -e "show tables;" | grep number
+do
+	sleep 5
+done
+
+mysql -h mysql -u root -proot phone \
+-e "SELECT * FROM numbers;" > /usr/local/apache2/htdocs/index.html
+
+httpd-foreground

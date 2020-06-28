@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while :
+do
+	mysql -u root -proot -hmysql -e "show databases;"
+	sleep 5
+done

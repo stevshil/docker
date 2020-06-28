@@ -1,0 +1,99 @@
+#!/usr/bin/python
+
+from Tkinter import *
+from PIL import ImageTk, Image
+import sys
+import subprocess
+import os
+import signal
+
+global oldtrack
+global newtrack
+oldtrack="abc"
+
+def showcontrols():
+  buttons=[exitbtn,backbtn,infobtn,skipbtn,playbtn]
+  for x in buttons:
+    controls.add(x)
+
+def updatedisplay():
+  gettrack()
+  root.after(5000,updatedisplay)
+
+
+def sendcmd(cmd):
+  os.system('echo '+cmd+' >/tmp/piplayer.in')
+
+def getdata():
+  output=subprocess.check_output(["./getinfo"])
+  output2=subprocess.check_output(["./trackinfo"])
+  output=output + output2
+  return output
+
+def piclose():
+  os.system('echo stop >/tmp/pistop')
+  sys.exit(1)
+
+def shutdown():
+  os.system('sudo init 0')
+
+def previoustrk():
+  global info
+  sendcmd("pt_step -1")
+  info.set(getdata())
+
+def gettrack():
+  global info
+  info.set(getdata())
+
+def nexttrk():
+  global oldtrack,newtrack
+  sendcmd("pt_step 1")
+  oldtrack=newtrack
+  info.set(getdata())
+  newtrack=getdata()
+  if oldtrack == newtrack:
+    sendcmd('q')
+    sys.exit(0)
+  return (newtrack,oldtrack)
+
+def playpause():
+  sendcmd("p")
+
+def leave():
+  os.system('echo "STOP" >stopme')
+  sendcmd('q')
+  os.system('pkill getinfo')
+  piclose()
+  shutdown()
+
+
+title="Pi Kitchen Player"
+img="rpi-icon.gif"
+newtrack=getdata()
+
+root=Tk()
+w,h=root.winfo_screenwidth(),root.winfo_screenheight()
+#root.geometry('%dx%d+%d+%d' % (400, 220, 1, 1))
+root.geometry('%dx%d+%d+%d' % (w, h, 1, 20))
+info=StringVar()
+info.set(getdata())
+titlelbl=Label(root,text="GUI Pi Media Player",bg="white",fg="blue")
+logo=ImageTk.PhotoImage(Image.open('rpi-icon.gif'))
+controls=PanedWindow(orient=HORIZONTAL)
+playing=Label(root,textvariable=info,bg="white",fg="black",font=("Arial",12))
+infobtn=Button(controls,text='Info',command=gettrack)
+backbtn=Button(controls,text='<<',command=previoustrk)
+skipbtn=Button(controls,text='>>',command=nexttrk)
+playbtn=Button(controls,text='>"',command=playpause)
+exitbtn=Button(controls,text='X',command=leave)
+titlelbl.pack(pady=10,ipadx=130)
+panel = Label(root, image=logo)
+panel.pack(side='top',expand='no')
+#playing.pack(pady=15,ipadx=40)
+playing.pack(pady=0,ipadx=(w-20))
+controls.pack(fill=BOTH,expand=1)
+#print "Assembling"
+showcontrols()
+updatedisplay()
+root.mainloop()

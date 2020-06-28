@@ -1,0 +1,30 @@
+#!/bin/bash
+
+if (( $# < 1 ))
+then
+	echo "SYNTAX: $0 <DockerServer>" 1>&2
+	exit 1
+fi
+
+SERVER=$1
+
+COMMANDS="EXIT
+List_Images
+List_Image_Versions/Tags"
+
+select task in $COMMANDS
+do
+	case $task in
+		"EXIT")
+			break
+			;;
+		"List_Images")
+			curl ${SERVER}:5000/v2/_catalog
+			;;
+		"List_Image_Versions/Tags")
+			echo -n "Enter image name, e.g. trades/server: "
+			read APP
+			curl ${SERVER}:5000/v2/${APP}/tags/list
+			;;
+	esac
+done

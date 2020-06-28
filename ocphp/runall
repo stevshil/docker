@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Copy git ssh key to /var/tmp/.ssh/id_rsa
+[ ! -d /var/tmp/.ssh ] && mkdir /var/tmp/.ssh && chmod 700 /var/tmp/.ssh
+[ ! -d /var/tmp/.ssh/id_rsa ] && echo -e "$GITKEY" > /var/tmp/.ssh/id_rsa && chmod 600 /var/tmp/.ssh/id_rsa
+echo "StrictHostKeyChecking=no" >/var/tmp/.ssh/config
+chmod 600 /var/tmp/.ssh/config
+
+# Add current user to passwd file
+echo "dcr:x:$(id -u):$(id -g):My User:/var/tmp:/bin/bash" >>/etc/passwd
+
+if [ -n "$USEREPO" ]
+then
+	rm -f index.php
+	/var/tmp/srcchk &
+fi
+
+sudo /usr/sbin/postfix start
+/usr/local/bin/apache2-foreground

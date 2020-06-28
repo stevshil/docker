@@ -1,0 +1,42 @@
+apiVersion: build.openshift.io/v1
+kind: BuildConfig
+metadata:
+  annotations:
+    openshift.io/generated-by: OpenShiftWebConsole
+  creationTimestamp: '2017-11-21T11:22:56Z'
+  labels:
+    app: myweb2
+  name: myweb2
+  namespace: webteststeve
+  resourceVersion: '191866720'
+  selfLink: /apis/build.openshift.io/v1/namespaces/webteststeve/buildconfigs/myweb2
+  uid: 52977d7e-ceae-11e7-825d-02d8407159d1
+spec:
+  nodeSelector: null
+  output:
+    to:
+      kind: ImageStreamTag
+      name: 'myweb2:latest'
+  postCommit: {}
+  resources: {}
+  runPolicy: Serial
+  source:
+    git:
+      ref: master
+      uri: 'git@bitbucket.org:stevshil/tpswww.git'
+    sourceSecret:
+      name: obbssh
+    type: Git
+  strategy:
+    sourceStrategy:
+      from:
+        kind: ImageStreamTag
+        name: 'php:7.0'
+        namespace: openshift
+    type: Source
+  triggers:
+    - generic:
+        secret: 26464bd630af4f11
+      type: Generic
+status:
+  lastVersion: 2

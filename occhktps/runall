@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/var/www/html/chksite &
+
+/usr/local/bin/apache2-foreground

@@ -1,0 +1,90 @@
+apiVersion: v1
+kind: BuildConfig
+metadata:
+  name: tpfrank-auto-trader-ui-pipeline
+spec:
+  triggers:
+    - type: Generic
+      generic:
+        secret: wQEutbB1gF98uGrFk7Pg
+  # Note this strategy expects bitbucket credentials to be in the jenkins
+  # project with id: bitbucket-creds
+  strategy:
+    jenkinsPipelineStrategy:
+      jenkinsfile: |-
+        pipeline {
+          agent { label "nodejs" }
+          stages {
+
+            stage("Install angular") {
+              steps {
+                dir('angularapp') {
+                  sh 'npm install -g @angular/cli@7.0.3'
+                }
+              }
+            }
+
+            stage("Clone Source") {
+              steps {
+                dir('angularapp') {
+                  git(
+                    url: 'https://bitbucket.org/fcallaly/spring-auto-trader-ui.git',
+                    credentialsId: 'bitbucket-creds',
+                    branch: "master"
+                  )
+                }
+              }
+            }
+
+            stage("angular build") {
+              steps {
+                dir('angularapp') {
+                  sh "npm install"
+                  sh "ng build --prod=true"
+                }
+              }
+            }
+
+            stage("Clone Build Repo") {
+              steps {
+                dir('angularbuild') {
+                  git(
+                    url: 'https://bitbucket.org/fcallaly/spring-auto-trader-ui-build.git',
+                    credentialsId: 'bitbucket-creds',
+                    branch: "master"
+                  )
+                }
+              }
+            }
+
+            stage("Copy into build repo") {
+              steps {
+                dir('angularapp') {
+                  sh "cp -r dist ../angularbuild"
+                }
+              }
+            }
+
+            stage("Commit build") {
+              steps {
+                dir('angularbuild') {
+                  sh "git config --global user.email \"frankcallaly@gmail.com\""
+                  sh "git config --global user.name \"Frank Callaly (Jenkins)\""
+                  sh "git add ."
+                  sh "git commit -m \"Adding build 0.0.${env.BUILD_NUMBER}\""
+                }
+              }
+            }
+
+            stage("Push build") {
+              steps {
+                dir('angularbuild') {
+                  withCredentials([usernamePassword(credentialsId: 'bitbucket-creds', usernameVariable: 'username', passwordVariable: 'password')]) {
+                    sh "git push https://$username:$password@bitbucket.org/fcallaly/spring-auto-trader-ui-build.git --all"
+                  }
+                }
+              }
+            }
+          }
+        }
+      type: JenkinsPipeline

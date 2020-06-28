@@ -1,0 +1,10 @@
+#!/bin/bash
+DEBIAN_FRONTEND="noninteractive"
+debconf-set-selections <<< "postfix postfix/mailname string your.hostname.com"
+debconf-set-selections <<< "postfix postfix/main_mailer_type string 'Internet Site'"
+apt-get install -y postfix
+#cd /etc
+#rm -rf postfix
+#tar xvf /tmp/pfix.tar
+#service postfix restart
+apt-get install -y bsd-mailx

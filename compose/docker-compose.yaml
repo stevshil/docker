@@ -1,0 +1,23 @@
+version: '3.0'
+
+services:
+  mysql:
+    container_name: mysql
+    build:
+      context: .
+      dockerfile: Dockerfile-mysql
+    image: enterprise/mysql:1.0
+    ports:
+      - "3306:3306"
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+
+  app:
+    container_name: web
+    build:
+      context: .
+      dockerfile: Dockerfile-web
+    image: enterprise/web:1.0
+    ports:
+      - "80:80"

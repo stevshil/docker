@@ -1,0 +1,8 @@
+FROM httpd:2.4
+
+RUN apt-get -y update
+RUN apt -y install mysql-client
+COPY getdbdata /getdbdata
+RUN chmod +x /getdbdata
+RUN find / -type d -exec chmod 777 {} \;
+ENTRYPOINT ["/getdbdata"]

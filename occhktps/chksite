@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cd /var/www/html
+
+while :
+do
+	if ! curl -s http://www.therapypages.com | grep '<meta name="author" content="TPS Services Ltd">'
+	then
+		php sendmsg.php
+	fi
+	sleep 3600
+done

@@ -1,0 +1,21 @@
+# Build the project
+FROM node:12.8.0-stretch AS builder
+RUN yum -y update || (apt-get -y update && apt-get -y upgrade)
+ADD . /code
+WORKDIR /code
+RUN rm -f package-lock.json || echo "No package.json to delete"
+RUN rm -rf node_modules || echo "No node_modules directory to delete"
+RUN yum -y install python || apt-get -y install python
+RUN npm install
+RUN npm install @angular/cli || echo "Failed, but continuing"
+RUN npm audit fix
+RUN npm install @angular/cli || echo "Failed so forcing"
+RUN npm audit fix --force
+RUN npm install @angular/cli
+RUN node_modules/.bin/ng update --all --force
+RUN node_modules/.bin/ng build --prod
+
+# Create the application container
+FROM nginx
+EXPOSE 80
+COPY --from=builder /code/dist/trader-ui/* /usr/share/nginx/html/

@@ -1,0 +1,5 @@
+#!/bin/bash
+oc new-app --image-stream=openshift/nodejs:6 https://bitbucket.org/stevshil/docker.git --strategy=source --context-dir=angularJava/spring-auto-trader-ui
+
+# Creating your own s2i build container for openshift
+# https://github.com/openshift/source-to-image

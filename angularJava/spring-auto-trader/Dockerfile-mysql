@@ -1,0 +1,6 @@
+FROM mysql:5.7.19
+EXPOSE 3306
+
+COPY data/ /data/
+COPY src/main/resources/schema.sql /data/schema.sql
+RUN cat /data/create_mysql_traderdb.sql /data/schema.sql > /docker-entrypoint-initdb.d/schema.sql

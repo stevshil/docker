@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# Clear out our local copy of Petclinic so we start fresh
+if [[ -d petclinic ]]
+then
+	rm -rf petclinic
+fi
+
+# Create petclinic directory
+git clone https://bitbucket.org/JangleFett/petclinic.git
+
+cd petclinic
+mvn -Dmaven.test.skip=true package
+
+cd ..
+docker-compose build
+rm -rf petclinic
+docker-compose up -d
+
+# Wait for petclinic to start
+counter=0
+maxwait=6
+while ! docker logs petclinic | grep 'JVM running' >/dev/null 2>&1
+do
+	sleep 10
+	if (( counter > maxwait ))
+	then
+		echo "Petclinic did not start" 1>&2
+		exit 1
+	fi
+
+	((counter=counter+1))
+done
+
+if curl localhost:8080 | grep 'petclinic.css' >/dev/null 2>&1
+then
+	echo "Petclinic started and passed tests"
+	docker tag petclinic:latest steve353/petclinic:k8s
+	docker push steve353/petclinic:k8s
+else
+	echo "Petclinic failed to respond to web check, no petclinic.css"
+	exit 2
+fi

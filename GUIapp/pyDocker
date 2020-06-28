@@ -1,0 +1,40 @@
+#!/usr/bin/python
+
+# Author: Steve Shilling
+# Date: 20 Sept 2019
+# Description:
+# This script is intended to help people;
+# - Launch Docker containers with various options
+# - Create Dockerfiles
+# - Create docker-compose files
+
+from Tkinter import *
+import os
+import subprocess
+
+title="PyDocker the GUI for Docker"
+
+root=Tk()
+w,h=root.winfo_screenwidth(),root.winfo_screenheight()
+root.geometry('%dx%d+%d+%d' % (w, h, 1, 20))
+info=StringVar()
+info.set(getdata())
+titlelbl=Label(root,text=title,bg="white",fg="blue")
+
+# Choose functionality
+
+# Docker run
+  # Choose number of containers to run
+  # Provide options for;
+    # Port numbers to map (see if we can pull the info from the image)
+    # Volumes to map (pull internal directory from image)
+    # Network links to map host names
+    # Container name and image name
+    # Environment variables (freeform text field, unless we can pull from image)
+
+# Dockerfile
+  # A text editor with the key words and syntax checker
+  # Or ability to select the key word and specify values
+
+# Docker-compose
+  # Ability to select build and run options

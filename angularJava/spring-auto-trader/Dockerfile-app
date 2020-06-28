@@ -1,0 +1,11 @@
+# Build Java code
+FROM maven:3.6.1-jdk-8 AS builder
+ADD . /code
+WORKDIR /code
+RUN mvn -Dmaven.skip.test=true package
+
+# Build application container
+FROM openjdk:8-jdk-alpine
+COPY --from=builder /code/target/spring-auto-trader-0.0.1-SNAPSHOT.jar app.jar
+EXPOSE 8080
+ENTRYPOINT ["java", "-jar", "/app.jar"]
