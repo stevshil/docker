@@ -1,0 +1,20 @@
+version: "3.7"
+services:
+  mysql:
+    build: 
+      context: .
+      dockerfile: dockerdbfile
+    image: mysqlpc
+    container_name: mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=petclinic
+      - MYSQL_DATABASE=petclinic
+  petclinic:
+    image: pc2
+    container_name: petclinic
+    ports:
+      - 8080:8080
+    environment:
+      - DBSERVERNAME=mysql
+      - DBUSERNAME=root
+      - DBPASSWORD=petclinic
