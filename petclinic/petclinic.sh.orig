@@ -15,7 +15,7 @@ cat config/application.properties
 
 # Check DB connection is up
 
-while !  nc $DBSERVERNAME 3306
+while ! mysql -u$DBUSERNAME -p$DBPASSWORD -h$DBSERVERNAME -e 'show databases;'
 do
 	sleep 5
 done
