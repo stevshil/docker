@@ -1,0 +1,972 @@
+Asset ID,Brand,Location,Name,Address 1,Address 2,Address 3,City,Zip Code,Private Tier,Province,Product Categories,Employees,Asset Type
+5932,Reebok,Indonesia,PT Leading Garment Industries,JL. Mengger No. 97,"Moh. Toha KM 5,6 Bandung ","Pasawahan, Dayeuhkolot",Bandung,40256,Tier 1 - Primary,Jawa Barat,Apparel,320.0,Distribution Centre
+7859,Adidas,Vietnam,Pouyuen Vietnam Company Limited (PYV),D10/89Q National road 1A Tan Tao ward,Binh Tan District,Ho Chi Minh city,Thanh pho Ho Chi Minh,7000,Tier 1 - Primary,Thanh pho Ho Chi Minh,Footwear,1512.0,Factory
+8144,Reebok,Vietnam,"Kanaan Saigon Co., Ltd (2nd Plant)",Binh Ta 1 Hamlet,Duc Hoa Ha Village,(blank),Duc Hoa Town,850000,Tier 1 - Primary,Long An,Accessories,71.0,Distribution Centre
+8815,Adidas,Pakistan,"Style Textile (Pvt), Ltd.",126/3-Kot Lakhpat Industrial Estate,(blank),(blank),Lahore,54770,Tier 1 - Primary,Punjab,Apparel,499.0,Factory
+8926,Reebok,Taiwan,Wei Lee Knitting MFG. Co Ltd,"NO. 100, Hengche Road,","Pei Miao Li,",(blank),"MiaoLi City,",36045,Tier 1 - Primary,Taiwan,Accessories,17.0,Store
+11928,Adidas,Bangladesh,Youngone (CEPZ)  Ltd ,"Plot # 03-16, Sector # 2,",Chittagong Export Processing Zone,(blank),Chittagong,4223,Tier 1 - Primary,Chittagong / Chattogram,Apparel,1190.0,Factory
+11974,Reebok,Japan,Tabata Co Ltd Ibaraki Factory,651-2 Industrial-park,(blank),(blank),Hitachi-Omiya,319-2134 ,Tier 1 - Primary,Ibaraki,Accessories,13.0,Store
+12094,Reebok,Pakistan,Kampala Industries (Pvt) Ltd.,Sade Pur Road,Rahim Pur Khitchian,(blank),Sialkot,51300,Tier 1 - Primary,Punjab,"Apparel, Gear",18.0,Store
+12384,Adidas,Vietnam,Din Sen Vietnam Enterprise Co Ltd,"Lot B3, Lot J1, J2, D10/89Q, National Highway 1A, Tan Tao Ward",Binh Tan District,(blank),Ho Chi Minh City,70000,Tier 1 - Primary,Thanh pho Ho Chi Minh,Apparel,140.0,Distribution Centre
+12682,Adidas,Thailand,"Thai Eastern Industry Co., Ltd.",42/220 Moo 5 Soi Moobansristhien,"Petchkasem Road,","Raikhing, ",Sampran,73210,Tier 1 - Primary,Nakhon Pathom,Apparel,41.0,Store
+12980,Adidas,Indonesia,PT Taitat Putra Rejeki,JI Industri No.54 ,Tarikolot,Citeureup,Bogor,16180,Tier 1 - Primary,Jawa Barat,Accessories,12.0,Store
+13017,Adidas,China,Zhongshan Gang Yi Knitting Fty,136 BANFU SOUTH ROAD SHENWAN VILLAGE,Banfu Town, ZHONGSHAN GUANGDONG PROVINCE ,Zhongshan,528459,Tier 1 - Primary,Guangdong,Apparel,21.0,Store
+13027,Adidas,Brazil,Lupo S.A.,Rod. Washington Luiz Km.276 5,(blank),(blank),Araraquara,14803-900,Tier 1 - Primary,Sao Paulo,"Accessories, Apparel",392.0,Factory
+13429,Reebok,Malaysia,Gallant Industries (M) Sdn Bhd,LOT 73351 JALAN PENGKALAN,LAHAT,31/500 Lahat,LAHAT IPOH,31500,Tier 1 - Primary,Perak,Accessories,13.0,Store
+13438,Adidas,Thailand,Trax Intertrade Company Limited. [Roi Et],"No. 61, Village No. 5,","Chang Han Sub-district,","Chang Han District, Roi Et Province",Roi Et,45000,Tier 1 - Primary,Roi Et,Apparel,167.0,Distribution Centre
+13514,Adidas,Indonesia,PT Mitra Garindo Perkasa,Jl. Pancasila V No. 21 ,Desa Cicadas,Gunung Putri,Bogor,16964,Tier 1 - Primary,Jawa Barat,Apparel,59.0,Distribution Centre
+13548,Reebok,Taiwan,"Chuan Mei Glove Industries Co., Ltd.",No. 4-1 Tung Lin Road,"Lin Hai Industrial Estate, Hsiao Kang",(blank),Kaohsiung,81260,Tier 1 - Primary,Kaohsiung,Apparel,3.0,Store
+13599,Reebok,Vietnam,Chuan Mei Glove (Vietnam) Co. Ltd.,Tan Thuan Export Processing Zone,NO. 12 Street,District 7,Ho Chi Minh City,70999,Tier 1 - Primary,(blank),Apparel,22.0,Store
+13670,Adidas,United States,All Star Lettering,9419 Ann St,(blank),(blank),Santa Fe Springs,90670,Tier 2 – Subcontractor,California,Apparel,4.0,Store
+13761,Adidas,Turkey,ETF TEKSTIL KONF. IHR. TUR. SAN. VE TIC. A.S.,Tepeoren Mah. ,Demokrasi Cad. No 137,(blank),Tuzla,34959,Tier 1 - Primary,Istanbul,Apparel,35.0,Store
+13844,Adidas,United States,Headmost International Inc.,1910 Proforma Street,(blank),(blank),Ontario,91761,Tier 2 – Subcontractor,California,Apparel,2.0,Store
+13854,Adidas,Taiwan,Shining Crown Cap Mfg. / Giant Group Cap (Headmost International Inc.),"31 I-Chang East Road,",Tai-Ping City,(blank),Tai Chung,411,Tier 1 - Primary,Taiwan,Apparel,6.0,Store
+13882,Adidas,United States,Modern Stitch and Ink Corp.,102 W. Commercial Ave.,(blank),(blank),Moonachie,7074,Tier 1 - Primary,New Jersey,Apparel,8.0,Store
+13911,Adidas,Vietnam,"Yupoong Vietnam Co., Ltd.","Lot A-2,3,4, LOTECO EPZ,","Bien Hoa, Dong Nai Province",(blank),Bien Hoa,71000,Tier 1 - Primary,Dong Nai,Apparel,66.0,Distribution Centre
+14015,Adidas,Thailand,"VAS Garment (Thailand) Co., Ltd.","30 Moo 13, Kaeng Loeng Jan",Muang ,(blank),Mahasarakham,44000,Tier 1 - Primary,Maha Sarakham,Apparel,92.0,Distribution Centre
+14025,Adidas,Indonesia,P.T. Kahatex,JL. Cijerah Cigondewah Girang No. 16,RT 001/ RW 032 Melong - Cimahi Selatan,Cimahi - Jawa Barat,Cimahi,40534,Tier 1 - Primary,Jawa Barat,Apparel,264.0,Distribution Centre
+14091,Reebok,Indonesia,PT Semarang Garment,Jl. Soekarno - Hatta KM. 25,Kelurahan Wujil,Kecamatan Bergas,Kabupaten Semarang,50552,Tier 1 - Primary,Jawa Tengah,Apparel,336.0,Distribution Centre
+14145,Adidas,Philippines,Kashka and Driggs Corporation,"4 Sampaguita Street , Bgy. Mambugan",Lourdes Subdivision,Sumulong Highway,Rizal,1870,Tier 1 - Primary,Central Luzon,Apparel,4.0,Store
+14146,Reebok,China,"Dongguan Oak Sports Goods Co., Ltd. ",No. 1 Keyuan 4th Road Tangxia Town,(blank),(blank),Dongguan  City,523718,Tier 1 - Primary,Guangdong,"Accessories, Gear",33.0,Store
+14199,Adidas,Indonesia,PT Perdana Firsta Garment,"Jl. Raya Batujajar No 156, KM 1,2 Padalarang",(blank),(blank),Bandung Barat,40553,Tier 1 - Primary,Jawa Barat,Apparel,147.0,Distribution Centre
+14224,Adidas,United States,Cross Canvas Co. Inc.,63 Glendale Rd.,(blank),(blank),Asheville,28803,Tier 1 - Primary,North Carolina,Accessories,3.0,Store
+14274,Adidas,Guatemala,"Corporacion Indyknit, S.A.","5a calle 5-26, ofibodegas, zona 6",(blank),(blank),Villa Nueva,1064,Tier 1 - Primary,Guatemala,Apparel,244.0,Distribution Centre
+14297,Adidas,Malaysia,Kang Sing Manufacturing Sdn Bhd,"Lot 5312,","Batu 19,","Jalan Semenyih,",Semenyih,43500,Tier 1 - Primary,Selangor,Apparel,8.0,Store
+14331,Adidas,United States,Spade (A & K Designs),8325 SE Harney Street,(blank),(blank),Portland,97266,Tier 1 - Primary,Oregon,Apparel,6.0,Store
+14352,Adidas,China,Wiselink Industrial Co Ltd,Tunto Industrial District,Loyang Burgh,Huian,Quanzhou,362100,Tier 1 - Primary,Fujian,Apparel,20.0,Store
+14393,Adidas,Canada,King's embroidery Ltd.,"225 Nugget Ave, Unit 8 & 9",(blank),(blank),Scarborough,M1S 3L2,Tier 1 - Primary,Ontario,Apparel,2.0,Store
+14405,Reebok,China,JunYang (FuQing) Travel Appliances Co Ltd,No. 336 Longjiang Road,Fuqing County,(blank),Fuzhou City,350300,Tier 1 - Primary,Fujian,Accessories,107.0,Distribution Centre
+14457,Adidas,Mexico,"Industrias Manufactureras Myr, S.A. De C.V.",Blvd. Paseo Solidaridad  No. 12325,Col. CFE, ,Irapuato,36660,Tier 1 - Primary,Guanajuato,Apparel,21.0,Store
+14512,Adidas,Hungary,Handtex BT,Kossuth L. u. 21,(blank),(blank),Komlo,7300,Tier 1 - Primary,(blank),Accessories,2.0,Store
+14545,Adidas,China,"Qingdao Atago Apparel Co., Ltd.","No.1, Fenghuang Shan 5 Road","Qingdao Northern Industrial Park,","Jimo City,",Qingdao,266217,Tier 1 - Primary,Shandong,Apparel,87.0,Distribution Centre
+14547,Reebok,China,CHANGSHU KINSEI FASHION CO LTD,"No.1 MEIBEI RD, MEILI TOWN,",(blank),(blank),CHANGSHU,215511,Tier 1 - Primary,Jiangsu,Accessories,15.0,Store
+14571,Adidas,Turkey,Gelal Corap Sanayi ve Ticaret A.S. - IST,Akcaburgaz Mah. 117. Sok. No:2,Esenyurt,(blank),Istanbul,34500,Tier 1 - Primary,Istanbul,Accessories,55.0,Distribution Centre
+14583,Adidas,Cambodia,Grand Twins International (Cambodia) PLC,Phum Trapang Por,Sangkat Chom Chao,Khan Porsenchey,Phnom Penh,12405,Tier 1 - Primary,Phnom Penh,Apparel,536.0,Factory
+14664,Adidas,Dominican Republic,"GARMY SPORTS PRODUCTS, LLC.","ZONA FRANCA INDUSTRIAL DE MOCA,",(blank),(blank),MOCA,51000,Tier 1 - Primary,Espaillat,Gear,10.0,Store
+14683,Adidas,China,Guangzhoushi Cortina Sports Goods Co. Ltd.,"20A,1-2floor","LINGXING INDUSTRY SECTION,LIANHUASHAN BONDED PROCESSING",PANYU,GUANGZHOU City,511447,Tier 1 - Primary,Guangdong,Gear,24.0,Store
+14702,Adidas,China,Bowker Venture Garment Factory (Yun Fu) Co. Ltd.,Zhen Xing Industrial Park,Chucheng Development District,(blank),Yunfu,527300,Tier 1 - Primary,Guangdong,Apparel,238.0,Distribution Centre
+14746,Adidas,India,High Street Fashions Ltd (Unit I),"Plot No : B-17,  &  B-18","22 Godown  Industrial Estate,",Jaipur,Jaipur,302006,Tier 1 - Primary,Rajasthan,Accessories,8.0,Store
+14772,Adidas,United States,Thermaprint Corporation,11 Autry Ste # B,(blank),(blank),Irvine,92618,Tier 2 – Subcontractor,California,Apparel,2.0,Store
+14812,Adidas,Indonesia,PT Hini Daiki Indonesia,"Jl. Raya Ciawi, Kp. Kebon Bencoy, RT.03 RW.04,","Desa Mekarwangi,",Kecamatan Cisayong,Kabupaten Tasikmalaya,46153,Tier 1 - Primary,Jawa Barat,Apparel,67.0,Distribution Centre
+14841,Adidas,Japan,Masaoka Towel Co Ltd. Nagasawa Factory,"Ko, 24",Nagasawa-Aza,Tsuchitori,Imabari,799-1527,Tier 1 - Primary,Ehime,Accessories,6.0,Store
+14871,Adidas,Israel,Hi Tex founded by Tefron LTD,Industrial Zone Misgav,P.O. Box 1365,(blank),Misgav,2017400,Tier 1 - Primary,Northern District,Apparel,30.0,Store
+14897,Adidas,Vietnam,Tung Mung Textile Co. (VN) Pte. Ltd ,"Road 18, Tan Thuan Export Process Zone ",Dist 7,(blank),Ho Chi Minh City,70000,Tier 1 - Primary,Thanh pho Ho Chi Minh,Apparel,102.0,Distribution Centre
+14900,Adidas,Vietnam,BACGIANG BGG GARMENT CORPORATION,"349 Giap Hai, Dinh Ke Ward",(blank),(blank),Bac Giang,23000,Tier 1 - Primary,Bac Giang,Apparel,340.0,Distribution Centre
+14904,Adidas,Malaysia,Grand Apparel Knitting Industries Sdn. Bhd,31,Lorong 6E/91 Taman Shamelin,Perkasa Batu 3 1/2 Cheras,Kuala Lumpur,56100,Tier 1 - Primary,Cheras,Apparel,11.0,Store
+14936,Reebok,El Salvador,Industrias Merlet S.A. DE C.V.,Urb. Industrial La Laguna,"calle circunvalación, polígono A#3",(blank),Antiguo Cuscatlan,1502,Tier 1 - Primary,La Libertad,Apparel,145.0,Distribution Centre
+14954,Adidas,United States,Boathouse,425 E. Hunting Park Avenue,(blank),Philadelphia,Philadelphia,19124,Tier 1 - Primary,Pennsylvania,Apparel,12.0,Store
+14960,Adidas,China,YAYORK PLASTICAL PRODUCTS (SHENZHEN) CO. LTD.,6th Industrial Estate,"Tian Liao Village, ",Gong Ming Guang Ming New District,Shenzhen,518132,Tier 1 - Primary,Guangdong,Gear,75.0,Distribution Centre
+14974,Adidas,Canada,CSG International Inc.,"8660 Ch. Darnley, Suite 102",(blank),(blank),Mont Royal,H4T 1M4,Tier 1 - Primary,Quebec,Apparel,2.0,Store
+14996,Adidas,Vietnam,Shinimex II Co. Ltd.,My Hiep ward,Thai Hoa town,(blank),Tan Uyen,820000,Tier 2 – Subcontractor,Binh Duong,Footwear,146.0,Distribution Centre
+15052,Adidas,Cambodia,New Orient Garments Co LTD,"14, 15, 16, 17 Works",Canadian Industrial Park,"St. Veng Sreng, Chom Chao",Phnom Penh,12000,Tier 1 - Primary,Phnom Penh,Apparel,210.0,Distribution Centre
+15134,Adidas,China,Xiamen Pheasant Hi-Tech Aluminium Co Ltd,No. 3 Industrial District,"Houxi, Xincun, Jimei,",(blank),Xiamen,361024,Tier 1 - Primary,Fujian,Gear,6.0,Store
+15139,Adidas,United States,Ripon Athletic,290 Junction Street,P.O. Box 25,Berlin,Berlin,54923,Tier 1 - Primary,Wisconsin,Apparel,16.0,Store
+15215,Reebok,China,Taka Sporting Goods Inc.,No 8 3rd Industrial Zone,"Xiancun, Gongming Town",Guangming District,Shenzhen,518106,Tier 1 - Primary,Guangdong,"Accessories, Apparel",23.0,Store
+15222,Adidas,Lesotho,JAGUAR SHOES,Mantsebo Street,Maputsoe,Maputsoe,Maputsoe,350,Tier 1 - Primary,Leribe,Footwear,14.0,Store
+15240,Reebok,El Salvador,Chi Fung SA de CV,"Carretera Troncal Del Norte, KM 12",Ciudad Apopa,(blank),San Salvador,,Tier 1 - Primary,San Salvador,Apparel,80.0,Distribution Centre
+15244,Adidas,Vietnam,"Bowker (Vietnam) Garment Factory Co., Ltd","Lot K1-2-3-4-5, Road 6, Dong An IP, Binh Hoa Ward, Thuan An Town, Binh Duong Province, Vietnam",Dong An Industrial Park,Thuan An Town,Binh Duong,70000,Tier 1 - Primary,Binh Duong,Apparel,589.0,Factory
+15385,Adidas,Guatemala,"Textiles Won, S.A.","18 Avenida 37-41, Zona 12",(blank),(blank),Guatemala City,1012,Tier 2 – Subcontractor,Guatemala,Apparel,24.0,Store
+15397,Adidas,China,Fujian Ching Luh Shoes Group Co. LTD.-Gushan,Yuan Yang Village,Fu Ma Road,Fuzhou,Fuzhou,350014,Tier 2 – Subcontractor,Fujian,Footwear,350.0,Distribution Centre
+15410,Adidas,India,M/S LAKHANI FOOTWEAR PRIVATE LTD. (FARIDABAD),Plot No. 266,Sector 24,(blank),Faridabad,121005,Tier 2 – Subcontractor,Haryana,Footwear,228.0,Distribution Centre
+15441,Adidas,China,Fuluh Corporation,"7th Fuxing Investment Zone, Fuxing Road",Gushan Town,Fuzhou,Fuzhou,350014,Tier 1 - Primary,Fujian,Footwear,590.0,Factory
+15453,Adidas,China,"Shanghai Nikki Fashion Co., Ltd.",189 Beidou Road,Minhang Economic & Technological Developement Zone,(blank),Shanghai,200245,Tier 1 - Primary,Shanghai,Apparel,22.0,Store
+15474,Adidas,Guatemala,G&V S.A.,3 Calle 0-65 Zona 1,(blank),(blank),San Pedro Sacatepequez,0,Tier 2 – Subcontractor,Guatemala,Apparel,24.0,Store
+15482,Adidas,Canada,SP Apparel Inc,1237 Industrial Boulevard,(blank),(blank),Granby,J2J 2B8,Tier 1 - Primary,Quebec,Apparel,8.0,Store
+15513,Adidas,China,Qingdao Tenghua Apparel Co.Ltd.,219 North of Chong Qing Road,Chengyang,(blank),Qingdao,266108,Tier 1 - Primary,Shandong,Apparel,35.0,Store
+15517,Adidas,Taiwan,Jen-Wei Knitting Co. Ltd.,"1-8 Hsing Cheng Liao, ","Kung Wei Li, Matou District",(blank),Tainan ,72151,Tier 1 - Primary,Taiwan,"Accessories, Apparel",2.0,Store
+15542,Adidas,Japan,Atago Co Ltd,4 - 13 - 1 Minori,(blank),(blank),Fukui City,0,Tier 1 - Primary,Fukui,Apparel,23.0,Store
+15588,Adidas,Japan,"KANKO GAKUSEIFUKU CO.,LTD. YONAGO FACTORY",01/02/2001,(blank),KuzumoMinami,Yonago,683-0008,Tier 1 - Primary,Tottori,Apparel,23.0,Store
+15591,Adidas,Japan,Matuda Baby Corp,82-2 ,Teradacho,(blank),Kashihara City,634-0817,Tier 1 - Primary,Nara,Accessories,2.0,Store
+15615,Adidas,Vietnam,Pou Yuen Vietnam company limited (PVN) ,D10/89Q National Highway 1A,Tan Tao Ward,Binh Tan District,Ho Chi Minh City,7000,Tier 1 - Primary,Thanh pho Ho Chi Minh,Footwear,1072.0,Factory
+15694,Adidas,Thailand,"Thong Thai Textile Co., Ltd.","No. 21, Soi Phetkasem 81",Ma-Charoen Rd,Nongkhaem,Bangkok,10160,Tier 1 - Primary,Bangkok,Apparel,98.0,Distribution Centre
+15717,Adidas,United States,Indiana Knitwear Corporation,230 East Osage St.,(blank),Greebfield,Greenfield,46140,Tier 1 - Primary,Indiana,Apparel,3.0,Store
+15777,Adidas,Vietnam,"Hwa Seung Vina Co., Ltd.",Nhon Trach 1 Industrial Zone,Nhon Trach District,(blank),Dong Nai,81000,Tier 1 - Primary,Dong Nai,Footwear,1397.0,Factory
+15805,Reebok,China,Zhongshan WeiLi Textile Co. Ltd.,The second Industrial Area,SanXiang Town,(blank),Zhongshan,528463,Tier 1 - Primary,Guangdong,Accessories,380.0,Factory
+15945,Adidas,Indonesia,PT Parkland World Indonesia,Jalan Raya Serang KM.68,Desa Nambo Ilir Kecamatan Kibin,(blank),Serang,42186,Tier 1 - Primary,Banten,Footwear,1085.0,Factory
+15951,Adidas,"Korea, Republic of (South Korea)",Segye Apparel,"51, Gongdan-ro", Geumjeong-gu,(blank),BUSAN,46331,Tier 1 - Primary,Pusan-gwangyoksi,Apparel,5.0,Store
+16624,Adidas,United States,Alstyle Apparel (Chicago),2600 W. Bradley Place,(blank),(blank),Chicago,60618,Tier 1 - Primary,Illinois,Apparel,136.0,Distribution Centre
+17205,Adidas,Italy,Calzaturificio Jumbo SpA,Via Fenil Novo 6,(blank),(blank),San Martino B.A.,37036,Tier 1 - Primary,Veneto,Footwear,8.0,Store
+17336,Adidas,Vietnam,"Fashion Garments 2 Co., Ltd","Road 3, Bien Hoa Industry zone 1, Bien Hoa city, Dong Nai Province",(blank),(blank),Bien Hoa,71000,Tier 1 - Primary,Dong Nai,Apparel,78.0,Distribution Centre
+17505,Adidas,Honduras,Gildan Activewear San Miguel,Parque Industrial Zoli America ,"Carretera a Puerto Cortes, Km 6 ",Contiguo a Kativo de Honduras,Choloma,,Tier 1 - Primary,Cortes,Apparel,465.0,Factory
+17671,Adidas,United States,Guerilla Graffix,1902 Broadway St,(blank),(blank),Rockford,61109,Tier 2 – Subcontractor,Illinois,Apparel,7.0,Store
+17754,Reebok,China,HeShan YaYao Zeng Zhao Shoes Factory ,"No. 136, Xing Ya Road, YaYao Industrial Area, ",YaYao Town,(blank),HeShan,529700,Tier 1 - Primary,Guangdong,Footwear,21.0,Store
+17911,Adidas,Honduras,Industrias de Exportacion S.A. de C.V. (INDEX),Zona Libre Metropolitana Jacaleapa,Colonia Residencial Honduras,Contiguo a UNITEC ,Tegucigalpa,11101,Tier 1 - Primary,(blank),Apparel,238.0,Distribution Centre
+18279,Adidas,China,QMI Industrial (Shanghai) Limited,"515 Yuanfu Rd., Anting Town",(blank),(blank),Jiading,201814,Tier 1 - Primary,Shanghai Shi,Apparel,80.0,Distribution Centre
+18683,Adidas,United States,Melmarc Products Inc,4040 W.Carriage Drive,(blank),(blank),Santa Ana,92704,Tier 1 - Primary,California,Apparel,33.0,Store
+18814,Reebok,Thailand,Nan Yang Garment Co Ltd,27 Phetkasem 71 Road,Nongkangploo,Nongkham,Bangkok,10160,Tier 1 - Primary,Bangkok,Apparel,889.0,Factory
+19312,Reebok,Indonesia,PT Gistex Garmen Indonesia,Jl. Panyawungan KM. 19 Cileunyi,Wetan Kabupaten Bandung ,(blank),Bandung,40622,Tier 1 - Primary,Jawa Barat,Apparel,101.0,Distribution Centre
+19610,Adidas,Argentina,R.A. Intertrading S.A.,Jose I. Rucci (ex Pilar) 3951 / 55,(blank),(blank),Villa Lugano,1439,Tier 1 - Primary,Ciudad Autonoma de Buenoas Aires,Apparel,82.0,Distribution Centre
+20243,Adidas,Colombia,Supertex S.A.,Carrera 35 No-10-707,(blank),(blank),Acopy Yumbo,,Tier 1 - Primary,Valle del Cauca,Apparel,121.0,Distribution Centre
+20620,Adidas,Vietnam,"Unipax Co.,  Ltd","Plot 101/2 +101/4 road 3, Long Binh IP (Amata), Bien Hoa, Dong Nai, Viet Nam",Long Binh Ward,,Bien Hoa City,810000,Tier 1 - Primary,Dong Nai,"Accessories, Apparel",200.0,Distribution Centre
+20642,Reebok,China,Universe Industry Development (Shenzhen) Co. Ltd.,"446, Songbai Road (B1 of 1st floor, 3rd floor, 4th floor and A & B1 of 5th floor of the 1st Block), ",Gongming Street,Guangming New District,Shenzhen, 518106,Tier 1 - Primary,Guangdong,Accessories,34.0,Store
+20798,Adidas,Thailand,V.T. Garment Co. Ltd,"No.602/50 , Soi Sathupradit 48,","Sathupradit Road, ","Bang Pongpang, Yannawa",Bangkok,10120,Tier 1 - Primary,Krung Thep Mahanakhon,Apparel,166.0,Distribution Centre
+20911,Adidas,Madagascar,World Knits (Madagascar) SA,Parc Futura,Andranomena,(blank),101 Antananarivo,(blank),Tier 1 - Primary,(blank),Apparel,105.0,Distribution Centre
+20981,Adidas,Japan,"Monoro, Incorporated","1450-12 Omido, Kamisato-Machi ",(blank),(blank),Kodama-gun,369-0315,Tier 1 - Primary,Saitama,Accessories,3.0,Store
+21125,Adidas,China,HuaEr Technology Group Co. Ltd.,"No. 48, ShiJing Road,","HaiNing Economic Development Zone,",(blank),Haining,314400,Tier 1 - Primary,Zhejiang,Apparel,41.0,Store
+21137,Adidas,China,Zhejiang Wenti Socks Co Ltd,"No. 28 Zhisheng Rd, ",CaoTa County,(blank),ZhuJi,311812,Tier 1 - Primary,Zhejiang,Accessories,10.0,Store
+21281,Adidas,China,Dongguan Zerong Bag Ltd,"No. 382, Jin Xing Road, XiXi Industrial Area",Liaobu,Dongguan,Dongguan,523402,Tier 1 - Primary,Guangdong,Accessories,144.0,Distribution Centre
+23472,Adidas,Pakistan,Interloop Limited (Hosiery Division I),1-Km Khurrianwala-Jaranwala Road,Khurrianwala-faisalabad,(blank),Faisalabad,37630,Tier 1 - Primary,Punjab,Accessories,405.0,Factory
+23599,Adidas,China,Fuzhou Development Zone Mega Union Shoes Co. Ltd.,No.1 Shang Qi Road,Mawei,(blank),Fuzhou,350015,Tier 1 - Primary,Fujian,Footwear,279.0,Distribution Centre
+23602,Adidas,China,Lianjiang Ching Luh Shoes Co.Ltd,"Aojiang Investment Zone,Aojiang Town","Lianjiang,",(blank),Fuzhou,350500,Tier 1 - Primary,Fujian,Footwear,587.0,Factory
+23612,Adidas,Turkey,Arikbey Beysehir,Bahcelievler Mah.,Arik Bey Tekstil Fab. Caddesi,No: 1,Beysehir,42700,Tier 1 - Primary,Konya,Apparel,62.0,Distribution Centre
+23614,Adidas,Turkey,Akkanat,2.Evren Oto Sanayi Sitesi Cd.,No:6 Yan Yol,(blank),Esenyurt / ISTANBUL,34560,Tier 2 – Subcontractor,(blank),Apparel,19.0,Store
+23616,Adidas,Turkey,Beybo Seydisehir,Alaylar 2 Mah. Hafif San. Bol.,"Cevre Yolu uzeri, Kamil Akkanat Cad.,Seydisehir",(blank),Konya,42360,Tier 2 – Subcontractor,Konya,Apparel,36.0,Store
+23642,Adidas,South Africa,Genuine Connection Promotions (PTY) Ltd,PO Box 3208,6 Distillery Rd, Paarl,Paarl,7646,Tier 1 - Primary,Western Cape,Apparel,20.0,Store
+23687,Adidas,Portugal,P&R Texteis S. A.,"Avenida Central, nr. 45",Tamel São Veríssimo ,(blank),Barcelos,4750 - 721,Tier 1 - Primary,Braga,Apparel,16.0,Store
+23688,Adidas,Portugal,P&R (Esposende),"Rua do Agrelo - Rio de Moínhos, 4740-577 - Marinhas, Esposende ",(blank),(blank),Esposende,4740,Tier 1 - Primary,Braga,Apparel,4.0,Store
+23696,Adidas,United States,Latitudes,2425 NE Riverside Way ,(blank),(blank),Portland,97211,Tier 2 – Subcontractor,Oregon,Apparel,9.0,Store
+23726,Adidas,Brazil,Phael Confecçoes de Auriflama Eireli,"Av. Marcos Matarezio,32-57",(blank),(blank),Auriflama,15350-000,Tier 1 - Primary,Sao Paulo,Apparel,32.0,Store
+23727,Adidas,Brazil,Pettenati S.A Ind. Textil - Matriz Confecções,RSC 453 - KM 2400,Distrito Industrial,(blank),Caxias do Sul ,95010-550,Tier 1 - Primary,Rio Grande do Sul,Apparel,63.0,Distribution Centre
+23733,Adidas,Brazil,Dass Sul Calçados e Artigos Esportivos Ltda - Saudades,"R. Marcilio Dias 10, ",Centro,(blank),Saudades,89868 000,Tier 1 - Primary,Santa Catarina,Apparel,61.0,Distribution Centre
+23734,Adidas,Brazil,Ranee Industria e Comercio Ltda. 1 (Pinhalzinho),"Av. Brasilia, 1822",Centro,(blank),Pinhalzinho,89870-000,Tier 1 - Primary,Santa Catarina,Apparel,9.0,Store
+23735,Adidas,Brazil,Ranee Industria e Comercio Ltda.2 (São Carlos),"Av. Santa Catarina, 766",(blank),(blank),São Carlos,89885 000,Tier 1 - Primary,Santa Catarina,Apparel,13.0,Store
+23746,Adidas,Taiwan,Ever Kitbag Co Ltd ,"No 70-5, Yuehu Road",Houli Dist. ,(blank),Taichung City,43755,Tier 1 - Primary,(blank),Accessories,1.0,Store
+23780,Adidas,China,"Suzhou Industrial Park Tianyuan Garments Co., Ltd","No. 157, Yushan Road",New District,(blank),SuZhou,215011,Tier 1 - Primary,Jiangsu,Apparel,56.0,Distribution Centre
+23782,Adidas,China,"JiangSu Tianyuan Garments Co., Ltd",No. 1 Yi Yuan Road,Mingzuling Town,(blank),Xuyi,211758,Tier 1 - Primary,Jiangsu,Apparel,259.0,Distribution Centre
+23784,Adidas,India,Aryan Apparels Pvt Ltd,Sector 4,"Plot No.110, IMT Manesar",(blank),Gurgaon,122050,Tier 1 - Primary,Haryana,Apparel,22.0,Store
+23790,Adidas,Taiwan,Yi Chia Enterprise Co Ltd,"No.14, Ln. 80,","Zhongxing S. St., ",San Chong Destrict,New Taipei City,24158,Tier 1 - Primary,(blank),Apparel,2.0,Store
+23806,Adidas,India,Rider Exports,"116-B/2 - M, Oswal Agro Industrial Complex,","Vijay Inder Nagar, Giaspura.",(blank),Ludhiana,141003,Tier 1 - Primary,Punjab,Apparel,38.0,Store
+23860,Adidas,Vietnam,"TMI (Viet Nam) Co., Ltd",1365/1 National Road 1A,An Phu Dong Ward,(blank),Ho Chi Minh City,70000,Tier 1 - Primary,12 District,Apparel,402.0,Factory
+23864,Adidas,Indonesia,PT Tung Mung Textile Bintan,Jl. Raya Serang Km.24,Balaraja,Tangerang,Tangerang,15610,Tier 1 - Primary,Banten,Apparel,123.0,Distribution Centre
+23873,Reebok,China,"Qingdao Huasheng Socks Co., Ltd",Jifa Industrial Park,Jimo,(blank),Qingdao,266200,Tier 1 - Primary,Shandong,Accessories,23.0,Store
+23876,Adidas,China,Jiangsu Qian Li Ma Stockings Co. Ltd.,Dong Lai Development Area,Yang She Town,(blank),Zhang Jia Gang,215600,Tier 1 - Primary,Jiangsu,"Accessories, Apparel",25.0,Store
+23915,Adidas,China,"Haining BLS Leather Co., Ltd.","No.99 Longxing Road, The Leather City",Industry Zone,(blank),Haining,314400,Tier 1 - Primary,Zhejiang,Apparel,5.0,Store
+23916,Adidas,China,"Jiangsu Liberty Clothing Co., Ltd.",88 Chenfeng Road,(blank),(blank),Jintan,213200,Tier 1 - Primary,Jiangsu,Apparel,130.0,Distribution Centre
+23918,Reebok,Pakistan,Capital Sports Corporation (PVT) Ltd,Capital Sports Corporation (PVT) Ltd,Kashmir Road,Pacca Garha,Sialkot,51310,Tier 1 - Primary,Punjab,Apparel,5.0,Store
+23925,Adidas,Indonesia,PT Tuntex Garment Indonesia - Cikupa 1,Jl. Raya Serang Km 18.8,Desa Bojong,Kecamatan Cikupa,Kabupaten Tangerang,15710,Tier 1 - Primary,Banten,Apparel,116.0,Distribution Centre
+23927,Adidas,China,Yunfu Flir Garment Limited ,"Building F1, 3rd and 4th floors of Building F2, 4th floor ","western part of 3rd floor of Building F3, 1st, 3rd and 4th floor of Building F4","No. 4, Xisan Road, ChuCheng Industrial Zone, Yuncheng District",Yunfu City,527300,Tier 1 - Primary,Guangdong,Apparel,160.0,Distribution Centre
+23967,Adidas,Philippines,Northstar Bags & Luggages ,2/F MQI Center Esteban Abada St.,(blank),Loyola Heights,Quezon City,1108,Tier 1 - Primary,Calabarzon,Accessories,4.0,Store
+23982,Adidas,China,Shantou Yong May Garment Mfg Fty Co Ltd,Build. 4 & 6 Pengzhong Industry Area,"Yingbin South Road, Waisha Town, ",(blank),Shantou,515823,Tier 1 - Primary,Guangdong,Apparel,48.0,Store
+23984,Adidas,Philippines,"Metro Wear, Inc.","Block C-6, 2nd Avenue",Corner 5th St.,Mactan Economic  Zone 1,Lapu-Lapu City,6015,Tier 1 - Primary,Central Visayas,Apparel,202.0,Distribution Centre
+23985,Adidas,Philippines,Mactan Apparels Inc.,"Block B-6, Corner 5th Street, 2nd Avenue  ","Mactan Economic Zone I, Barangay Ibo",(blank),"Lapu-Lapu City, Cebu",6015,Tier 1 - Primary,Central Visayas,Apparel,590.0,Factory
+23987,Adidas,Cambodia,Sportex Industry Co Ltd,National Road #5,Phum Spean Kpos,"Sangkat Kilometre #6 Khan Russey Keo,",Phnom Penh,12100,Tier 1 - Primary,Phnom Penh,Apparel,148.0,Distribution Centre
+23991,Adidas,China,"Zhejiang Huizhong Garments Co., Ltd.","No. 123, ChengGong Road,","HuiMin Street,","JiaShan County,",Jiaxing ,314100,Tier 1 - Primary,Zhejiang,Apparel,61.0,Distribution Centre
+23999,Adidas,China,Guangzhou Tien Sung Sporting Goods Co Ltd,No.3 Tian Sheng Road,Yunpu Industrial Zone,Luogang District,Guangzhou,511458,Tier 1 - Primary,Guangdong,Apparel,60.0,Distribution Centre
+24002,Adidas,China,Ningbo Hopetime Enterprise Co Ltd,148 Huiquan Road,Economic Development Zone,Fenghua,Ningbo,330213,Tier 1 - Primary,Zhejiang,Accessories,20.0,Store
+24015,Adidas,Indonesia,PT Shinko Toyobo Gistex Garment,Jl. Panyawungan KM 19,Desa Cileunyi Wetan,Kecamatan Cileunyi,Bandung,40622,Tier 1 - Primary,Jawa Barat,Apparel,140.0,Distribution Centre
+24041,Adidas,Thailand,"NK Apparel Co., Ltd.","369,370 Moo 4, Banthum","Mueangkhonkaen,", ,Khon Kaen,40000,Tier 1 - Primary,Khon Kaen,Apparel,450.0,Factory
+24044,Reebok,China,"Yantai Enyi Apparel Co., Ltd.","No. 26, Yantai Street,","Economic Development Zone,",(blank),Haiyang,265100,Tier 1 - Primary,Shandong,Apparel,88.0,Distribution Centre
+24065,Adidas,Vietnam,Saigon Jim Brother's Corp (EVM),Binh Chuan Production Area,Binh Chuan Ward,Thuan An Town,Binh Duong,72000,Tier 1 - Primary,Binh Duong,Footwear,606.0,Factory
+24075,Adidas,Indonesia,PT Nikomas Gemilang (PCI adidas),Jl. Raya Serang Km 71,Desa Tambak Kec. Kibin,Kab. Serang,Serang,42185,Tier 1 - Primary,Banten,Footwear,1558.0,Factory
+24080,Adidas,Indonesia,PT Panarub Industry,Jl. Moch Toha Km. 1,Pasar Baru,Desa Gerendeng,Tangerang,15113,Tier 1 - Primary,Banten,Footwear,1014.0,Factory
+24081,Adidas,China,"Jangchun Shoe Manufacturing Dalian Co., Ltd.",Sujia Village,Dalianwan Town,Ganjingzi District,Dalian,116113,Tier 1 - Primary,Liaoning,Footwear,84.0,Distribution Centre
+24082,Adidas,Vietnam,Shyang Hung Cheng Industrial Co. Ltd. (SHC),"An Thanh Production Zone,",An Thanh Ward,(blank),Thuan An Town,72000,Tier 1 - Primary,Binh Duong,Footwear,842.0,Factory
+24084,Adidas,Vietnam,"Chi Hung Co., Ltd.","My Hiep Quater, Thai Hoa ward,",Tan Uyen Town,Binh Duong Province,Binh Duong Province,820000,Tier 1 - Primary,Binh Duong,Footwear,773.0,Factory
+24087,Adidas,China,Dong Guan Yue Yuen Footwear Co Ltd (YYII-YC1),Yue Yuen Industrial Zone 高步鎮裕元工業區,Shaotan,Gaobu Town,Dongguan,523286,Tier 2 – Subcontractor,Guangdong,Footwear,160.0,Distribution Centre
+24090,Adidas,China,Dong Guan Pou Chen Footwear Company Limited,Yue Yuen Industrial Park,Shang Jiang Cheng,Gaobu Town,Dongguan,523287,Tier 1 - Primary,Guangdong,Footwear,422.0,Factory
+24096,Adidas,Japan,Sato Textile Co Inc,817-3Komiyaji ,Shinwa-Machi,(blank),Amakusa-City,863-0101,Tier 1 - Primary,Kumamoto,Apparel,4.0,Store
+24116,Adidas,Japan,Osamura-Meriyasu & Co Ltd,55-7-1,Imajo,Minamiechizen-cho Nanjyo - Gun,Nanjyo-Gun,919-0131 ,Tier 1 - Primary,Fukui,Apparel,6.0,Store
+24117,Adidas,Japan,"Dainan Co., Ltd. (Main Factory)",4539-15,Nakahetsugi,Oita-city,Oita City,879-7761,Tier 1 - Primary,Oita,Apparel,6.0,Store
+24138,Adidas,Italy,Roccafranca SPA,Via Rudiana 4  ,(blank),(blank),Roccafranca,25030,Tier 1 - Primary,Lombardia,Apparel,7.0,Store
+24146,Adidas,China,Evervan Qingyuan Footwear Co. Ltd,"NO. 16 BAPIAN Road, ","Taihe Industrial Park,",Qingxin District,Qingyuan,511800,Tier 1 - Primary,Guangdong,Footwear,420.0,Factory
+24154,Adidas,Cambodia,"Shenzhou (Cambodia) Co., Ltd","Building K&L, Vattanac Industrial Park","Chomchao Street, Sangkat Steoung Mean Chey",Khan Mean Chey,Phnom Penh,12352,Tier 1 - Primary,Phnom Penh,Apparel,584.0,Factory
+24163,Reebok,Indonesia,PT Yuni International ,Kp. Menteng Dua RT.04/RW01.,Desa Pasir Laja,"Kecamatan Sukaraja, Kabupaten Bogor",Bogor,16710,Tier 2 – Subcontractor,Jawa Barat,Apparel,65.0,Distribution Centre
+24174,Adidas,Japan,Apex 3.14 Co Ltd,07-Dec,Kamiyasuda,Maruoka Machi,Sakai City,910-0362,Tier 1 - Primary,Fukui,Apparel,5.0,Store
+24195,Adidas,China,Zhejiang Palma Dress Co Ltd,Shendang Industrial Zone,Haiyan County,(blank),Jiaxing City,314311,Tier 1 - Primary,Zhejiang,Apparel,25.0,Store
+24245,Adidas,"Korea, Republic of (South Korea)",Shin Sung Co Ltd,"(#805 sinnae tacnotown) 123, Bonghwasan-ro",(blank),Jungnang-gu,Seoul,2048,Tier 1 - Primary,(blank),Apparel,1.0,Store
+24252,Adidas,"Korea, Republic of (South Korea)",IL Lim Co,2 Toegye-ro 58-gil,(blank),Jung-gu,Seoul,4615,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,1.0,Store
+24253,Reebok,"Korea, Republic of (South Korea)",Hae Joon Trading Co,#769-1,Kumjeong-dong,(blank),Kunpo City,435-830,Tier 1 - Primary,Kyonggi-do,Apparel,4.0,Store
+24254,Adidas,"Korea, Republic of (South Korea)",Green AP Co Ltd(Factory),"120,44,Yangsan-ro 2-gil",(blank),Songpa-Gu,Seoul,5778,Tier 1 - Primary,(blank),Apparel,4.0,Store
+24276,Adidas,Philippines,Yuenthai Philippines Inc. - Plant 1,1st Avenue Ext.,6th Street Ext.,"Mactan Economic Zone  1, ",Lapu-Lapu,6015,Tier 1 - Primary,Cebu,Apparel,329.0,Distribution Centre
+24314,Adidas,Indonesia,PT Lezax Nesia Jaya,Noyokerten RT 04 / RW 38,"Sendangtirto,  Berbah",Sleman,Sleman,55573,Tier 1 - Primary,Daerah Istimewa Yogyakarta,Accessories,38.0,Store
+24315,Adidas,China,"Shenzhen Lihua Sport Accessories Co.,Ltd ","No.8,BaoXi  Road, Kengzi Office",Pingshan New District,(blank),Shenzhen,518122,Tier 1 - Primary,Guangdong,Hard Goods,18.0,Store
+24316,Adidas,Indonesia,PT Eagle Glove Indonesia,Bayen Village,"Purwomartani, Kalasan",Sleman,Yogyakarta,55571,Tier 1 - Primary,Daerah Istimewa Yogyakarta,Accessories,98.0,Distribution Centre
+24320,Adidas,"Korea, Republic of (South Korea)",Dong San Umbrella,367-8 Yulam-dong,Dong-gu,(blank),Daegu,41125,Tier 1 - Primary,(blank),Hard Goods,0.0,Store
+24323,Adidas,"Korea, Republic of (South Korea)",DaeJin Pia Co Ltd,"44, Geoma-ro 7-gil",Song Pa-Gu,(blank),Seoul,5736,Tier 1 - Primary,(blank),Accessories,0.0,Store
+24325,Adidas,"Korea, Republic of (South Korea)",Yu Shin Corp,190-2-Chung Gok-3Dong,Kwangjin-gu,(blank),Seoul,4906,Tier 1 - Primary,(blank),Accessories,4.0,Store
+24349,Reebok,Pakistan,Forward Sports (PVT) Ltd,P.B. Box 1704,Adda Sahowala,Wazirabad Road,Sialkot,51310,Tier 1 - Primary,Punjab,Accessories,142.0,Distribution Centre
+24352,Reebok,Japan,Molten Corp. Hiroshima,"1-5-8, Nakahiro-Cho",Nishi-Ku,(blank),Hiroshima,7330012,Tier 1 - Primary,(blank),Gear,6.0,Store
+24353,Reebok,Thailand,"Molten (Thailand) Co., Ltd.",666 Moo 11,Sukhaphibarn 8 rd,"Nongkham, Sriracha,",Sriracha,20230,Tier 1 - Primary,Chon Buri,Gear,70.0,Distribution Centre
+24371,Reebok,China,Qingdao Kiyomoto Suhlim Bags Co Ltd,Dongjie Village,Lingshanwei Town,Jiaonan City,Qingdao,266427,Tier 1 - Primary,Shandong,"Accessories, Apparel",10.0,Store
+24375,Adidas,Japan,Suzuki kako,5-489-7,Aioi-cho,(blank),Kiryu,376-0011,Tier 1 - Primary,Gunma,Accessories,1.0,Store
+24383,Adidas,Japan,Shigeno Co Ltd,75-1,Ohtuka Aono-Cho,(blank),Ayabe,623-0011,Tier 1 - Primary,Kyoto,Accessories,3.0,Store
+24390,Adidas,China,"Shanghai Qingpu ACE Luggage & Bags Co.,Ltd",No.4508 Beiqing Rd,Huaxin Town,QingPu District,Shanghai,201705,Tier 1 - Primary,Shanghai,Accessories,47.0,Store
+24393,Reebok,China,"Shanghai Songjiang ACE luggage Co.,Ltd",2589Shebei Road,Sheshan Town,Songjiang District,Shanghai,201602,Tier 1 - Primary,Shanghai Shi,Accessories,37.0,Store
+24398,Reebok,Japan,Daitatsu Co Ltd,111,Gohmae,Ojima-Cho,Nishio,445-0006,Tier 1 - Primary,Aichi,Accessories,1.0,Store
+24402,Reebok,Japan,TOA-STRINGS Oita Factory,81-2,Karishuku,Oaza,Kitsuki-City,873-0031,Tier 1 - Primary,Oita,Accessories,7.0,Store
+24403,Adidas,China,Qingdao Daxian Leather Co Ltd,Maojiazhuang-Chun,Ligezhouang-Zhen,(blank),Jiaozhou Shi,266316,Tier 1 - Primary,Shandong,Accessories,12.0,Store
+24406,Adidas,"Korea, Republic of (South Korea)",JungInSa,#7287-2 ,TaePyung-2dong,Sujung-Gu,SungNam city,13289,Tier 1 - Primary,Kyonggi-do,Accessories,1.0,Store
+24414,Reebok,"Korea, Republic of (South Korea)",Abraham Trading Co Ltd,#538-4,Boogok-dong,(blank),Ansan,426-819,Tier 1 - Primary,Kyonggi-do,Accessories,1.0,Store
+24460,Adidas,Turkey,Arikbey,Akcaburgaz Mah.Ugur Mumcu Cad.no:47 B Blok,Esenyurt,(blank),Istanbul,34552,Tier 1 - Primary,Istanbul,Apparel,24.0,Store
+24473,Adidas,Germany,Willy Maisel GmbH - World of Textiles,Münchberger Straße 46,(blank),(blank),Konradsreuth,95176,Tier 1 - Primary,Freistaat Bayern,Apparel,18.0,Store
+24474,Adidas,Czech Republic,ZDM s.r.o. (World of Textiles),Okruzni 22,(blank),(blank),As,35201,Tier 1 - Primary,Karlovarsky,Accessories,13.0,Store
+24476,Adidas,Tunisia,VTL2,Route de Korba KM 2,(blank),(blank),Menzel Temime,8080,Tier 1 - Primary,Nabeul,Apparel,59.0,Distribution Centre
+24482,Reebok,Syrian Arab Republic,Majed & Mohamed Alzayed Company,Shahnaya,Daraa International Higway,PO Box 197,Damascus,197,Tier 1 - Primary,Dimashq,Apparel,32.0,Store
+24487,Adidas,China,Yixing Huixing Garments Co Ltd,"No.3 Huixing South Road,",Yicheng Town,(blank),Yixing,214200,Tier 1 - Primary,Jiangsu,Apparel,51.0,Distribution Centre
+24495,Adidas,Germany,w-werk. GmbH,Gottesdorferstr. 5,(blank),(blank),Untergriesbach,D-94107,Tier 1 - Primary,Freistaat Bayern,Apparel,1.0,Store
+24499,Adidas,Ukraine,Hoch-Bereg LTD - Facility 1,Petí_fi u. 29,Petí_fi u. 29,(blank),Nagybereg,90242,Tier 1 - Primary,Zakarpats'ka,Accessories,21.0,Store
+24500,Adidas,Ukraine,Hoch-Bereg LTD - Facility 2,Petí_fi u. 7,Petí_fi u. 7,(blank),Nagybegany,90232,Tier 1 - Primary,Zakarpats'ka,Accessories,16.0,Store
+24509,Reebok,Turkey,Erateks Tekstil Sanayi ve Ticaret A.Ş. ,Zafer Mah. 140. Sok. No:45 /1,(blank),(blank),Esenyurt/Istanbul,PK 34513,Tier 1 - Primary,Istanbul,Apparel,10.0,Store
+24519,Adidas,Italy,Pronto Sport Srl.,"via fabio filzi, 16",(blank),(blank),baranzate di bollate,20021,Tier 1 - Primary,Lombardia,Accessories,1.0,Store
+24522,Adidas,Italy,Ricamificio Moda di Peccenini Ornella,Via S. Giovanni Bosco 3,(blank),(blank),Casatenovo,23880,Tier 1 - Primary,lecco,Apparel,0.0,Store
+24523,Adidas,Italy,Serigrafia Bonanomi,via trieste 26,(blank),(blank),erba,22036,Tier 1 - Primary,Lombardia,Apparel,1.0,Store
+24550,Reebok,Austria,Silhouette International,Elbognerstrasse 24,(blank),(blank), Linz,4021,Tier 1 - Primary,(blank),Accessories,52.0,Distribution Centre
+24551,Reebok,Czech Republic,A.Schmied s.r.o.,"Husova 560, PO-Box 42",(blank),(blank),Trhove Sviny,37401,Tier 1 - Primary,Jihocesky,Accessories,31.0,Store
+24552,Reebok,Spain,"COTY SPAIN, S.L.U.",Polígono Industrial Congost,"Avda. Sant Julià, 168 - 180",(blank),Granollers,8403,Tier 1 - Primary,Catalunya,Accessories,73.0,Distribution Centre
+24554,Reebok,Portugal,"Colep Portugal, SA",Rua Comendador Arlindo Soares Pinho no. 1977,Lordelo Vila Cha.,(blank),Vale de Cambra,3730-423,Tier 1 - Primary,Aveiro,Accessories,49.0,Store
+24698,Adidas,Vietnam,"Eins Vina Co., Ltd",7A Thong Nhat Road,Song Than Industrial Zone II,Di An District,Ho Chi Minh City,72000,Tier 1 - Primary,Binh Duong,Apparel,549.0,Factory
+24712,Adidas,Vietnam,"Domex (Vietnam) Co.,Ltd.",Lot 27-29,Linh Trung EPZ-1,"Thu Duc Dist,",Ho Chi Minh,700000,Tier 1 - Primary,(blank),Apparel,121.0,Distribution Centre
+24743,Reebok,Pakistan,Starpak Martial Arts (Pvt) Ltd,"6-Km,","Wazirabad Road near Noul,",(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Apparel,55.0,Distribution Centre
+24774,Reebok,Lesotho,LESOTHO PRECIOUS GARMENTS (PTY) LTD,Site # 12273-001-12 Lioli Road,Maseru Industrial Estate,(blank),Maseru,100,Tier 1 - Primary,Maseru,Apparel,331.0,Distribution Centre
+24790,Reebok,Vietnam,"JC Int’l Vina Co., Ltd","Hoa Lan Quarter, Thuan Giao Ward",Thuan An Town,Binh Duong Province,Binh Duong,72000,Tier 1 - Primary,Binh Duong,Apparel,99.0,Distribution Centre
+24825,Adidas,Vietnam,"Dinsen (Binh  Tan)Enterprise Co.,Ltd","Lot B3, Lot J1, J2, D10/89 Q ",National Road No. 1A (Building B),"Tan Tao Ward, Binh Tan Dist",HoChiMinh,70930,Tier 1 - Primary,Thanh pho Ho Chi Minh,Apparel,513.0,Factory
+24906,Adidas,India,Apache Footwear India Private Ltd,"APIIC Industrial park, Mambattu Village","Tada Mandal, SPSR Nellore District",(blank),Tada,0,Tier 1 - Primary,Andhra Pradesh,Footwear,886.0,Factory
+24926,Adidas,Brazil,Selene Industria Textil S.A.,"R. do Velho Ramal, 490- po box 18",(blank),(blank),Cerquilho,18.520-000,Tier 1 - Primary,Sao Paulo,Apparel,132.0,Distribution Centre
+24933,Adidas,India,High Street Fashions Ltd ( Unit -II ),"B-3, & B-4 , 22  Godown  Industrial Estate",Jaipur-302006 ( Rajasthan ),(blank),Jaipur,302006,Tier 1 - Primary,Rajasthan,Accessories,9.0,Store
+24968,Adidas,Spain,Fello S.A.,C/Bures 1,(blank),(blank),Castelbell I El Vilar,08226 ( BARCELONA) ,Tier 1 - Primary,Catalunya,Apparel,0.0,Store
+25014,Adidas,Spain,Varisport S.L.,C/ Luis Vives 10,(blank),(blank),Sabadell,8206,Tier 1 - Primary,Catalunya,Apparel,0.0,Store
+25015,Adidas,Spain,Ditex S.L,POLIGONO DE MALPICA. CALLE PARC.14 NAVE 2,(blank),(blank),Zaragoza,50016,Tier 1 - Primary,Zaragoza,Apparel,2.0,Store
+25016,Adidas,Spain,Crechi International S.A.,"C/ La Huerta, 2",L´Eliana,(blank),La Eliana,46183,Tier 1 - Primary,Valencia,Accessories,0.0,Store
+25017,Adidas,Spain,Castma S.L,"AVDA.BENICASIM, S/N-POL.IND.ESTADIO,5-6-7",(blank),(blank),Castellón,12004,Tier 1 - Primary,Valencia,Accessories,1.0,Store
+25091,Reebok,Sri Lanka,Ceylon Knit Trend (Pvt) Limited,Divurumpitiya,Getahetta,(blank),Eheliyagoda,70620,Tier 1 - Primary,Sabaragamuwa,Apparel,108.0,Distribution Centre
+25101,Adidas,Philippines,Feeder Apparel Corp.,"Block C-5, 5th Street cor. 2nd Ave., ",Mactan Economic Zone 1,(blank),Lapu-Lapu City,6015,Tier 1 - Primary,Central Visayas,Apparel,310.0,Distribution Centre
+25102,Adidas,Vietnam,"Keum Kwang Vina Co., Ltd","PHU AN COMMUNE, BEN CAT DIST.",(blank),(blank),Binh Duong,72000,Tier 1 - Primary,Binh Duong,Apparel,113.0,Distribution Centre
+25108,Reebok,Vietnam,Lawnyard Vietnam Co. Ltd.,"F4-F6 RD4, Industry Zone Le Minh Xuan",Binh Chanh District,(blank),Ho Chi Minh,Not Applicable,Tier 1 - Primary,(blank),Apparel,35.0,Store
+25110,Adidas,Vietnam,"Shinwoo Vietnam Co., Ltd.","Lots 85-86, Road 04",Linh Trung Export Processing Zone,"& Industrial Park III, An Tinh village, Trang Bang",Tay Ninh,73000,Tier 1 - Primary,Tay Ninh,"Accessories, Hard Goods",51.0,Distribution Centre
+25149,Adidas,Taiwan,Chiad Hong Industry Co Ltd,No.25 Lane 466," Sec. 9, Xiangshang Rd., ",Wu-qi Dist.,"Taichung City, Taichung County",43547,Tier 1 - Primary,Taiwan,Accessories,1.0,Store
+25184,Adidas,Pakistan,Awan Sports Unit 5,9km Daska Road,(blank),(blank),Adha Sialkot,51310,Tier 1 - Primary,Punjab,Gear,144.0,Distribution Centre
+25196,Adidas,Vietnam,"Esprinta (Vietnam) Co., Ltd","Road No.12, Song Than II Industrial Zone,","Di An town,",(blank),"Di An town,",820000,Tier 1 - Primary,Binh Duong,Apparel,593.0,Factory
+25211,Adidas,China,"JIAXING QUANG VIET GARMENT CO.,LTD.",Pingxingxian Tongxinduan 318,Xindai Town,(blank),Pinghu City,314211,Tier 1 - Primary,Zhejiang,Apparel,212.0,Distribution Centre
+25212,Adidas,China,Wuxi Pacific Knitting Co. Ltd.,"No8,No4 JINSHAN BRANCH ROAD","JINSHANBEI INDUSTRY PARK,","NO. 888 JIANGHAI ROAD(W),",WUXI ,214000,Tier 1 - Primary,Jiangsu,Apparel,30.0,Store
+25227,Adidas,China,Fu Son Garment Factory,#1 Beiqu Avenue,Yagang Village,Sanxiang Town,Zhongshan,528463,Tier 1 - Primary,Guangdong,Apparel,98.0,Distribution Centre
+25380,Adidas,United States,T Formation of Tallahassee Inc.,864 Commerce Blvd.,(blank),(blank),Midway,32343,Tier 2 – Subcontractor,Florida,Apparel,10.0,Store
+25653,Adidas,Indonesia,PT Marel Sukses Pratama,"Jl. Baru Mulungan, Gondang Penen",RT 05 / RW 28,"Sendangadi, Mlati",Sleman,55285,Tier 1 - Primary,Daerah Istimewa Yogyakarta,Accessories,19.0,Store
+25728,Adidas,China,Shanghai Challenge Garment Co Ltd,"Building 3, No.1918 ",Tingfeng Road,"Tinglin,",JinShan District,201504,Tier 1 - Primary,Shanghai,Apparel,60.0,Distribution Centre
+25736,Reebok,Vietnam,Vinh phuc textile company LTD,Tien phong _ Me Linh _ Hanoi_ Vietnam,(blank),(blank),Hanoi,14017,Tier 1 - Primary,Thu Do Ha Noi,Accessories,24.0,Store
+25737,Reebok,China,"Shanghai Qianrun Garments Co., Ltd","No.233, Lane1888, Daye Road,","WuQiao Industrial Zone,","FengXian District,",Shanghai,201402,Tier 1 - Primary,Shanghai Shi,Apparel,17.0,Store
+25748,Adidas,Japan,"Hollyhock Co., Ltd",731,Saijo,Kanno-cho,Kakogawa-shi,675-0009,Tier 1 - Primary,Hyogo,Accessories,3.0,Store
+25750,Adidas,Japan,"KANKO APPAREL CO.,LTD. SAKITA FACTORY",582,Ohazasakita,(blank),Kushima-shi,888-0009,Tier 1 - Primary,Miyazaki,Apparel,6.0,Store
+25751,Adidas,Japan,"KANKO APPAREL CO.,LTD. SHIMANE FACTORY",5432-1,Nonami,Shimane-cho,Matsue-shi,690-1212,Tier 1 - Primary,Shimane,Apparel,7.0,Store
+25753,Adidas,Japan,"KANKO GAKUSEIFUKU CO.,LTD. SHIBUSHI FACTORY",143,Anraku,Shibushi,Shibushi-shi,899-7104,Tier 1 - Primary,Kagoshima,Apparel,16.0,Store
+25793,Adidas,"Korea, Republic of (South Korea)",JuYoung Company,"117, Sagimakgol-ro,",(blank),Jungwon-gu,Sungnam,13202,Tier 1 - Primary,Kyonggi-do,"Accessories, Apparel",0.0,Store
+25835,Adidas,Canada,Silver Crystal Sports Inc.,1141 Roselawn Ave,(blank),(blank),Toronto,M6B 1C5,Tier 1 - Primary,Ontario,Apparel,12.0,Store
+25929,Adidas,China,"Ningbo Shenzhou Knitting Co.,Ltd.(No. 5) / Ningbo Shenzhou Knitting Co.,Ltd. No.5 Garment Factory"," No.38 Fengyang Road , Economic Technical Developm",(blank),(blank),Ningbo,315800,Tier 1 - Primary,Zhejiang,Apparel,239.0,Distribution Centre
+25989,Adidas,Vietnam,Lacty Company Limited,No. 3-5 Ten Lua Street,An Lac A Ward,Binh Tan District,Ho Chi Minh,700000,Tier 1 - Primary,Ho Chi Minh,Footwear,241.0,Distribution Centre
+25999,Adidas,South Africa,Yash Clothing Manufactures,CNR Temple and ,Prospect Roads,Umzint,Durban,4200,Tier 2 – Subcontractor,KwaZulu-Natal,Apparel,8.0,Store
+26050,Reebok,China,GuangZhou GuanSheng Footwear Co Ltd,"No. 12, Industrial Avenue, Huadu District",(blank),(blank),Guangzhou City,510800,Tier 1 - Primary,Guangdong,Footwear,35.0,Store
+26149,Adidas,Taiwan,Tay Hsin Knitting Co Ltd,"No . 71 Chien San Rd,",Chung Ho ,(blank),New Taipei City,23585,Tier 1 - Primary,(blank),Apparel,1.0,Store
+26286,Adidas,United States,Alstyle Apparel / A&G Inc.,1501 E. Cerritos Ave,(blank),(blank),Anaheim,92805,Tier 1 - Primary,California,Apparel,20.0,Store
+26333,Adidas,Brazil,Tecnotextil Confecções Ltda,"RUA REGINA CELIA VICCENTINI, 227",(blank),(blank),TRES PONTAS,37190-000,Tier 1 - Primary,Minas Gerais,Apparel,64.0,Distribution Centre
+26341,Adidas,China,Universal (ZhongShan) Garment Co Ltd,"Ping Dong Industrial Zone,Dong Cheng Lu No.1",San Xiang Town,(blank),Zhongshan,528463,Tier 1 - Primary,Guangdong,Apparel,43.0,Store
+26363,Reebok,Pakistan,Mansha & Brothers PVT.Ltd.,"Wazirabad Road, Ugoki",(blank),(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Gear,68.0,Distribution Centre
+26396,Reebok,Taiwan,Pang mei sport Co. Ltd.,"No 368, Fudao Rd",Lukang Township,Changhua County,Taichung,50562,Tier 1 - Primary,Taichung,Gear,2.0,Store
+26401,Reebok,Taiwan,Torng Yaw Co. Ltd.,"No. 49, Alley 3, Lane 217",Chung Cheng Road,Yung Kang District,Tainan City,71043,Tier 1 - Primary,Taiwan,Gear,3.0,Store
+26402,Reebok,Taiwan,Twou Tson Enterprise Co. Ltd.,"No. 50, Lane 33, Sec 5, Chung Ho St. ",Shin Sheh District,(blank),Taichung City,42643,Tier 1 - Primary,Taiwan,Gear,2.0,Store
+26500,Reebok,China,Ningbo Jiana Dress Co. Ltd.,"Building D, Inside JiaLe Industrial Park,","No. 189, TongDe Road, GuLin Town,","YinZhou District,",Ningbo,315176,Tier 1 - Primary,Zhejiang,Apparel,36.0,Store
+26831,Adidas,United States,PFI Fashions,"W986 HWY B, P.O. BOX 190",(blank),(blank),Genoa City,53128,Tier 2 – Subcontractor,Wisconsin,Apparel,6.0,Store
+26873,Reebok,Egypt,FUTURE FASHION,"92 A-1st industrial Zone, (Free Zone)",(blank),(blank),Giza,12581,Tier 1 - Primary,6th of October,Apparel,33.0,Store
+26904,Adidas,Italy,poliflex,via pintor 8,(blank),(blank),carpi,41012,Tier 1 - Primary,Emilia-Romagna,Accessories,1.0,Store
+26908,Adidas,China,Ningbo Shenzhou Knitting Co Ltd (Factory 4),26 Nanhai Road,Economic Technical Development Zone,Dagang Industrial,Ningbo,315800,Tier 1 - Primary,Zhejiang,Apparel,445.0,Factory
+26988,Reebok,China,"Jiangsu Asian Sourcing Headwear MFG. Co., Ltd",No. 2  South Guangzhou Road,Economic and Technology Development Zone,(blank),Huai An City,223005,Tier 1 - Primary,Jiangsu,Accessories,107.0,Distribution Centre
+27043,Adidas,Italy,Stamperia Alicese,Via Torino 73,(blank),(blank),Cavaglià,13881,Tier 1 - Primary,Biella,Apparel,5.0,Store
+27068,Adidas,Thailand,"Titan Sports Wear Co., Ltd.",244 Moo 5.  Tumbol Donhun,Amphur Maung,(blank),Khon Kaen,40260,Tier 1 - Primary,Khon Kaen,Apparel,85.0,Distribution Centre
+27069,Adidas,Indonesia,PT Ching Luh Indonesia,JL. Raya Serang KM 16,(blank),(blank),Tangerang,15710,Tier 1 - Primary,Banten,Footwear,900.0,Factory
+27249,Adidas,Honduras,Pinehurst Manufacturing GMBH,"Zoli St Andrews, Colonia Agua Prieta ",Sector Rivera Hernandez,"San Pedro Sula, Cortes, Honduras",San Pedro Sula,,Tier 1 - Primary,Cortes,Apparel,142.0,Distribution Centre
+27515,Adidas,China,Jiangsu Huihe Garments Co.Ltd,No.218 Liang Chang Road,(blank),(blank),Jin Tan,213200,Tier 1 - Primary,Jiangsu,Apparel,13.0,Store
+27579,Reebok,Egypt,ELITE MERCHANDISING CORP.,St. 8,El-Amrya Public Free Zone,(blank),Alexandria,23512,Tier 1 - Primary,Iskandariyah,Apparel,75.0,Distribution Centre
+27627,Adidas,South Africa,Indigo Brands (Pty) Ltd.,16-20 Evans Avenue,Epping 1,(blank),Cape Town,7460,Tier 1 - Primary,Western Cape,Accessories,38.0,Store
+27661,Adidas,United States,SFO Apparel Company,41-43 Park Place,(blank),(blank),Brisbane,94005,Tier 1 - Primary,California,Apparel,10.0,Store
+27814,Reebok,Poland,ColepCCL Polska,Ul. Przemyslowa 10,(blank),(blank),Kleszczów,97-410,Tier 1 - Primary,Lodz,Accessories,46.0,Store
+27900,Adidas,Japan,"KANKO APPREL CO.,LTD. HOUKI FACTORY","775, Kishimoto",Houki-Machi,(blank),Saihaku-gun,689-4132,Tier 1 - Primary,Tottori,Apparel,5.0,Store
+27901,Adidas,Japan,"KANKO APPAREL CO.,LTD. OHDA FACTORY","437-1, SHIZUMA",SHIZUMA MACHI,(blank),OODA City ,694-0031,Tier 1 - Primary,Shimane,Apparel,12.0,Store
+27902,Adidas,Japan,"KANKO APPAREL CO.,LTD. HIGASHINEJIME FACTORY","2388 Yokobeppu, Nejime",Minamiosumi-Machi,(blank),Kimotsuki-Gun,893-2503,Tier 1 - Primary,Kagoshima,Apparel,10.0,Store
+27997,Reebok,Mexico,"Forta Lab, S.A. de C.V.",Av. Central 206,Manzana 2,Parque Industrial Toluca 2000,Toluca,50233,Tier 1 - Primary,Toluca,Accessories,20.0,Store
+28092,Adidas,Argentina,Dass Suarez S.a.,"Olavarria, 636",(blank),(blank),Coronel Suárez,7540,Tier 1 - Primary,Buenos Aires,Footwear,81.0,Distribution Centre
+28120,Adidas,United Kingdom,Advanced Processing Limited,Sidhill Business Park,Holmfield Industrial Estate,Holmfield,Halifax,HX2 9TN,Tier 1 - Primary,England,Apparel,37.0,Store
+28123,Adidas,United Kingdom,Blue Moon Promotions Ltd,Unit 8A ,Pool Street Industrial Estate,(blank),Macclesfield,SK11 7NX,Tier 1 - Primary,England,Apparel,1.0,Store
+28139,Reebok,Taiwan,Everstrong Spring Industry Co Ltd,"No 45, Sec 4","Fu San Road, Fu Hsing Township",Changhua County,Chang Hua Hsien,50602,Tier 1 - Primary,(blank),Gear,1.0,Store
+28152,Reebok,Monaco,COTY Monaco,6 Avenue Prince Albert II,(blank),(blank),Monaco,98000,Tier 1 - Primary,(blank),Accessories,20.0,Store
+28178,Adidas,United States,"S.M. Athletics, Inc.",10421 Lexington Drive,(blank),(blank),Knoxville,37932,Tier 1 - Primary,Tennessee,Apparel,3.0,Store
+28216,Adidas,Vietnam,"TMI (Viet Nam) Co., Ltd (Factory 2)",1657/3E National Road 1A,An Phu Dong Ward,(blank),Ho Chi Minh,70000,Tier 1 - Primary,Dist 12,Apparel,192.0,Distribution Centre
+28335,Reebok,Spain,PREVAL S.A.,Av. Castell de Barberá 43 - 45,(blank),(blank),Barbéra del Vallés,8210,Tier 1 - Primary,Barcelona,Accessories,3.0,Store
+28337,Reebok,Spain,"IGEPAK, S.A.",Legarda Kalea No. 2,(blank),(blank),Usurbil,20170,Tier 1 - Primary,Euskal Autonomia Erkidegoa,Accessories,9.0,Store
+28494,Reebok,Thailand,"New Asia Sports Goods Co., Ltd","55 Suwintawong Rd., Kratumrai, Nongchok, Bangkok, 10530, Thailand.",(blank),(blank),Bangkok,10530,Tier 1 - Primary,Bangkok,Gear,16.0,Store
+28495,Adidas,Philippines,Ponderosa Leather Goods Co,"#2 Sumulong Highway, Bo. Mayamot",(blank),(blank),Antipolo,1820,Tier 1 - Primary,Rizal,Accessories,46.0,Store
+28552,Adidas,United States,Printed Matter,27 Pleasant St.,(blank),(blank),Newfields,3856,Tier 1 - Primary,New Hampshire,Apparel,4.0,Store
+28622,Adidas,United Kingdom,TRC Ltd,Kestrel Mill,Wellington St,Hyde,Cheshire,SK14 2BU,Tier 1 - Primary,England,Apparel,1.0,Store
+28629,Adidas,Pakistan,Forward Gear (Pvt) Ltd.,Adha Sahowala,Wazirabad Road,(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Accessories,136.0,Distribution Centre
+28685,Adidas,China,GP2 Xinfeng Plant Limited,"No.63, XinFeng Industrial Park","XinFeng County, ",(blank),Ganzhou,341600,Tier 1 - Primary,Jiangxi,Accessories,77.0,Distribution Centre
+28737,Adidas,United Kingdom,Slick Stitch Embroidery Co. Ltd.,Old Heath Road,Wolverhampton,(blank),Wolverhampton,WV1 2BF,Tier 1 - Primary,England,Apparel,25.0,Store
+28760,Reebok,Taiwan,Lien Yei Garment Factory,"No. 413 Section 2, Ching Yun Road",Tou Chen Town,I-lan Hsing,YILAN COUNTY,261,Tier 1 - Primary,Taiwan,Apparel,2.0,Store
+28774,Reebok,China,"Ningbo Sunful Travelling Goods Co,Ltd",No 46 Hongxiang Rd,Hongtang Industrial Zone A,Jiangbei District,Ningbo,315033,Tier 1 - Primary,Zhejiang,Accessories,16.0,Store
+28785,Adidas,Germany,Fritsche Accessories GmbH,Zeppelinstrasse 1 ,(blank),(blank),Helmbrechts,95233,Tier 1 - Primary,Freistaat Bayern,Accessories,4.0,Store
+28859,Adidas,United States,"Dehen Jackets, Inc.",1040 NE 44th Ave,(blank),(blank),Portland,97267,Tier 1 - Primary,Oregon,Apparel,2.0,Store
+29045,Reebok,Portugal,"4teams - Advertising & Merchandising, Lda.","Rua da Industria, 89",PO Box 160,(blank),Vizela,4815-901,Tier 1 - Primary,Minho,Apparel,6.0,Store
+29064,Adidas,Vietnam,"Hung Way Co., Ltd","Area C, Lot.R. 29b-33-35-37-39","Tan Thuan Road, Tan Thuan Export Processing Zone","Tan Thuan Dong Ward, District 7 ",Ho Chi Minh,700000,Tier 1 - Primary,Thanh pho Ho Chi Minh,Accessories,170.0,Distribution Centre
+29085,Adidas,Vietnam,Hwa Seung Vina Co. Ltd (Vung Tau branch),844 binh Gia,Rach Dua ward,(blank),Vung Tau,79000,Tier 2 – Subcontractor,Ba Ria-Vung Tau,Footwear,181.0,Distribution Centre
+29086,Adidas,Vietnam,Hwa Seung Vina Co.Ltd (Long Thanh branch),"Valley 47, Industrial Group",Tam Phuoc Commune,(blank),Bien Hoa,810000,Tier 2 – Subcontractor,Dong Nai,Footwear,143.0,Distribution Centre
+29095,Reebok,Vietnam,"PHI Co., Ltd.","No. 10, Dai An Industrial Zone, Tu Minh ",(blank),(blank),Hai Duong,17000,Tier 1 - Primary,Hai Duong,Apparel,51.0,Distribution Centre
+29825,Adidas,Portugal,Petratex S. A.,"Rua de Bande, nŒ_429 4590-049 Carvalhosa PaŒos de Ferreira",(blank),(blank),PaŒos de Ferreira,4590-049,Tier 1 - Primary,Pacos de Ferreira,Apparel,54.0,Distribution Centre
+30600,Adidas,Sri Lanka,MAS Active (Pvt) Ltd - Contourline Division,"Kandy Industrial Park , BOI","Pallekele , Kandy , Sri Lanka",,Pallekele,20000,Tier 1 - Primary,Central Province,Apparel,106.0,Distribution Centre
+30652,Adidas,India,Euro Clothing Company,"122/1, Doddabidarekallu Village","Yeshwanthpur Hobli, Tumkur Road",,Bangalore,560 073,Tier 1 - Primary,Karnataka,Apparel,99.0,Distribution Centre
+30723,Adidas,Taiwan,"Hope Land Enterprise Co., Ltd.","No.125 Alley 491, Sec.1, Liu Yin Road",Shin Lin Tsun,Liu Yin Hsiang,Tainan,736,Tier 1 - Primary,Taiwan,Accessories,11.0,Store
+30761,Adidas,Belgium,Jules Clarysse NV,Brugsesteenweg 106,(blank),,Pittem,8740,Tier 1 - Primary,Flemish,Accessories,16.0,Store
+30781,Adidas,Japan,Kitai Co Ltd,32 Taka,(blank),(blank),Kashiba-shi,6390241,Tier 1 - Primary,Nara,Accessories,10.0,Store
+30897,Adidas,Indonesia,PT Dayup Indo,"NUSANTARA BONDED ZONE (KBN), JL. MADURA 6 BLOCK D13A",CAKUNG CILINCING,,JAKARTA,14140,Tier 1 - Primary,DKI JAKARTA,"Accessories, Apparel",124.0,Distribution Centre
+30901,Adidas,Indonesia,PT. Grand Best Indonesia,"Jl. Coaster No. 8 Blok B 18, 19, 20,  21, 22  Tanjung Emas Export Processing Zone, Semarang",TANJUNG EMAS EXPORT PROCESSING ZONE,,Semarang,50174,Tier 1 - Primary,Jawa Tengah,Apparel,100.0,Distribution Centre
+31008,Adidas,South Africa,SOCKIT MANUFACTURING PTY,9 GLENHURST BEACONVALE,(blank),,Cape Town,7500,Tier 1 - Primary,Western Cape,Apparel,7.0,Store
+31129,Reebok,Japan,Yorks Co Ltd,609-2 Minato,(blank),(blank),Higashi Kagawa,769-2798,Tier 1 - Primary,Kagawa,Accessories,1.0,Store
+31138,Adidas,"Korea, Republic of (South Korea)",zen international Co.LTD,"215, Gomdallae-ro",(blank),Gangseo-gu,Seoul,7749,Tier 1 - Primary,KOREA,Apparel,1.0,Store
+31181,Reebok,United States,Big Game Sports,13835 Welch Rd,Suite #103,,Dallas,75244,Tier 1 - Primary,Texas,Gear,4.0,Store
+31365,Adidas,China,Bowker Yee Sing Gmt Fty (He Yuan) Co. Ltd.,"No. 380-388 He Yuan Wide Road,",(blank),(blank),"He Yuan,",517000,Tier 1 - Primary,Guangdong,Apparel,92.0,Distribution Centre
+32230,Adidas,India,Triangle Apparels VI (Fully owned of M/S Seven Hills Clothing Pvt Ltd.),"No.25/26, 3rd Main,","Industrial Suburb, Yeshwanthpur,",Bangalore,Bangalore-560 022,560022,Tier 1 - Primary,Karnataka,Apparel,197.0,Distribution Centre
+32824,Reebok,Thailand,"Universal Apparel (Thailand) Co., Ltd.","110 Moo 13,  Mitraphab Rd Bantrad,",Udon Thani,(blank),Udonthani,41150,Tier 1 - Primary,Udon Thani,Apparel,102.0,Distribution Centre
+33313,Adidas,India,Arnit Creations Pvt Ltd,C-117-118,Hosiery Complex,Phase - II Extension,Noida,201305,Tier 1 - Primary,Uttar Pradesh,Apparel,38.0,Store
+33660,Adidas,Slovenia,Etiketa Tiskarna D.D.,Industrijska ulica 6,(blank),(blank),Ziri,4226,Tier 2 – Subcontractor,Ziri,Apparel,22.0,Store
+33974,Adidas,India,Mochiko Shoes Pvt. Ltd.,"Khasra No.-3912, Lal Tappar Industrial Area","Majri Grant, NH-72",(blank),Dehradun,248140,Tier 2 – Subcontractor,Uttarakhand,Footwear,36.0,Store
+33980,Reebok,Vietnam,PUNGKOOK SAIGON III Co Ltd,"1A QUARTER, AN PHU WARD,",Thuan An Town,(blank),Binh Duong,820000,Tier 1 - Primary,Binh Duong,Accessories,285.0,Distribution Centre
+34032,Adidas,China,Smartballs Ag.,"Lushan City Industrial Park, Jiujiang City,","Jiangxi Province, China",(blank),Jiujiang City,332800,Tier 1 - Primary,Jiangxi,Gear,80.0,Distribution Centre
+34076,Adidas,Vietnam,"Alliance One Apparel Co., Ltd","Lot B1, B2, B5, B6, B7, B8, B9, B10, B11, B12","Giao Long IP, An Phuoc Commune,","Chau Thanh District,",Ben Tre,930000,Tier 1 - Primary,Ben Tre,Apparel,16.0,Store
+34151,Reebok,Vietnam,"GREAT GLOBAL INTERNATIONAL CO., LTD.","C3.6, GIAN KHAU INDUSTRIAL PARK, GIA TAN COMMUNE,",GIA VIEN DISTRICT,(blank),NINH BINH,430000,Tier 1 - Primary,Ninh Binh,Apparel,225.0,Distribution Centre
+34215,Adidas,Pakistan,Kay & Emms (Pvt ) Ltd,"117 JB Dhanola, Millat Road",(blank),(blank),Faisalabad,38000,Tier 1 - Primary,Punjab ,Apparel,100.0,Distribution Centre
+34222,Adidas,Vietnam,Longway Viet Nam Company Limited,"Lot HC1, Road 3",Xuyen A Industrial Park,My Hanh Bac Commune,Tan An,850000,Tier 1 - Primary,Long An,"Accessories, Apparel",138.0,Distribution Centre
+34248,Reebok,China,"Shanghai Weijie Garment Co., Ltd.","No. of 1228, Huiping Road,",Nanxiang Town,Jiading District,Shanghai,201802,Tier 1 - Primary,Shanghai,Apparel,59.0,Distribution Centre
+34345,Adidas,India,Infiiloom India Private Limited,"Gat No. 1231 (Part) Sanaswadi, ",Taluka Shirur ,District Pune,Pune,412208,Tier 1 - Primary,Maharashtra,Accessories,90.0,Distribution Centre
+34373,Reebok,United States,Coty US LLC,1400 Broadway Road,(blank),(blank),Sanford,27332,Tier 1 - Primary,North Carolina,Accessories,43.0,Store
+34388,Reebok,Taiwan,Jou Young Industrial Co Ltd,"No 500, Sec 1, Sing Loa Road",Tien Jhong Town,Chang Hua Country,Tienjhong,52046,Tier 1 - Primary,(blank),Gear,3.0,Store
+34389,Reebok,Taiwan,REN-E Sports Goods Co Ltd,"No 168, 14 Alley",Nan Yang 6 Rd,Sha Lu,Taichung Hsien,433,Tier 1 - Primary,(blank),Gear,3.0,Store
+34540,Adidas,Jordan,Al Masera Textiles Co. [Bdg.1],Alhassan Industrial Estate,PO Box 43,(blank),Irbid,21110,Tier 1 - Primary,Irbid,Apparel,41.0,Store
+34659,Adidas,Philippines,GMI-Central Warehouse and Training Center,"3rd St., Block E2",Mactan Economic Processing Zone 1,(blank),Lapu-Lapu City,6015,Tier 2 – Subcontractor,Central Visayas,Apparel,30.0,Store
+34725,Reebok,Italy,CAFIERO SRL,Via u. Bracalenti 20 Z.I. CESA,(blank),(blank),LIMANA,32020,Tier 1 - Primary,Veneto,Accessories,3.0,Store
+34859,Adidas,China,Zhejiang Hepolilo Socks Industry Co. Ltd,No. 382 Xiachuan Rd,(blank),(blank),Haining,314400,Tier 1 - Primary,Zhejiang,"Accessories, Apparel",22.0,Store
+34911,Adidas,China,"Jangchun Shoe Manufacuring Tongliao Co., Ltd.",Tongliao Economic Technological Development Zone,(blank),(blank),Tongliao,28000,Tier 1 - Primary,Inner Mongolia,Footwear,95.0,Distribution Centre
+34941,Adidas,Argentina,DG2 Productos Textiles SRL,"Guiraldes 5651, San Martin",(blank),(blank),San Martín,1650,Tier 2 – Subcontractor,Buenos Aires,Apparel,2.0,Store
+35114,Reebok,Vietnam,Shilla Bags International,"CHANH HAMLET,",DUC LAP HA COMMUNE,DUC HOA DISTRICT,Duc Hoa Town,81000,Tier 1 - Primary,Long An,Accessories,221.0,Distribution Centre
+35158,Reebok,China,ZhuCheng Juxing Garments Co. LTD.,"South west end of mianzhi street , Zhucheng",Shandong  province ,(blank),Zhucheng,262200,Tier 1 - Primary,Shandong,Apparel,43.0,Store
+35522,Reebok,China,"Morito (Shenzhen) Co., Ltd.","A District, Yuhong Industry Zone","Heyi Village, Shajing Town",Bao An District,Shenzhen,518104,Tier 1 - Primary,Guangdong,Accessories,22.0,Store
+35636,Adidas,China,"Fujian Putian Lake Sports Goods Co., Ltd.","NanShaoLin Industry Park,","XiTianWei Town,",LiCheng District,PuTian,351100,Tier 1 - Primary,Fujian,Footwear,146.0,Distribution Centre
+35656,Adidas,Vietnam,Starite International Vietnam Limited,"Bau Xeo Industrial Park, Trang Bom District,",(blank),(blank),Bien Hoa,810000,Tier 1 - Primary,Dong Nai,Accessories,550.0,Factory
+35721,Adidas,India,Aspen Crew Sports gear,"khasra no 143KH,145KA,146KA",Mohebewala Industrial Area,248001,Dehradun,248001,Tier 1 - Primary,Uttarakhand,Accessories,40.0,Store
+36063,Adidas,Indonesia,PT Prima Sejati Sejahtera,Dk. Butuh RT.01 RW.02,Ds. Butuh,Kec. Mojosongo,Kab. Boyolali,57322,Tier 1 - Primary,Jawa Tengah,Apparel,552.0,Factory
+36085,Adidas,Argentina,Khamsin S.A.,Florentino Ameghino 1280,Florida,(blank),Vicente Lopez,1602,Tier 1 - Primary,Buenos Aires,Accessories,8.0,Store
+36512,Adidas,Vietnam,"Vinh Long Footwear Co., Ltd.",Hoa Phu Industrial Park,(blank),(blank),Long Ho,890000,Tier 1 - Primary,Vinh Long,Footwear,2234.0,Factory
+38576,Adidas,Vietnam,"Eclipse Polymers (Vina) Co., Ltd.",No.2 Road 7, Vietnam Singapore Industrial Park,Thuan An Ward,Binh Duong,72000,Tier 2 – Subcontractor,Binh Duong,Footwear,109.0,Distribution Centre
+39277,Reebok,Italy,Silcon Plastic S.R.L.,"ZONA INDUSTRIALE 2,","FORNO DI ZOLDO Belluno,",(blank),"FORNO DI ZOLDO Belluno, ",32012,Tier 1 - Primary,Veneto,Accessories,7.0,Store
+40106,Adidas,Taiwan,Garmin Corporation,"No.270, Huaya 2nd Rd.",Gueishan Township,Taoyuan County 333,Taoyuan,333,Tier 1 - Primary,Taiwan,Gear,149.0,Distribution Centre
+40107,Adidas,United Kingdom,DFN Embroidery t/a Touchline UK Ltd.,Unit 2,Kerfoot St.,(blank),Warrington,WA2 8NU,Tier 1 - Primary,England,Apparel,1.0,Store
+40274,Reebok,Vietnam,Son Ha Company Ltd.,Dong Khoi Street,"Quarter 2, Tan Hiep Ward",(blank),Bien Hoa City,810000,Tier 1 - Primary,Dong Nai,Apparel,76.0,Distribution Centre
+40408,Adidas,"Korea, Republic of (South Korea)","Daeho Collection Co,.Ltd","B-101,1F,WOOLIM BLUE9",583 Yangcheon ro,Kangseo-gu,Kangseo-gu,7547,Tier 1 - Primary,Soul-t'ukpyolsi,Accessories,2.0,Store
+40503,Reebok,Puerto Rico,Protego,147 Comercio Avenue,(blank),(blank),Hatillo,659,Tier 1 - Primary,Hatillo,Footwear,17.0,Store
+40676,Reebok,China,"Tianjin Tianxing Kesheng Leather Products Co., Ltd.","No. 2, Jianshe Road",Chengguan Town,Baodi District,Tianjin City,301800,Tier 1 - Primary,Tianjin Shi,Footwear,67.0,Distribution Centre
+40985,Reebok,"Korea, Republic of (South Korea)",Juno Apparel(Factory),"16, Gyeyang-daero140beon-gil,",(blank)," Gyeyang-gu, ",Incheon,21088,Tier 1 - Primary,Inch'on-gwangyoksi,Apparel,9.0,Store
+41095,Reebok,Taiwan,Canmes Sport Co Ltd,"No 565, Jhongshan Rd.",Baihe District,(blank),Tainan ,73258,Tier 1 - Primary,Taiwan,Gear,3.0,Store
+41109,Adidas,Japan,Asante Corporation,73-2 Inbecho,(blank),(blank),Kashiharashi,634-0833,Tier 1 - Primary,Nara,Accessories,4.0,Store
+41162,Adidas,United States,Sun Creations,826 Pennsylvania,(blank),(blank),Lawrence,66044,Tier 2 – Subcontractor,Kansas,Apparel,2.0,Store
+41225,Adidas,China,Ganzhou Chuangda Footwear Ltd,Shahe Industrial Park,Zhanggong District,(blank),Ganzhou,341000,Tier 2 – Subcontractor,Jiangxi,Footwear,76.0,Distribution Centre
+41352,Adidas,"Korea, Republic of (South Korea)",Kyungnam Sports,"50, Dasan-ro 31-gil,",(blank),Jung-gu,Seoul,4613,Tier 1 - Primary,(blank),Apparel,1.0,Store
+41443,Adidas,China,"HangZhou  Jasan Socks Co.,Ltd","No. 111 JinYi Road,",XiaoShan Economic Developing Zone,(blank),Hangzhou,311215,Tier 1 - Primary,Zhejiang,Accessories,65.0,Distribution Centre
+41582,Reebok,Canada,LEK Inc.,315 Knowlton Road,(blank),(blank),Knowlton,J0E 1V0,Tier 1 - Primary,Quebec,Accessories,82.0,Distribution Centre
+41583,Reebok,Spain,CTC Externalización S.L.U.,Carrer Carredada 2,Nau B,(blank),Martorelles - Barcelona,8107,Tier 1 - Primary,Barcelona,Accessories,10.0,Store
+41665,Reebok,China,"Jiangsu Feilong Plastic Co., Ltd ","NO.158 HUBIN SOUTH ROAD ,LUJIAXIANG, NIUTANG TOWN",WUJIN DISTRICT,(blank),ChangZhou,213168,Tier 1 - Primary,Jiangsu,Gear,4.0,Store
+41667,Adidas,China,"QingDao Jangchun shoe Manufacturing co., LTD  ","No.211,DongZhu Village,","JiaoXi Town, Jiao Zhou District",(blank),Qingdao,266329,Tier 2 – Subcontractor,Shandong,Footwear,21.0,Store
+41712,Adidas,"Korea, Republic of (South Korea)",Jung Jin Textile,"(Jungdae-dong), 363-23, Sunam-ro, ",(blank),(blank),Gwangju-si,464-080,Tier 1 - Primary,Gyeonggi-do,Apparel,1.0,Store
+42347,Reebok,El Salvador,"CONFECCIONES DEL VALLE,S.A. DE C.V.",KM 24 CARRETERA A SANTA ANA,EXPORT SALVA FREE ZONE CIUDAD,(blank),"LOURDES, COLON",,Tier 1 - Primary,La Libertad,Apparel,92.0,Distribution Centre
+42482,Adidas,Taiwan,"Swun Cheer Enterprises co., Ltd.","#12-14, Lane 73, Lu-Gu RD., Wu-Feng,",(blank),(blank),Taichung 413,10667,Tier 1 - Primary,(blank),Accessories,2.0,Store
+43242,Adidas,Indonesia,PT Glostar Indonesia 2,Jl. Raya Sukabumi Cianjur Km. 13 ,"Desa Titisan, Kecamatan Sukalarang",Kabupaten Sukabumi,Sukabumi,43191,Tier 1 - Primary,Jawa Barat,Footwear,402.0,Factory
+43311,Reebok,Vietnam,"Fashion Garments 2 Co., Ltd (Unit 2)","Road # 13A, Bien Hoa Industrial Zone II",(blank),(blank),Bien Hoa,71000,Tier 1 - Primary,Dong Nai,Apparel,228.0,Distribution Centre
+43468,Reebok,Italy,GENESI SRL,"Via Walter Tobagi, 37",(blank),(blank),Casaloldo/MN,46040,Tier 1 - Primary,Lombardia,Apparel,2.0,Store
+43482,Adidas,China,"Wanyu (Qingxin) Plasticts Co., Ltd",Taiping Industrial Park,Qingxin,(blank),Qingyuan,511853,Tier 2 – Subcontractor,Guangdong,Footwear,67.0,Distribution Centre
+43502,Reebok,China,Haining United Socks Co. Ltd,No. 360 Haifeng Road,Haichang Street,(blank),Haining,314400,Tier 1 - Primary,Zhejiang,Apparel,29.0,Store
+43516,Adidas,China,Xiamen Spark Sports Goods Co Ltd,"NO. 55-56, SIMINGYUAN, ","TONG'AN INDUSTRIAL CONCENTRATION AREA,",TONG'AN,Xiamen,361100,Tier 1 - Primary,Fujian,Accessories,53.0,Distribution Centre
+43578,Adidas,Argentina,Romi S.R.L.,Tres Arroyos 329,(blank),(blank),Haedo,B1706FWC,Tier 1 - Primary,Buenos Aires,Accessories,19.0,Store
+43598,Adidas,Vietnam,"Jia Hsin Co., Ltd.","D1-D6 Cau Tram Industrial Park,","Cau Tram Village, Long Trach Commune","Can Duoc Dist, Long An Province",Can Duoc District,850000,Tier 1 - Primary,Long An,Footwear,352.0,Factory
+43605,Reebok,China,"HUAIAN YUANTONG HEADWEAR MFG CO., LTD.","No. 30, 32, and 99  Yan Huang Avenue,",Lian Shui Economic Developmental District,(blank),HuaiAn,223400,Tier 1 - Primary,Jiangsu,Accessories,458.0,Factory
+43610,Reebok,Egypt,Embee International Industries,PUBLIC FREE ZONE,(blank),(blank),ISMAILIA,41511,Tier 1 - Primary,(blank),Apparel,241.0,Distribution Centre
+43630,Adidas,Indonesia,PT Glostar Indonesia (PGD adidas),Jl. Pelabuan II KM. 14.5 RT. 003 RW. 005,Desa Bojongraharja,Kecamatan Cikembar,Sukabumi,43157,Tier 1 - Primary,Jawa Barat,Footwear,639.0,Factory
+43769,Reebok,China,DIXON SPORTS,No. 150 Heping Rd North,(blank),(blank),Yingde,513000,Tier 1 - Primary,Guangdong,Footwear,29.0,Store
+44444,Reebok,China,Zhejiang Meibang Textile Co Ltd,"No.8 The Fifth Xingye Road, Chengxi Economic Development Zone  Zhuj China 311800",CHENGXI ECONOMIC,DEVELOPMENT ZONE,(blank),312000,Tier 1 - Primary,(blank),Apparel,18.0,Store
+44579,Reebok,China,"Nantong Huiyuan Plastic Products Co., Ltd","No.26, Su Chi Village","Liuqiao Town,Tongzhou City",(blank),Nantong,226300,Tier 1 - Primary,Jiangsu,Gear,4.0,Store
+44584,Adidas,China,"Yancheng Ever-Development Garment & Gifts Co., Ltd",Zonglian Rd Sheyang County,(blank),(blank),Yancheng,224300,Tier 1 - Primary,Jiangsu,Apparel,10.0,Store
+44650,Adidas,Thailand,"NB Apparel Co., Ltd.",183 Moo 8,Udonthani-Meunglei rd.,"Meung, Nongbualamphu",Nong Bua Lam Phu,39000,Tier 1 - Primary,Nong Bua Lamphu,Apparel,167.0,Distribution Centre
+44652,Adidas,Cambodia,"Meng Da Footwear Industrial Co., Ltd","St. Veng Sreng, Phoum Tropeang Thloeng,","Sangkat Chorm Chao, Khan Dangkor",(blank),Phnom Penh,12000,Tier 1 - Primary,Phnom Penh,Footwear,357.0,Factory
+44689,Reebok,United Kingdom,VIDHANI BROS LTD,TERITEX FACTORY,(blank),(blank),BOUGHTON,NG22 9ZD,Tier 1 - Primary,NOTTS,Apparel,3.0,Store
+45064,Adidas,China,Shenzhou Knitting (Quzhou) Co Ltd,39 Donggang 1 Rd,Economic Development Zone,(blank),Quzhou,324000,Tier 1 - Primary,Zhejiang,Apparel,215.0,Distribution Centre
+45066,Adidas,"Korea, Republic of (South Korea)",Il Woo Textile,62-15 Dongil-ro.109gil,(blank),Joongrang-gu,Seoul,2125,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,3.0,Store
+45068,Adidas,"Korea, Republic of (South Korea)",Daesan Company Ltd.,#329-73 Dongil-ro,Jungnang-gu,(blank),Seoul,2108,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,4.0,Store
+45238,Adidas,"Korea, Republic of (South Korea)","A Ro Co.,Ltd",#365-7,Samrak-dong,Sasang-gu,Sasang-gu,46946,Tier 2 – Subcontractor,Pusan-gwangyoksi,Footwear,8.0,Store
+45239,Adidas,"Korea, Republic of (South Korea)",Chung Woon Industry,#500-20,Gamjeon-dong,Sasang-gu,Sasang-gu,47030,Tier 2 – Subcontractor,Pusan-gwangyoksi,Footwear,4.0,Store
+45323,Adidas,Indonesia,PT Shyang Yao Fung (SY2),"Jl. Industry Raya II, Blok D, No. 2","Kel. Pasir Raya, Kec. Jati Uwung,",Tangerang,Tangerang,15000,Tier 1 - Primary,Banten,Footwear,241.0,Distribution Centre
+45404,Adidas,Italy,Ricamificio Aschei Srl,"Via Praderio, 20",(blank),(blank),Gallarate,21013,Tier 1 - Primary,Lombardia,Apparel,3.0,Store
+45436,Reebok,China,Dalian Ichihiro Towel Co Ltd,Dongbei 3rd Street,No.11,Dalian Economic & Technical Development Zone,Dalian,116600,Tier 1 - Primary,Liaoning,Accessories,192.0,Distribution Centre
+45437,Adidas,China,"Anhui Palma Dress Co., Ltd.",SiXian Economic Development Zone,(blank),(blank),SuZhou,234300,Tier 1 - Primary,Anhui,Apparel,52.0,Distribution Centre
+45499,Adidas,China,Zhong Shan Carpi De Knit Apparel Mfg. Co. Ltd,Industrial Zone of Banfu Town,(blank),(blank),Zhongshan,528459,Tier 1 - Primary,Guangdong,Apparel,49.0,Store
+45560,Adidas,"Korea, Republic of (South Korea)",KangHyun Industry Co,"2F, #105-19",Kumsa-dong,Kumjung-gu,BUSAN,46333,Tier 2 – Subcontractor,(blank),Footwear,2.0,Store
+45668,Adidas,India,Mochiko Shoes Pvt. Ltd. (Unit III),"Khasra No-3912,  Lal Tappar, Industrial Area, Mouza Majri Grant, NH-72, Dehradun",(blank),(blank),Dehradun,248140,Tier 1 - Primary,Uttarakhand,Footwear,45.0,Store
+45794,Adidas,China,"WuYi ShunFeng Stainless Steel Products Co., Ltd.","No.2, WuJin Road, ","TongQin Ind. Zone,WuYi County",(blank),JinHua,321200,Tier 1 - Primary,Zhejiang,Accessories,9.0,Store
+45838,Adidas,United States,"Nameplate, Inc",16502 Marquardt Ave,(blank),(blank),Cerritos,90703,Tier 1 - Primary,California,Accessories,2.0,Store
+45947,Adidas,China,Jiangxi Zhongjia  sports products co. LTD,Yuetu industrial park,Guangfeng county,(blank),Shaorao City,334600,Tier 2 – Subcontractor,Jiangxi,Footwear,18.0,Store
+45959,Adidas,Vietnam,"Vietnam SAMHO Co., Ltd","No. 1243, Provincial Road 8,","Thanh An Hamlet,","Trung An Village, Cu Chi District",Ho Chi Minh City,700000,Tier 1 - Primary,(blank),Footwear,1007.0,Factory
+45974,Reebok,Mexico,Tecnosol S.A. de C.V.,Alce Blanco 49,Fraccionamiento Industrial Alce Blanco,(blank),Naucalpan,53370,Tier 1 - Primary,Mexico,Accessories,21.0,Store
+46125,Adidas,China,ZHANGJIAGANG DONGDU TEO GARMENT CO. LTD. (NEW),NO.638 JINGANG DA DAO,(blank),(blank),ZHANGJIAGANG CITY,215600,Tier 1 - Primary,Jiangsu,Apparel,25.0,Store
+46126,Adidas,Vietnam,"Vina Gio Co., Ltd.","Thanh Phuoc hamlet, Thanh Dien Commune",(blank),(blank),Chau Thanh,80000,Tier 1 - Primary,Tay Ninh,Accessories,92.0,Distribution Centre
+46137,Reebok,Pakistan,BOX RING,"MAQBOOL ROAD ,NOAL MORE OPP WAZIRABAD ROAD",(blank),(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Gear,13.0,Store
+46181,Adidas,India,Mochiko Shoes (Unit IV),KHASRA NO.3914,LALTAPPAR IND.AREA,MAJRIGRANT,Dehradun,248140,Tier 1 - Primary,Uttarakhand,Footwear,33.0,Store
+46186,Adidas,United States,CC Creations,1800 Shiloh Ave.,(blank),(blank),Bryan,77803,Tier 2 – Subcontractor,Texas,Apparel,11.0,Store
+46226,Adidas,India,M/S SOLTEC,"Khasra no. 3901,3903 Lal Tappar Ind. area, Dehradun",(blank),(blank),Dehradun,248140,Tier 1 - Primary,Uttarakhand,Footwear,40.0,Store
+46261,Adidas,India,Alpine Shoes Pvt. Ltd [Baddi],76 A/B,HPSIDC INDUSTRIAL AREA,Baddi - HP ,BADDI,173205,Tier 1 - Primary,Himachal Pradesh,Footwear,19.0,Store
+46297,Adidas,Vietnam,Phoenix Prince Enterprise Co  Ltd,Khu Cong Nghiep,TAM DIEP INDUSTRAIL ZONE,(blank),TAM DIEP,,Tier 1 - Primary,Ninh Binh,Apparel,137.0,Distribution Centre
+46324,Adidas,Slovenia,Sandiline d.o.o.,Pobeska cesta 19a,(blank),(blank),Koper,6000,Tier 1 - Primary,Koper-Capodistria,Apparel,2.0,Store
+46459,Adidas,Cambodia,"Can Sports Shoes Co., Ltd.","National Road NO. 5, Chamkar Svay Village,","Sethey Commune, Samaky Meanchey District",(blank),Kampong Chhang,4457,Tier 1 - Primary,Kampong Chhnang,Footwear,758.0,Factory
+46607,Adidas,Germany,S.Cool Sports GmbH,Lange Straße 10,(blank),(blank),Laichingen - Feldstetten,89150,Tier 1 - Primary,Baden-Wuerttemberg,Accessories,2.0,Store
+46608,Adidas,Germany,Burkhardt Strickmoden,Bahnhofstr. 13,(blank),(blank),Mehrstetten,72537,Tier 1 - Primary,Baden-Wuerttemberg,Apparel,2.0,Store
+46616,Adidas,Hungary,Balint Sport Ksztyu kft,Agostyani utca 77          ,(blank),(blank),Tata,2890,Tier 1 - Primary,Komarom-Esztergom,Accessories,2.0,Store
+46672,Adidas,El Salvador,Supertex El Salvador S.A. de C.V.,Km 76 1/2 by Pass Norte,Zona Franca 10,(blank),Chalchuapa,2205,Tier 1 - Primary,Santa Ana,Apparel,185.0,Distribution Centre
+46697,Reebok,China,"IDT Electronics(Shenzhen) Co., Ltd","2nd floor, Block 31",XiXiang Chentian Industrial Estate,"XiXiang Town, BaoAn County",Shenzhen,518102,Tier 1 - Primary,Guangdong,Accessories,31.0,Store
+46699,Adidas,Argentina,Will Der S.A. (Las Flores),Ruta 3 Km 186.5 ,Parque Industrial,(blank),Las Flores,7200,Tier 1 - Primary,Buenos Aires,Apparel,6.0,Store
+46712,Adidas,United States,DIAL APPAREL INC.,"1425 37TH STREET, 4TH FLOOR, LEFT",(blank),(blank),BROOKLYN,11218,Tier 1 - Primary,New York,Apparel,5.0,Store
+46903,Reebok,United States,PHARMASOL CORPORATION,1 Norfolk Ave.,(blank),(blank),Easton,2375,Tier 1 - Primary,Massachusetts,Accessories,12.0,Store
+46997,Adidas,India,APEX Gudur Footwear Pvt. Ltd,"No. 438, Writerchatram Village, Palicheriavaripalem Post,","Chillakuru Mandal,",(blank),Nellore District,0,Tier 2 – Subcontractor,Andhra Pradesh,Footwear,83.0,Distribution Centre
+46998,Adidas,Indonesia,PT Greentex Indonesia Utama,Kawasan Berikat Nusantara,Jl. Sumatra Blok E No. 12A Cakung,Cilincing,Jakarta Utara,14140,Tier 1 - Primary,Daerah Khusus Ibukota Jakarta,Apparel,76.0,Distribution Centre
+47026,Reebok,Taiwan,"Elysian Enterprise Co., Ltd.",No. 5 JuiHsing Street,ChungHsing Industrial Park,"Tongluo,",Miaoli,36647,Tier 1 - Primary,Taiwan,Gear,10.0,Store
+47080,Adidas,India,Goodwill Plastic Industries,"Goodwill Plastic Industries, Khasra No.3967, Lal Tappar Indl.","Area, NH-72, Opp. Birla Power, Majri Grant",(blank),Dehradun,248140,Tier 1 - Primary,Uttarakhand,Footwear,35.0,Store
+47120,Adidas,"Korea, Republic of (South Korea)",Changdae Apparel Co Ltd(Factory),"Changdae B/D, 73, Gongneung-ro,",(blank),Jungnang-gu,Seoul,2018,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,6.0,Store
+47154,Adidas,Indonesia,PT Narawata Makmur (New),Jl. Semanan 2 no 58,Kalideres,(blank),Jakarta Barat,11850,Tier 1 - Primary,Daerah Khusus Ibukota Jakarta,Apparel,12.0,Store
+47786,Adidas,Pakistan,Interloop Limited (Hosiery Division II),"7-km, Jaranwala road, Khurrianwala",(blank),(blank),Faisalabald,37660,Tier 1 - Primary,Punjab,Accessories,614.0,Factory
+47996,Adidas,Mauritius,World Knits Ltd. (Quartier Militaire),New Road Vuillemin,Quartier Militaire,(blank),Militaire,81106,Tier 1 - Primary,(blank),Apparel,108.0,Distribution Centre
+48044,Reebok,El Salvador,Textiles Opico SA de CV,KM 31.4 Carretera a Santa Ana,(blank),(blank),San Juan Opico,1101,Tier 1 - Primary,La Libertad,Apparel,133.0,Distribution Centre
+48640,Reebok,China,"Jiangsu Tianhai Garments Co.,Ltd","NO.8,Tianhai Road","Guoyuan, Changjiang Town",(blank),Rugao City,226542,Tier 1 - Primary,Jiangsu,Apparel,28.0,Store
+49487,Reebok,El Salvador,"Samsew, S.A. De C.V.",KM 12 1/2 Carretera al Puerto de La Libertad,(blank),(blank),Santa Tecla,(blank),Tier 1 - Primary,La Libertad,Apparel,30.0,Store
+49580,Reebok,China,Regina Miracle Intimate Apparel (Shenzhen) Ltd.,No.5 Cengyao Industrial Estate Yulu,Gongming Yulu,Bao'an District,Shenzhen,518132,Tier 1 - Primary,Guangdong,Apparel,1500.0,Factory
+49621,Adidas,Indonesia,PT Bina Busana Internusa [Unit 2],"JL. Inspeksi Cakung Drain RT.006/RW.010,","Kelurahan Semper Timur,","Kecamatan Cilincing, Jakarta-Utara ",NORTH JAKARTA,14260,Tier 1 - Primary,Daerah Khusus Ibukota Jakarta,Apparel,139.0,Distribution Centre
+49622,Reebok,China,LF Beauty Manufacturing China,"No.1, Street 5, Jinhe Industrial District",Yu Feng Village,Zhangmutou Town,Dong Guan,523627,Tier 1 - Primary,Guangdong,Accessories,18.0,Store
+49626,Reebok,China,Shanghai Yutuo Knitting Co. Ltd,NO 118 KANBEI ROAD,SITUAN TOWN,FENGXIAN DISTRICT,Shanghai,201412,Tier 1 - Primary,Shanghai Shi,Apparel,13.0,Store
+49869,Adidas,Lithuania,Kirpte,Ulonu 16,(blank),(blank),Alytus,LT-62175,Tier 1 - Primary,(blank),Apparel,8.0,Store
+49917,Adidas,China,"Dongguan ZhengYong Leather Accessories Co., Ltd","Block #6,  the 2nd District of Liwu Wusha",Chang'an Town,(blank),Dongguan,523850,Tier 1 - Primary,Guangdong,Accessories,14.0,Store
+50449,Reebok,Taiwan,"Hwa Meei Optical Co., Ltd. 2nd Factory","30, ShaLun, Zhong Sha Vil.",AnDing Dist.,(blank),Tainan,74555,Tier 1 - Primary,Taiwan,Accessories,54.0,Distribution Centre
+50471,Reebok,Taiwan,Yichane Co. Ltd.,"178, SEC. 2, Cheng-Si St. Tainan 70956, Taiwan",(blank),(blank),Tainan,70956,Tier 1 - Primary,Taiwan,Accessories,6.0,Store
+50598,Adidas,Cambodia,"Splendor Industry.Co., Ltd.","National Road. 5, Sangkat Russey, ","Keo,Khan Russey Keo, ",(blank),Phnom Penh ,12100,Tier 1 - Primary,Phnom Penh,Apparel,82.0,Distribution Centre
+51156,Adidas,China,"Wing Sing Plastic Hardware Co., Ltd.",SongMugang,"Wulian Xian, FengGang,", Borough,Dongguan City,523695,Tier 1 - Primary,Guangdong,Accessories,12.0,Store
+51824,Adidas,Portugal,"Finieco, sa","Rua do Barracão, 500",Santa Cristina do couto ,(blank),Santo Tirso,4780-235,Tier 1 - Primary,Porto,Accessories,8.0,Store
+51898,Adidas,Cambodia,"Papillion Textile (Cambodia) Co., Ltd.","VattanakII Industry Park, Building O, National Road No.3","Phum Preysampor, Sangkat Kraing Pongror ",Khan Dangkor,Phnom Penh,12400,Tier 1 - Primary,(blank),Apparel,85.0,Distribution Centre
+51929,Adidas,Taiwan,Tung-Yu Plastic Co. Ltd,No. 86 Ren Ci St,(blank),Ta Li Dist,Tai Li City,41275,Tier 1 - Primary,Taichung County,Accessories,1.0,Store
+52091,Adidas,China,FuJian XinLu Sports Products Co Ltd,"HuaLin Industrial Zone, ","ChengXiang District, ",(blank),PuTian City,351139,Tier 1 - Primary,Fujian,Footwear,70.0,Distribution Centre
+52436,Adidas,Vietnam,"Shinwon Ebenezer Hanoi Co., Ltd - Building A",Ad Urban Group Nguyen Gon,Cai Dan Ward,(blank),Song Cong City,250000,Tier 1 - Primary,Thai Nguyen,Apparel,423.0,Factory
+52615,Adidas,Vietnam,Tien Thuan Garment Company Limited,"16/4,Phan Rang City,","Thap Chan Town,","Ninh Thuan,",Phan Rang – Thap Cham,660000,Tier 1 - Primary,Ninh Thuan,Apparel,179.0,Distribution Centre
+52660,Reebok,China,Huayuan Headwear Manufacturing Co. Ltd,1099 Xiushan West Road,(blank),(blank),Haimen,226100,Tier 1 - Primary,Jiangsu,Apparel,1.0,Store
+52664,Reebok,Mexico,"Laboratorios Aerosol, S.A. de C.V.","Calle Transformación, Parque Industrial PYME Capulhuac,","Localidad Agua Blanca, Km 9.5 Carretera Ocoyoacac",Santiago Tiangusitenco,Municipio de Capulhuac,52700,Tier 1 - Primary,Mexico,Accessories,32.0,Store
+52690,Adidas,Philippines,Yuenthai Philippines - plant2 ,"3rd Avenue, 5th Street",Mactan Econmic Zone 1,(blank),Lapu Lapu City,6015,Tier 1 - Primary,Cebu,Apparel,192.0,Distribution Centre
+52742,Reebok,China,Xiamen Kingland Apparel Co Ltd,"2F, J5 Building, Yongquan Industrial Area","Guankou, Jimei",(blank),Xiamen,361023,Tier 1 - Primary,Fujian,Apparel,8.0,Store
+52746,Adidas,China,Bosideng Co Ltd Changshu Garment Factory,Bosideng Industrial Zone,(blank),(blank),Changshu,215532,Tier 1 - Primary,Jiangsu,Apparel,137.0,Distribution Centre
+52794,Adidas,El Salvador,Varsity Pro Ltda de C.V.,Km 36 carretera a Santa Ana,Zona Franca American Park,"Calle Canada, Poligono H",Ciudad Arce,,Tier 1 - Primary,La Libertad,Apparel,146.0,Distribution Centre
+52884,Reebok,Egypt,"El Helal Company for Knitting, Dyeing & Readymade ",PLOT 3/1 - MISR COMPANY INDUSTRIAL ZONE ,"BEHERA, EGYPT",(blank),Kafr El Dawar ,22638,Tier 1 - Primary,Buhayrah,Apparel,47.0,Store
+52922,Adidas,United Kingdom,Mainetti (UK) Ltd,Annfield Estate,Oxnam Road,(blank),Jedburgh,TD8 6NN,Tier 1 - Primary,Scotland,Accessories,20.0,Store
+52966,Adidas,Indonesia,PT. Apparel One Indonesia,"Rukti Mukti Bawana estate, Block B5, ",Jl. Raya Semarang Kendal Km.12,"Randugarut, Tugu",Semarang,50153,Tier 1 - Primary,Jawa Tengah,Apparel,243.0,Distribution Centre
+53117,Adidas,Philippines,One Way Garments Mfg. Corp.,"4 - A OLIVEROS DRIVE,BALINTAWAK ",(blank),(blank),Quezon City,1106,Tier 1 - Primary,Calabarzon,Apparel,6.0,Store
+53139,Reebok,China,QINGDAO XINZHOU SPORT PRODUCTS CO LTD,HONGSHIYA TOWN,HUANGDAO DISTRICT,(blank),Qingdao,266000,Tier 1 - Primary,Shandong,Apparel,5.0,Store
+53176,Adidas,China,"Dandong SLT Garment Industrial Co., Ltd",Qianyang Economic Development Zone,(blank),(blank),Dan Dong,118301,Tier 1 - Primary,Liaoning,Apparel,111.0,Distribution Centre
+53190,Adidas,China,Evervan Deyang Footwear Co. Ltd,Heng Yang county,"Economic Technique, Development Zone,",NO.1 Liansheng Road,Hengyang,421200,Tier 1 - Primary,Hunan,Footwear,119.0,Distribution Centre
+53215,Adidas,Bosnia And Herzegovina,Sanino d.o.o,Vojvode Stepe 27,(blank),(blank),Prnjavor,78430,Tier 2 – Subcontractor,Republika Srpska,Footwear,41.0,Store
+53217,Adidas,China,Xuancheng Naier Socks Co. Ltd,"Huangdu Road, Xuanzhou District",(blank),(blank),Xuancheng,242000,Tier 1 - Primary,Anhui,"Accessories, Apparel",13.0,Store
+53347,Adidas,United Kingdom,Clipper Logistics Group,43 SUEZ ROAD,BRIMSDOWN,(blank),Enfield,EN3 7SN,Tier 1 - Primary,England,Apparel,7.0,Store
+53413,Reebok,China,ChangZhou QingQing Knitting Factory,"1/F, Block D,","No. 1315, JinSha Avenue,","JinTan District,",ChangZhou,213234,Tier 1 - Primary,Jiangsu,Apparel,20.0,Store
+53472,Adidas,Nicaragua,"Annic II, S.A.","Zona Franca Las Palmeras,",Km. 45 Carretera Masatepe äóñ San Marcos,(blank),"Masatepe,",42600,Tier 1 - Primary,Masaya,Apparel,432.0,Factory
+53474,Adidas,China,Zhejian Kingvac Plastic & Electric Products,No. 30 3rd Donggang Road,Economic Development Zone,(blank),Quzhou,32400,Tier 1 - Primary,Zhejian,Accessories,36.0,Store
+53508,Reebok,China,"Shenzhen Cobra Sports Co., Ltd. ","No. 18 Xihutang Street, Pingdong Community","Pingdi Sub-District, Longgang District",(blank),Shenzhen,518117,Tier 1 - Primary,Guangdong,Gear,10.0,Store
+53639,Adidas,China,"Dalian Huahong Sports Tool Co.,Ltd",Taiping Industry Zone PUWAN NEW DISTRICT,(blank),(blank),Pulandian,116200,Tier 1 - Primary,Liaoning,Gear,2.0,Store
+53642,Adidas,United Kingdom,HM HOSIERY LTD,UNIT 28C CENTURION WAY,MERIDIAN BUSINESS PARK,(blank),LEICESTER,LE19 1WH,Tier 1 - Primary,LEICESTERSHIRE,Accessories,1.0,Store
+53656,Adidas,China,"Yue Yuen (Anfu) footwear Co.,Ltd. (YYJ)",No.888 of AnHua Road,Anfu Insdustrial Zone,(blank),Ji'An,343200,Tier 1 - Primary,Jiangxi,Footwear,416.0,Factory
+53688,Adidas,Vietnam,"Din Sen Viet Nam Enterprise Co., LTD","Lot B3, Lot J1, J2, No D10/89Q National Road 1A","Tan Tao Ward, Binh Tan District,",(blank),Hochiminh City,700000,Tier 1 - Primary,Ho Chi Minh,Apparel,176.0,Distribution Centre
+53824,Adidas,Vietnam,Giap Quan Thang Limited Liability Company,"Long An B Area, Cai Tac Town, Chau Thanh A",(blank),(blank),Hau Giang,84711,Tier 2 – Subcontractor,Hau Giang,Footwear,95.0,Distribution Centre
+53829,Adidas,Vietnam,Lacty II Co. Ltd.,"Lot B1, B2",Tan Phu Thanh Industrial Zone - phase 1,"Tan Phu Thanh Ward, Chau Thanh A district",Hau Giang,84711,Tier 1 - Primary,Hau Giang,Footwear,595.0,Factory
+53846,Adidas,China,Qingxin Sankeng Dahui Footwear Factory,Anqing village Sankeng town,(blank),(blank),Qingyuan,511855,Tier 2 – Subcontractor,Guangdong,Footwear,34.0,Store
+54113,Adidas,"Korea, Republic of (South Korea)",SeoWoo Great,"Ko Eun Building, 957-4, Kyesan-dong, kyeyang-ku, Incheon",(blank),(blank),Incheon,21053,Tier 1 - Primary,Incheon,Apparel,6.0,Store
+54167,Adidas,China,"Putian Shingchang Footwear Industry Co., Ltd.",MinYing Industrial District,Nanshaolin Road,XiTianWei,PuTian,35110,Tier 1 - Primary,Fujian,Footwear,90.0,Distribution Centre
+54222,Adidas,Indonesia,PT. Komitrando Emporio,JL. Wonosari Km.8 Potorono,"Banguntapan, Bantul",(blank),Yogyakarta,55196,Tier 2 – Subcontractor,Daerah Istimewa Yogyakarta,Accessories,68.0,Distribution Centre
+54223,Adidas,Indonesia,PT. Global Way Indonesia ,"Jl Ahmad Yani No. 214, Desa Gedangan",Kec. Gedangan,(blank),Sidoarjo,61254,Tier 1 - Primary,Jawa Timur,Gear,118.0,Distribution Centre
+54287,Reebok,Taiwan,"Racer Sporting Goods Co., Ltd.","17 Kung 6 Rd,",Linkou 2nd Ind. Park,(blank),New Taipei City,24450,Tier 1 - Primary,Taiwan,Accessories,4.0,Store
+54304,Reebok,China,"DEJET INDUSTRY CO., LTD.","No 518, Zhengtong Rd, Kandun Industry Zone, Cixi,",(blank),(blank),"Cixi, Ningbo City, Zhejiang",315303,Tier 1 - Primary,Zhejiang,Gear,35.0,Store
+54337,Adidas,Vietnam,"Quang Viet (Tien Giang) Co., Ltd","Lot KI-1, 2 Tan Huong IZ",Tan Huong Commune,Chau Thanh Dist.,Tien Giang,820000,Tier 1 - Primary,Tien Giang,Apparel,498.0,Factory
+54708,Adidas,Brazil,Paqueta Calçados Ltda. (Pentecoste Fábrica),"Avenida Antonio Braga de Azevedo, 407",(blank),B. São Francisco,Pentecoste - CE,62640-000,Tier 1 - Primary,Ceara,Footwear,120.0,Distribution Centre
+54726,Adidas,Nicaragua,Stahls SNS y Compania Limitada,KM 47  Carretera Tipitapa-Masaya,Parque Industrial Astro Nicaragua,Edificio #14-15,Tipitapa,,Tier 1 - Primary,Managua,Apparel,46.0,Store
+54842,Adidas,Georgia,Ajara Textile Ltd.,Bobokvati Street No:14,"Bobokvati Village, Kobuleti",(blank),Batumi,6200,Tier 1 - Primary,Ajaria,Apparel,117.0,Distribution Centre
+55014,Adidas,China,"Fuxin Tianze Shoes Co., Ltd.","103#¥_ëDongduan, Xinqu road,","Leather inductry zone,","Qinghemen district,",Fuxin,123006,Tier 2 – Subcontractor,Liaoning,Footwear,14.0,Store
+55061,Adidas,Japan,"Shibata tebukuro seizosho co.,LTD",100,Tsurumai-cho,(blank),Nishio,445-0845,Tier 1 - Primary,Aichi,Accessories,1.0,Store
+55295,Reebok,Vietnam,"ORIENTAL GARMENT AN GIANG CO.,LTD","Plot L Binh Hoa Industrial Zone,",Binh Ho  Commune,An Giang Province,Chau Thanh District,880000,Tier 1 - Primary,An Giang ,Apparel,137.0,Distribution Centre
+55328,Reebok,Taiwan,Ming Feng Plastic Co Ltd,No.2,"Lane 292, Dalin Road,",Daya District,Taichung,42847,Tier 1 - Primary,Taichung County,Gear,2.0,Store
+55443,Adidas,"Korea, Republic of (South Korea)",Daewon F&C,"Dae-A Building 5th FL.,", mang-u-dong 410-2,"Jungnang-gu, ",Seoul,2182,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,2.0,Store
+55683,Reebok,China,"Shanghai Jiaheng Daily Chemical Co., Ltd.",1069 Taogan Road,"Sheshan Town, Songjiang District",(blank),Shanghai,201602,Tier 1 - Primary,Shanghai Shi,Accessories,38.0,Store
+55702,Reebok,Egypt,T.M.I EGYPT,STREET NO.9 AMRIYA PUBLIC FREE ZONE,(blank),(blank), ALEXANDRIA    ,23512,Tier 1 - Primary, ALEXANDRIA    ,Apparel,45.0,Store
+55748,Reebok,Poland,Euro-pegaz Logistyka Sp. z.o.o.,Centrum Logistyczne,ul. Loniewska 1,(blank),Osieczna,64-113,Tier 1 - Primary,Wielkopolskie,Accessories,4.0,Store
+55784,Adidas,"Korea, Republic of (South Korea)",JiSung Industry," 3F Deokyoong Bd, ","452 ,Cheonggyecheon-ro,","ungdong-gu, ",Seoul,4702,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,1.0,Store
+55798,Adidas,China,Yancheng Charlotte Socks Co. Ltd,NO. 188 YINGBIN AVENUE,XIANGSHUI CITY,(blank),Yancheng,224600,Tier 1 - Primary,Jiangsu,"Accessories, Apparel",11.0,Store
+55821,Reebok,China,TIAN JIN YIN MEI GARMENT COMPANY LIMITED,MAJIADIAN INDUSTRIAL AREA OF ,BAODI COUNTY,(blank),Tianjin,301800,Tier 1 - Primary,Tianjin Shi,Apparel,4.0,Store
+55929,Adidas,China,Zhenjiang Tuntex Garment Co Ltd,NO.10 Shi-Shi Road,Ju-Rong Economic Development Zone,212400,Zhenjiang,212400,Tier 1 - Primary,Jiangsu,Apparel,46.0,Store
+55968,Adidas,Germany,Biess Textil-Applikationen Gmbh.,Gruenwalder Weg 28F,(blank),(blank),Oberhaching b. Muenchen,82041,Tier 1 - Primary,Freistaat Bayern,Apparel,2.0,Store
+56014,Adidas,Germany,Wigu Sport- & Freizeitbekleidung,Eichsfeld,(blank),(blank),Dingelstädt,37351,Tier 1 - Primary,Baden-Wuerttemberg,Accessories,3.0,Store
+56051,Reebok,Japan,"KANSAIDO CO, LTD",980-7 Jyunisho,(blank),(blank),Yabu,667-0102,Tier 1 - Primary,Hyogo,Apparel,1.0,Store
+56066,Adidas,China,Yueyang Wanfeng footwear factory,"Kangwang Science and Technology Park, ",Economic Delevopment District,(blank),Yueyang,414000,Tier 2 – Subcontractor,Hunan,Footwear,38.0,Store
+56118,Adidas,Japan,Tiger Corporation Osaka Factory,3-1 Hayami-cho,(blank),(blank),Osaka,571-8571,Tier 1 - Primary,Osaka,Accessories,71.0,Distribution Centre
+56153,Reebok,Vietnam,"Fashion Garments 2 Co., Ltd - Tan Phu Branch","Road 3, Tan Phu Industrial Zone, ",Tan Phu District ,(blank),Bien Hoa,71000,Tier 1 - Primary,Dong Nai,Apparel,324.0,Distribution Centre
+56162,Reebok,Poland,Euro-pegaz Logistyka Sp. z.o.o. - 2,Centrum Logistyczne,Rozdzieskiego 12,(blank),Dabrowa Gornicza,41-300,Tier 1 - Primary,Slaskie,Accessories,2.0,Store
+56187,Adidas,Indonesia,PT Pan Brothers Tbk Fty 9,"Dk. Butuh Rt.01, Rw.02","Ds. Butuh, Kec. Mojosongo",(blank),Kab. Boyolali,57322,Tier 1 - Primary,Jawa Tengah,Apparel,318.0,Distribution Centre
+56370,Adidas,Tunisia,VTL5,Route de Korba Km2,(blank),(blank),Menzel Temime,8080,Tier 2 – Subcontractor,Nabeul,Apparel,59.0,Distribution Centre
+56477,Adidas,"Korea, Republic of (South Korea)",YHSOX,"365-1, daessangnyeong-ri,chowol-eup",(blank),(blank),Kwangju-si,12735,Tier 1 - Primary,Kyonggi-do,Accessories,3.0,Store
+56519,Reebok,China,GuanDi Leather Goods,"No. 3, Huaiya RoadHuaide Management District","Humen Town, Dongguan",(blank),"Humen Town, Dongguan",523926,Tier 1 - Primary,Guangdong,Accessories,10.0,Store
+56665,Reebok,Spain,Prohima Internacional S.A.,Crta. N-II,Km. 644 - Torre d'Ara,(blank),Mataró,8302,Tier 1 - Primary,Catalunya,Accessories,3.0,Store
+56755,Reebok,Italy,Dal Dosso Sport snc,"Via Aldo Moro, 9",28011 Armeno (NO),(blank),Armeno,28011,Tier 1 - Primary,Lombardia,Accessories,1.0,Store
+56809,Reebok,Netherlands,Eurobottle BV,Pioniersweg 32,(blank),(blank),Dronten,8251 KN,Tier 1 - Primary,Flevoland,Accessories,6.0,Store
+57061,Adidas,India,Mochiko Shoes Pvt. Ltd  (Unit V),"C-18,Hosiery Complex,Phase-2,Extn. ","Noida, District -G. B Nagar, Utterpradesh",(blank),Noida,201305,Tier 2 – Subcontractor,Uttar Pradesh,Footwear,37.0,Store
+57282,Adidas,Vietnam,"A First Vina Co., Ltd.","Street 2, Tam Phuoc Industrial Zone",(blank),(blank),Bien Hoa,810000,Tier 1 - Primary,Dong Nai,Apparel,116.0,Distribution Centre
+57291,Adidas,Germany,Eduard Deml GmbH,Breitenwiesweg 38,(blank),(blank),Waldmünchen,93449,Tier 1 - Primary,Freistaat Bayern,Apparel,6.0,Store
+57302,Reebok,Pakistan,CHALLENGE APPARELS LIMITED (Garment City),Sahianwala Road ,Khurrainwala,(blank),Faisalabad,38000,Tier 1 - Primary,Punjab,Apparel,253.0,Distribution Centre
+57309,Reebok,China,XIAMEN B-SHENG COMPOSITE TECH CO LTD,100 Simingyuan,Tongan Jizhong Industrial,Tongan District,Xiamen ,361022,Tier 1 - Primary,Fujian,Accessories,7.0,Store
+57321,Adidas,"Korea, Republic of (South Korea)",Action Sports Korea,"#118-4&119-4, SAMRAK DONG,SASANG GU",(blank),(blank),BUSAN,617-825,Tier 2 – Subcontractor,(blank),Footwear,2.0,Store
+57395,Adidas,Cambodia,"Sixplus Industry Co., Ltd.","Phum Kandal, Khum Prek Anhchanh",Mockompoul District,(blank),Mockompoul,8150,Tier 1 - Primary,Kandal,Apparel,226.0,Distribution Centre
+57402,Adidas,Brazil,Sola Nova Industrial Ltda.,"RUA TRISTÃO DE ALMEIDA , 4131",Distrito Industrial,(blank),Franca,14406-105,Tier 2 – Subcontractor,Sao Paulo,Footwear,3.0,Store
+57421,Adidas,Taiwan,"Fong Shwo Co., Ltd.","9Fl, No.659-1, ","Chung Cheng Rd.,",Hsin Chuang District,New Taipei City,24257,Tier 1 - Primary,(blank),Apparel,10.0,Store
+57517,Adidas,Vietnam,Viva Garment Products Ltd   ,VINH TUONG ,VU DI,DONG SOC,VINH PHUC,10000,Tier 1 - Primary,Vinh Phuc,Apparel,161.0,Distribution Centre
+57792,Adidas,Taiwan,"Yi Chia Enterprise Co., Ltd. (Shu Lin)","1 Fl, No.62-2",San De St.,Shu Lin Destrict,New Taipei City,23867,Tier 1 - Primary,(blank),Apparel,1.0,Store
+57906,Adidas,China,"Full Tech Co.,ltd","No.52,Qianjin Road 3","3rd  Industrial Zone,Tanzhou Town","Zhongshan city,GuangDong",Zhongshan,528467,Tier 1 - Primary,Guangdong,Gear,45.0,Store
+57911,Adidas,Canada,Rair T & Co Inc.,3570 Griffith ,(blank),(blank),Ville St Laurent ,H4T 1A7,Tier 1 - Primary,Quebec,Apparel,1.0,Store
+57945,Reebok,India,GOODWILL APPARELS,"11-A, Kottai thottam",Near sivan Theatre North,(blank),Tirupur,641602,Tier 1 - Primary,Tamil Nadu,Apparel,17.0,Store
+57964,Adidas,Cambodia,"KKN Apparel Co.,Ltd. (Single Member Private Limited Company)",Neang Kok Koh Kong Special Economic Zone,"Neang Kok Village, Pakklong Commune",Mondul Seyma District,Koh Kong ,9351,Tier 1 - Primary,Kaoh Kong,Apparel,120.0,Distribution Centre
+58022,Reebok,China,"Suzhou Jiahua Biochemistry Co., Ltd.",No. 688 GuoQing Road,Lili Town,Wujiang,SUZHOU,215212,Tier 1 - Primary,Jiangsu,Accessories,9.0,Store
+58042,Adidas,Thailand,"P.K.T. KWAN TAT (THAILAND) CO., LTD","104 MOO 13, SOI PHETKASEM 95, OMNOI, KRATUMBAN",(blank),,Samutsakorn,74130,Tier 2 – Subcontractor,Samutsakorn,Apparel,4.0,Store
+58080,Reebok,China,"Zhang Pu Da Ye Umbrella Co., Ltd.","HUANG CANG INDUSTRIAL ZONE, ZHANG PU COUNTY",(blank),(blank),Zhangzhou,,Tier 1 - Primary,Fujian,Hard Goods,14.0,Store
+58118,Reebok,Cambodia,Yorks (Cambodia) Co Ltd,National Road No.1,Tai Seng SEZ,Sangkat Bavet,Bavet,,Tier 1 - Primary,Svay Rieng,Accessories,19.0,Store
+58252,Adidas,Vietnam,"Himaru Vietnam Co., Ltd.","Street No 8, Thong Nhat Avenue,","Song Than II Industrial Park, Di An Town, ",Binh Duong Province,Di An Town,,Tier 1 - Primary,Binh Duong,Accessories,41.0,Store
+58271,Adidas,Chile,New Commerce Ltda,Cueto 666,(blank),(blank),Santiago,8350328,Tier 1 - Primary,(blank),Apparel,3.0,Store
+58279,Adidas,United States,"Bag Makers, Inc.",6606 S. Union Road,(blank),(blank),Union,60180,Tier 1 - Primary,Illinois,Accessories,34.0,Store
+58330,Adidas,Brazil,Industria e Comercio de Calí_ados Pentecoste Ltda EPP,"Rua 15 de Novembro, 1",(blank),(blank),Pentecoste,0,Tier 2 – Subcontractor,Ceara,Footwear,17.0,Store
+58331,Adidas,Brazil,Dass Nordeste Calçados e Artigos Esportivos S.A - Itapipoca,"Rua da Universidade, 240 – ",Bairro Madalena,(blank),Itapipoca,62500-000,Tier 1 - Primary,Ceara,Footwear,246.0,Distribution Centre
+58354,Adidas,Indonesia,PT Bintan Bersatu Apparel,JL. ENGKU PUTRI NO. 12 ,"KEL. BELIAN KEC. BATAM KOTA, BATAM CENTRE ",BATAM ISLAND,BATAM,29464,Tier 1 - Primary,Provinsi Riau,Apparel,104.0,Distribution Centre
+58482,Adidas,Cambodia,"Elite (Cambodia) Co., Ltd",Special Economic Zone of MANHATTAN,Sangkat Bavet,(blank),Bavet City,6311,Tier 1 - Primary,Svay Rieng,Apparel,483.0,Factory
+58567,Adidas,Germany,Walter Stoehr GmbH,Feistelberger Str. 19,(blank),(blank),Wernberg-Köblitz,92533,Tier 1 - Primary,Baden-Wuerttemberg,Accessories,5.0,Store
+58660,Adidas,Germany,Walter Stoehr GmbH Marienberg,Walter Stöhr GmbH,"Präs.Zentrum""Alter Fabrik""",Dorfstr. 112,Marienberg,9496,Tier 1 - Primary,Freistaat Thuringen,Accessories,2.0,Store
+58690,Reebok,United States,Penn Prints Inc,7110 Center Drive,(blank),(blank),Spartanburg,29303,Tier 1 - Primary,South Carolina,Apparel,3.0,Store
+58829,Reebok,Sri Lanka,Hirdaramani Mercury Apparel (Pvt) Ltd - Kirindiwela,"Lot 3, Maligawatte",(blank),(blank),kirindiwela,11730,Tier 1 - Primary,Western,Apparel,64.0,Distribution Centre
+58849,Adidas,"Korea, Republic of (South Korea)",Tarae Apparel,22.Michuho-Daere697 Beon-gil,Nam-Gu,(blank),InCheon Si,22139,Tier 1 - Primary,(blank),Apparel,2.0,Store
+59057,Adidas,Cambodia,"Trax Apparel (Cambodia) Co., Ltd",PHUM CHONG THNAL KHANG KERT,SANGKAT  TEUK  THLA,KHAN SEN SOK,Phnom Penh,12000,Tier 1 - Primary,Phnom Penh,Apparel,110.0,Distribution Centre
+59109,Adidas,Taiwan,Taiwan Morito Co Ltd,"NO.8,LANE191,SEC3",MIN SHENG ROAD,TAYA DISTRICT,TAICHUNG HSIEN,42844,Tier 1 - Primary,Taiwan,Accessories,1.0,Store
+59200,Reebok,Vietnam,"Haivina Kim Lien Co., Ltd.","NAM GIANG INDUSTRIAL COMPLEX,",NAM GIANG COMMUNE,(blank),NAM DAN DISTRICT,460000,Tier 1 - Primary,Nghe An,Apparel,342.0,Distribution Centre
+59227,Adidas,Turkey,Gelal Corap Sanayi ve Ticaret A.S. (Cankiri),Yeni Mah. Organize Sanayi Bolgesi,1.Cad. No:8,(blank),Sabanozu,18650,Tier 1 - Primary,Cankiri,Accessories,95.0,Distribution Centre
+59240,Reebok,Romania,SC INDUSTRIA DE INCALTAMINTE [SOARA],Str. Ion Vidu n.7,(blank),(blank),Buzias,305100,Tier 1 - Primary,Timis,Footwear,26.0,Store
+59279,Adidas,Japan,"Ashitaka Hosiery Industry Co.,Ltd.","389, Nakato",(blank),(blank),Katsuragi,639-2146,Tier 1 - Primary,Nara,Accessories,4.0,Store
+59291,Adidas,China,Shenzhen Fa Tin Textile and Fashion LTD,Fa Tin Industrial building,Fishermen Village,"Heping Road, Luo Hu strict",Shen Zhen,518001,Tier 1 - Primary,Guangdong,Apparel,52.0,Distribution Centre
+59380,Reebok,Pakistan,PENNA OVERSEAS CORPORATION,"12-KM, SIALKOT-DASKA ROAD",(blank),(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Apparel,46.0,Store
+59406,Adidas,China,Luenhung Plastic and Mold Factory,3 Vanshun Rd.,"Nuishipa Village, Liuyue",Long Gang District,Henggan,,Tier 1 - Primary,(blank),Accessories,5.0,Store
+59528,Adidas,China,"Dongguan Li Chao Plastic Products Co., Ltd.","6TH ROAD, YIN CHENG INDUSTRIAL ZONE, XIA BIAN, CHANG AN TOWN,",(blank),(blank),Dongguan,523877,Tier 1 - Primary,Guangdong,Accessories,50.0,Store
+59536,Reebok,China,FOSHAN SHUNDE STRATEGIC GARMENT LTD,Chencun Industrial Park,Shun De,Fo Shan,(blank),528313,Tier 1 - Primary,Guangdong,Apparel,140.0,Distribution Centre
+59685,Reebok,China,Zhejiang Celebrity Finery Co Ltd,"No. 17 of Caiyun Road, ",Yinan Industrical Park,(blank),Yiwu,322000,Tier 1 - Primary,Zhejiang,Apparel,47.0,Store
+59835,Adidas,Brazil,Paqueta Calçados Ltda. (Apuiarés),"Av. Gomes da Silva, 329 ",(blank),(blank),Apuiarés    ,62630-000    ,Tier 2 – Subcontractor,Ceara,Footwear,35.0,Store
+59886,Adidas,United States,All Packaging Co,14806 E. 33rd Place,(blank),(blank),Aurora,80011,Tier 1 - Primary,Colorado,Accessories,12.0,Store
+59959,Adidas,Indonesia,PT Lucky Textile Semarang ,Jl. Coaster No. 8,Blok A 07-10,Kec. Semarang Utara,Semarang,50174,Tier 1 - Primary,Jawa Tengah,Apparel,135.0,Distribution Centre
+60015,Reebok,China,Zhejiang DKCity Corporation,No. 27,Longquan Rd.,"Huimin St, Zhejiang Province",Jiashan,314100,Tier 1 - Primary,Zhejiang,Gear,27.0,Store
+60038,Adidas,Cambodia,"Din Han Enterprise Co., Ltd.","Duong Ngiep II, Thmey village ","Stoeung Meanchey quarter Meanchey district, ",(blank),Phnom Penh,12000,Tier 1 - Primary,Phnom Penh,Apparel,220.0,Distribution Centre
+60047,Adidas,China,JiangSu XueZhongFei Garment Co Ltd ,"KangBo Avenue, ","KangBo Village, GuLi Town ",(blank),Changshu,215532,Tier 1 - Primary,Jiangsu,Apparel,109.0,Distribution Centre
+60082,Adidas,Turkey,Ceseka Tekstil ve Konfeksiyon San ve Tic. A.S,Fatsa Organize Sanayi Bolgesi,Parsel 561-562,,Fatsa - ORDU,52400,Tier 1 - Primary,Ordu,Apparel,26.0,Store
+60097,Adidas,Brazil,Flecksteel Industria de Artefatos Metalicos LTDA,"Av Carlos Strassburger Filho, 5370-5",(blank),,Campo Bom,93700-000,Tier 2 – Subcontractor,Rio Grande do Sul,Footwear,6.0,Store
+60157,Adidas,Cambodia,"Daqian Textile (Cambodia) Co., Ltd","Phum Trapaing Thloeng, ","Sangkat Chorm Chao, Khan ",Porsenchey,Phnom Penh ,12000,Tier 1 - Primary,Phnom Penh,Apparel,492.0,Factory
+60164,Adidas,Brazil,Tacosola Borrachas Ltda,"BR 116, 7729 – Bairro Roselândia",(blank),(blank),NOVO HAMBURGO,93351-155,Tier 2 – Subcontractor,Rio Grande do Sul,Footwear,34.0,Store
+60368,Adidas,Cambodia,Bowker Garment Factory (Cambodia) Company Limited,"NATIONAL ROAD NO.4,","PONG TEUK VILLAGE, BEK CHAN COMMUNE","ANG SNOUL DISTRICT, KANDAL PROVINCE, CAMBODIA",Kandal,8301,Tier 1 - Primary,Kandal,Apparel,337.0,Distribution Centre
+60441,Adidas,Brazil,Paqueta Calçados Ltda. (Sapiranga),"Av. 20 de Setembro, 4411",(blank),(blank),Sapiranga,93800-000,Tier 1 - Primary,Rio Grande do Sul,Footwear,122.0,Distribution Centre
+60591,Reebok,Canada,CYC Manufacturing,68 East 1st Ave,(blank),(blank),Vancouver,V5T 1A1,Tier 1 - Primary,British Columbia,Apparel,5.0,Store
+60635,Reebok,China,"ZHEJIANG OUTLOOK OPTICAL MANUFACTORY CO., LTD.","No. 12 Shengye Road,","LuCheng Light Industry Specialized Zone, ",(blank),Wenzhou,325019,Tier 1 - Primary,Zhejiang,Accessories,48.0,Store
+60638,Reebok,Pakistan,Crown Textile Unit No.II,"Plot No. D-249/C1,",S.I.T.E,(blank),KARACHI,75840,Tier 1 - Primary,Sindh,Apparel,22.0,Store
+60656,Adidas,Indonesia,PT. Pungkook Indonesia One,Jl. Raya Pabuaran Sarengseng Km 3,Desa Pabuaran,"Kec. Pabuaran, Kab. Subang",Subang,41262,Tier 1 - Primary,Jawa Barat,Accessories,352.0,Factory
+60669,Adidas,"Korea, Republic of (South Korea)",SJ Industry,"2F, #24-11, Garyeonsan-ro, ",Deokjin-gu,(blank),Jeonju-si,54889,Tier 1 - Primary,Cholla-bukto,Apparel,3.0,Store
+60787,Reebok,Pakistan,N.F.K. Exports (Pvt) Ltd.,"F-748/C, SITE, ",(blank),(blank),KARACHI,75700,Tier 1 - Primary,Sindh,Apparel,55.0,Distribution Centre
+60862,Reebok,China,Shenzhen HeiYun Packing Co Ltd,"Building 48 & 1/F to 3/F of Building 47,","Bao-Tian Industrial Zone, Oian-Jin 2 Rd, ","XiXiang, Baoan District ",Shenzhen City ,518102,Tier 1 - Primary,Guangdong,Accessories,41.0,Store
+61026,Reebok,China,"Xiamen Legend Bags Co., Ltd.","3/F,#8 Bldg., Gold Industrial Zone, No.126","HongTangTou 1st Road,Tong'An District,Xiamen,China",(blank),Xiamen,361100,Tier 1 - Primary,Fujian,Accessories,5.0,Store
+61073,Reebok,China,"Wellpower (Jiangxi) Sporting Goods Co., Ltd.","Xinqu Avenue, Economic Development New Zone,",Xingguo County,(blank),Dongguan,523425,Tier 1 - Primary,Jiangxi,"Accessories, Gear",57.0,Distribution Centre
+61109,Adidas,Pakistan,Style Textile (Pvt) Ltd (unit-4),"25 Km, Multan Road ",(blank),(blank),Lahore,54500,Tier 1 - Primary,Punjab,Apparel,152.0,Distribution Centre
+61478,Reebok,China,"Ningbo Hengyi Garments Co., Ltd.","NUMBER 48, HENGAN ROAD",FANGQIAO INDUSTRIAL,"JIANGKOU STREET, FENGHUA",Ningbo ,315514,Tier 1 - Primary,Zhejiang,Apparel,12.0,Store
+61499,Adidas,United States,Gildan USA Inc.,146 W. Country Club Rd,(blank),(blank),Hamer,29547,Tier 1 - Primary,South Carolina,Apparel,5.0,Store
+61524,Adidas,Pakistan,Style Textile (Pvt) Ltd.Unit 5,"37, KM, Multan Road",(blank),(blank),Lahore ,55270,Tier 1 - Primary,Punjab,Apparel,135.0,Distribution Centre
+61607,Adidas,Belgium,Cousy BVBA,Vandendrieschestraat 10,(blank),(blank),Zottegem,9620,Tier 1 - Primary,Flemish,Apparel,3.0,Store
+61619,Reebok,China,ZHEJIANG CHENGPENG INDUSTRY AND TRADE CO LTD,"#3 WEIWE WEST RD. TONQIN HARDWARE & MACHINE IND. PARK, WUYI",(blank),(blank),Jinhua,321200,Tier 1 - Primary,Zhejiang,Accessories,50.0,Store
+61717,Adidas,Japan,"Kubota Industry Co., Ltd.",1-24-3,NISHIIMAGAWA,HIGASHISUMIYOSHIKU,Osaka city,5460042,Tier 1 - Primary,Osaka,Accessories,1.0,Store
+61803,Reebok,"Korea, Republic of (South Korea)",AUAPLUS,"353-4 SAMNAK DONG,SASANG-GU,BUSAN, KOREA",(blank),(blank),BUSAN,617-825,Tier 1 - Primary,Pusan-gwangyoksi,Footwear,2.0,Store
+61892,Adidas,Turkey,ORDESA TEKSTIL SAN. TIC. LTD. STI.,Karapinar Mah. 1193 Sokak No: 1/A,(blank),(blank),Ordu,52100,Tier 2 – Subcontractor,Ordu,Apparel,21.0,Store
+61970,Reebok,Taiwan,Chengyi Optical Co Ltd,No.42,Industrial 2nd Road,An Nan District,Tainan,709,Tier 1 - Primary,(blank),Accessories,14.0,Store
+62023,Adidas,Cambodia,Suntex Private Limited,"No. 8 Street Choam Chao, Sangkat","Choam Chao, Khan Por Senchey",(blank),Phnom Penh,12412,Tier 1 - Primary,(blank),Apparel,200.0,Distribution Centre
+62055,Reebok,United Kingdom,Echelon Sport Ltd,"Unit D, Zenith Park",Whaley Road,"Barnsley, South Yorkshire",Barnsley,S75 1HT ,Tier 1 - Primary,England,Accessories,1.0,Store
+62059,Adidas,"Korea, Republic of (South Korea)",Dasom Apparel,2F Raon B/D Nambu-beltway,Yangcheon-gu,(blank),Seoul,8032,Tier 1 - Primary,(blank),Apparel,5.0,Store
+62079,Reebok,China,Liaoyuan Northeast Socks Business Group Ltd,"Northeast Hosiery Park, Building #E4-2",Liaoyuan Economic Development Zone,(blank),Liaoyuan,136200,Tier 1 - Primary,Jilin,"Accessories, Apparel",23.0,Store
+62096,Adidas,Vietnam,"Ever Tech Plastic Vietnam Co., Ltd","My Hiep Ward,","Thai Hoa Town,",Tan Uyen District,Binh Duong Province,,Tier 2 – Subcontractor,Binh Duong,Footwear,168.0,Distribution Centre
+62100,Adidas,Vietnam,"Sung Shin Viet Nam Co,.Ltd",Lot 112-113-114-116 ,Linh Trung Export Processing Export ,Thu Duc District,Ho Chi Minh,700000,Tier 2 – Subcontractor,(blank),Footwear,160.0,Distribution Centre
+62162,Adidas,Ukraine,Hoch-Bereg LTD - Facility 3,Macsola Street 112/1,(blank),(blank),Beregszász,90200,Tier 2 – Subcontractor,Zakarpats'ka,Accessories,11.0,Store
+62534,Adidas,"Korea, Republic of (South Korea)",Hana Apparel,"31, Yongun-ro 205beon-gil,",(blank),Dong-gu,Daejeon,34521,Tier 1 - Primary,Taejon-gwangyoksi,Apparel,6.0,Store
+62535,Adidas,"Korea, Republic of (South Korea)",Jinmo apparel,"KyoungJin B/D,23",Seongnaecheon-ro 47-gil,Songpa-Gu,Seoul,5748,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,4.0,Store
+62536,Adidas,"Korea, Republic of (South Korea)",JungDong Textile,"6, 329gil, gobong-ro",Ilsanseo-gu,(blank),Goyang-si,10339,Tier 1 - Primary,Kyonggi-do,Apparel,1.0,Store
+62538,Adidas,"Korea, Republic of (South Korea)",SunJin apparel,"3F, #460-27","Mangu-dong, Jungnang-gu",(blank),Seoul,2173,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,4.0,Store
+62539,Adidas,"Korea, Republic of (South Korea)",Terri Socks,"483-1, TaeChundong",Gwangju-si,(blank),Gwangju-si,12782,Tier 1 - Primary,Kyonggi-do,"Accessories, Apparel",0.0,Store
+62706,Adidas,Argentina,DERWILL S.A. new location,Esteban Echeverria 3250 -Don Torcuato,(blank),(blank),Buenos Aires,1611,Tier 1 - Primary,Buenos Aires,Apparel,10.0,Store
+62965,Adidas,India,SE SHOES PVT LTD,"Plot No.-67,",Sec-27A,(blank),Faridabad,121003,Tier 2 – Subcontractor,Haryana,Footwear,20.0,Store
+62997,Adidas,China,"Shangrao Realtop Sporting Goods Co.,Ltd. ","Lulin Street Yuetu Building, Lulin Industrial Zone","Guangfeng County, Shangrao City", Jiangxi Province China,Shangrao City,334600,Tier 2 – Subcontractor,Jiangxi,Footwear,4.0,Store
+63051,Adidas,United States,Cascade Systems Technology,23176 SW Bennett St.,(blank),(blank),Hillsboro,97124,Tier 1 - Primary,Oregon,Gear,6.0,Store
+63079,Reebok,China,Jilin Province Northeast Socks Industry Park Hosiery Knitting Co. Ltd ,Building F6,Northeast Socks Textile Industry Park,Economic Development Zone,Liaoyuan,136200,Tier 1 - Primary,Jilin,Apparel,33.0,Store
+63153,Adidas,Vietnam,"Sein Together Kee Eun Vietnam Co., Ltd.",LOT 6 - THUY VAN INDUSTRIAL ZONE,(blank),(blank),VIET TRI,29000,Tier 1 - Primary,Phu Tho,Apparel,167.0,Distribution Centre
+63178,Adidas,"Korea, Republic of (South Korea)",WooHoSA,"2F,12-1, Huimang-ro 392beon-gil"," Jungwon-gu,",(blank),Seongnam-si,13396,Tier 2 – Subcontractor,Kyonggi-do,Apparel,2.0,Store
+63179,Adidas,"Korea, Republic of (South Korea)",SungJoon Silup,"#43-1, Myeonmok 3-dong, Jungnang-gu",(blank),(blank),Seoul,2222,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63180,Adidas,"Korea, Republic of (South Korea)",Daehyungsa,"1F, #412-49,Mangu 3-dong, Jungnang-gu",(blank),(blank),Seoul,2173,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63181,Adidas,"Korea, Republic of (South Korea)",JinJoo,"#322-128, Junghwa 2-dong, Jungnang-gu",(blank),(blank),Seoul,2106,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,0.0,Store
+63188,Adidas,Thailand,"Sincerely Screen Co., Ltd.",30/138,Khok-Kham,(blank),Muang,74000,Tier 2 – Subcontractor,Samut Sakhon,Apparel,28.0,Store
+63320,Reebok,China,"Xinxing Xin De Run Garment Co., Ltd","Guangxing Avenue, Dongyao, ","Dongcheng Town, ",Xinxing County,Yunfu,527400,Tier 1 - Primary,Guangdong,Apparel,30.0,Store
+63328,Adidas,"Korea, Republic of (South Korea)",Shinshin,"#411-38, Mangu-dong, Jungnang-gu",(blank),(blank),Seoul,2183,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,2.0,Store
+63329,Adidas,"Korea, Republic of (South Korea)",Soosungsa,"#572-1, Myeonmok 3-dong, Jungnang-gu",(blank),(blank),Seoul,131 831,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63330,Adidas,"Korea, Republic of (South Korea)",MyungSung,"#512-48, Mangu-dong, Jungnang-gu",(blank),(blank),Seoul,2168,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63331,Adidas,"Korea, Republic of (South Korea)",Joonsilup,"#5, Bongujae-ro, Jungnang-gu",(blank),(blank),Seoul,2127,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63332,Adidas,"Korea, Republic of (South Korea)",Hanyang Textile,"5, Bongujae-ro 41-gil, ",Jungnang-gu,(blank),Seoul,2153,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63339,Adidas,"Korea, Republic of (South Korea)",Socks Codi,"136-35, Ssangdong-ri, Chowol-eup,",(blank),(blank),Gwangju-si,12736,Tier 1 - Primary,Kyonggi-do,"Accessories, Apparel",0.0,Store
+63370,Adidas,Portugal,Carite Calcados LDA Topikrelevo I,Rua Nicolau Coelho Nr. 2729 Sendim,(blank),(blank),Felgueiras,4610-733,Tier 2 – Subcontractor,Porto,Footwear,19.0,Store
+63395,Adidas,Tunisia,Hochbereg Ltd. (Tunisia),Route Omar El Mokhtar,(blank),(blank),Bizerte - Ain Mariam,7000,Tier 1 - Primary,(blank),Accessories,16.0,Store
+63414,Adidas,"Korea, Republic of (South Korea)",Jinsungsa,"148-1, Gingorang-ro",Gwangjin-gu,(blank),Seoul,4945,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63415,Adidas,"Korea, Republic of (South Korea)",Ssangdoong Textile,"#32-1, Geumsang-ro, Jungwon-gu, Seongnam-si",(blank),(blank),Kyonggi-do,13231,Tier 2 – Subcontractor,Kyonggi-do,Apparel,1.0,Store
+63416,Adidas,"Korea, Republic of (South Korea)",Sehyun Jaedan,"#467-9, Mangubon-dong, Jungnang-gu",(blank),(blank),Seoul,131 810,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63417,Adidas,"Korea, Republic of (South Korea)",Grand Apparel,"#464-4, Mangu-dong, Jungnang-gu",(blank),(blank),Seoul,131 230,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,1.0,Store
+63418,Adidas,"Korea, Republic of (South Korea)",Jijoon Sangsa,"#221-56, Dongsam-dong, Yeongdo-gu",(blank),(blank),BUSAN,606 081,Tier 2 – Subcontractor,Pusan-gwangyoksi,Apparel,2.0,Store
+63419,Adidas,"Korea, Republic of (South Korea)",Daesungsa,"#1041-9, Jaesong, Haeundae-gu",(blank),(blank),BUSAN,612 050,Tier 2 – Subcontractor,Pusan-gwangyoksi,Apparel,0.0,Store
+63420,Adidas,"Korea, Republic of (South Korea)",Taekwang Apparel,"#481-8, Dongbang park, Yongho 1-dong, Nam-gu",(blank),(blank),BUSAN,608 091,Tier 2 – Subcontractor,Pusan-gwangyoksi,Apparel,1.0,Store
+63421,Adidas,"Korea, Republic of (South Korea)",Bansongsa,"#22-1, Bansong-dong, Haeundae-gu",(blank),(blank),Haeundae-gu,612 081,Tier 2 – Subcontractor,Pusan-gwangyoksi,Apparel,1.0,Store
+63422,Adidas,"Korea, Republic of (South Korea)",Kyungilsangsa,"#147-67, Seo-dong, Geumjeong-gu",(blank),(blank),BUSAN,609 401,Tier 2 – Subcontractor,Pusan-gwangyoksi,Apparel,1.0,Store
+63424,Adidas,"Korea, Republic of (South Korea)",Sejongsa,"#250-2555, Bansong-ro, Haeundae-gu",(blank),(blank),BUSAN,612 805,Tier 2 – Subcontractor,Pusan-gwangyoksi,Apparel,2.0,Store
+63425,Adidas,"Korea, Republic of (South Korea)",Keumhosa,"#281-44, 3F, Sinhyeon-dong, Seo-gu",(blank),(blank),Incheon,404 240,Tier 2 – Subcontractor,Inch'on-gwangyoksi,Apparel,1.0,Store
+63427,Adidas,"Korea, Republic of (South Korea)",Dada Fashion,"#178-14, Cheongcheon-dong, Bupyeong-gu",(blank),(blank),Incheon,403 031,Tier 2 – Subcontractor,Inch'on-gwangyoksi,Apparel,1.0,Store
+63428,Adidas,"Korea, Republic of (South Korea)",Kyunghone,"#11-35, Cheongcheon 2-dong, Bupyeong-gu",(blank),(blank),Incheon,403 032,Tier 2 – Subcontractor,Inch'on-gwangyoksi,Apparel,1.0,Store
+63430,Adidas,"Korea, Republic of (South Korea)",Youngseonne,"#45-1, Dodang-dong, Wonmi-gu, Bucheon-si",(blank),(blank),Kyonggi-do,420 130,Tier 2 – Subcontractor,Kyonggi-do,Apparel,2.0,Store
+63481,Reebok,Thailand,"Milott Laboratories Co., Ltd.",84/55 Moo 11 Soi Tanasit,Teparak Road,"Bangpla, Bangplee",Bangplee,10540,Tier 1 - Primary,Samut Prakan,Accessories,190.0,Distribution Centre
+63546,Adidas,India,Fabsol,"Khasra No. 3844,  Lal Tappar Industrial Area , Majri Grant ",(blank),(blank),Dehradun,248140,Tier 2 – Subcontractor,Uttarakhand,Footwear,20.0,Store
+63552,Adidas,Pakistan,Forward Gear Subcontractor,Daska Road SAGA building,(blank),(blank),Sialkot,51310,Tier 2 – Subcontractor,Punjab,Accessories,5.0,Store
+63563,Reebok,China,"Zhejiang Meixina Garment Co., Ltd","No. 366 Xiwang Road, Jindong Economic Development Zone",(blank),(blank),Jinhua,321036,Tier 1 - Primary,Zhejiang,Apparel,21.0,Store
+63568,Reebok,China,JINJIANG DALI GARMENTS & WEAVING Co. Ltd.,Donghaian Industrial Zone,Shenhu Town,(blank),jinjiang,362200,Tier 1 - Primary,Fujian,Apparel,17.0,Store
+63657,Adidas,"Korea, Republic of (South Korea)",Hankook Jabang,"#151-11, Sinhyeon-dong, Seo-gu",(blank),(blank),Incheon,404 240,Tier 2 – Subcontractor,Inch'on-gwangyoksi,Apparel,2.0,Store
+63658,Adidas,"Korea, Republic of (South Korea)",NK,"#764-14, Jakjeon-dong, Gyeyang-gu",(blank),(blank),Incheon,407 061,Tier 2 – Subcontractor,Inch'on-gwangyoksi,Apparel,2.0,Store
+63659,Adidas,"Korea, Republic of (South Korea)",Dongkwang,"#150-16, Gasan-dong, Geumcheon-gu",(blank),(blank),Seoul,153 023,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,2.0,Store
+63661,Adidas,"Korea, Republic of (South Korea)",Sooyeonsa,"#548-6, Sinwol 6-dong, Yangcheon-gu",(blank),(blank),Seoul,158 091,Tier 2 – Subcontractor,Soul-t'ukpyolsi,Apparel,0.0,Store
+63669,Reebok,China,"NingBo AiQiOu Garment Co., Ltd.",No. 111 XiaoGao West Road,XinXing Industrial Park ,ShouNan Street ,Ningbo,315194,Tier 1 - Primary,Zhejiang,Apparel,17.0,Store
+63680,Adidas,"Korea, Republic of (South Korea)",SJ Industry(sub),"#332-12, Palbok-dong 1-ga, Deokjin-gu, Jeonju-si",(blank),(blank),Jeonju,561 201,Tier 2 – Subcontractor,Cholla-bukto,Apparel,3.0,Store
+63682,Adidas,"Korea, Republic of (South Korea)",Jungwon Apparel,"#12, 84gil, Sangmichun-ro, Yeonje-gu",(blank),(blank),BUSAN,611 071,Tier 2 – Subcontractor,Pusan-gwangyoksi,Apparel,1.0,Store
+63744,Adidas,Bangladesh,Karnaphuli Shoes Industries Limited (Garment Unit),Korean Export Processing Zone,"Anowara, ",(blank),Chittagong,4371,Tier 1 - Primary,Chittagong / Chattogram,Apparel,804.0,Factory
+63755,Adidas,Mexico,Bolsas y Papeles Morysan S.A. de C.V.,Av. Santa Lucia No. 162,Fracc. Industrial San Antonio,Azcapotzalco,Mexico City,2760,Tier 1 - Primary,Distrito Federal,Accessories,11.0,Store
+63763,Adidas,China,"Evervan Chang Ning Footwear Co.,Ltd. (EVL)",Taizi Industry zone,"Qingyang road north,Qingyang new zone",(blank),Changning City,421500,Tier 2 – Subcontractor,Hunan,Footwear,75.0,Distribution Centre
+63833,Adidas,China,"ASCOTT UNDERWEAR CO.,LTD.DALIAN",1-4 LAYER NO.297 JINWAN ROAD ZHANQIAN STREET,JINZHOU DISTRICT,(blank),DALIAN CITY,116000,Tier 1 - Primary,Liaoning,Apparel,4.0,Store
+63896,Adidas,Vietnam,"All Wells International Co., Ltd",Street No. 81,"Toc Tien Commune, Tan Thanh District",(blank),Vung Tau,79000,Tier 1 - Primary,Ba Ria-Vung Tau,Footwear,204.0,Distribution Centre
+63903,Adidas,Vietnam,ELITE INVESTMENT WORLDWIDE COMPANY LIMTED,"1165, 1A Nation Road, An Phu Dong Ward,","12 District,",(blank),Ho Chi Minh City,700000,Tier 1 - Primary,Thanh pho Ho Chi Minh,Apparel,141.0,Distribution Centre
+63912,Adidas,Costa Rica,Calcetines Fieles S.A. (new location),Ofibodegas Santa Rosa  Filia #25-26,1KM al Oeste del Inbio Parque,(blank),Santo Domingo,34-3100,Tier 1 - Primary,Heredia,Apparel,6.0,Store
+64001,Adidas,Taiwan,NIFCO TAIWAN CORPORATION (new facility),"No.198-81, Sec. 2, Zhong’ai Rd",Guanyin Township,Tao-Yuan county,Tao-Yuan,105,Tier 1 - Primary,Taipei,Accessories,22.0,Store
+64012,Adidas,Taiwan,"Chen Tai Laces Co., LTD."," NO.93, JEN LI RD., HOMEI",(blank),(blank),CHANGHWA,50845,Tier 1 - Primary,Taiwan,Accessories,5.0,Store
+64022,Adidas,United States,Organic Climbing LLC,331 Enterprise Drive,STE F,(blank),Philipsburg,16866,Tier 1 - Primary,Pennsylvania,Accessories,1.0,Store
+64043,Adidas,United States,Friends United Network Inc,1670 Sessums Drive,(blank),(blank),Redlands,92374,Tier 1 - Primary,California,Apparel,0.0,Store
+64190,Adidas,El Salvador,Impression Apparel Group S.A. de C.V.,"Blvd. Del Ejercito Km 8 1/2 Y Calle Cooperativa Algodonera, Edificio 1, Soyapango",(blank),(blank),San Salvador,(blank),Tier 1 - Primary,(blank),Apparel,98.0,Distribution Centre
+64361,Adidas,Myanmar,"Shyang Jhuo Yue Co., LTD."," K9, Anawyahtar Industrial Zone,", Hlaing Tharyar Township,Yangon,Yangon,11401,Tier 1 - Primary,Yangon,Footwear,82.0,Distribution Centre
+64394,Adidas,Brazil,Paqueta Calçados Ltda. (Pentecoste Pré-Fabricado),"Avenida Antonio Braga de Azevedo, 1",(blank),B. São Francisco,Pentecoste - CE,62640-000,Tier 2 – Subcontractor,Ceara,Footwear,9.0,Store
+64428,Adidas,Indonesia,PT BINABUSANA INTERNUSA,"JL TUGU WIJAYA IV,","Kawasan Industri Wijaya Kusuma, Randugarut, Tugu",Jl. Raya Semarang Kendal KM 12 ,Semarang,50153,Tier 1 - Primary,Jawa Tengah,Apparel,191.0,Distribution Centre
+64503,Adidas,Turkey,Erateks Tekstil Sanayi ve Ticaret A._. - Fatsa,Fatsa OSB M.Akif Be_ik Sok. No:8/2,(blank),(blank),Fatsa,,Tier 1 - Primary,Ordu,Apparel,38.0,Store
+64561,Adidas,China,ZHUCHENG HENGWEI CLOTHING CO.LTD,"EAST OF CHENJIAHUAYUAN VILLAGE, MIZHOU SUBDISTRICT, ZHUCHENG CITY, WEIFANG CITY, SHANDONG PROVINCE",(blank),(blank),WEIFANG CITY,262200,Tier 1 - Primary,Shandong,Apparel,16.0,Store
+64603,Adidas,South Africa,Vimal Clothing Enterprise C.C.,"4 Fairways Avenue, Fairways Park, Mount Edgecombe",(blank),(blank),Durban,4301,Tier 1 - Primary,KwaZulu-Natal,Apparel,28.0,Store
+64715,Reebok,China,"PUTIAN XIANGGUAN FOOTWARE CO., LTD","Hualin Industry Area, Chengxiang District",(blank),(blank),Putian,351139,Tier 1 - Primary,(blank),Footwear,300.0,Distribution Centre
+64723,Reebok,China,GUANGDONG RONGCHENG SPORTS MANUFACTURE COMPANY LIMITED DONGGUAN CHANGPING FIRST BRANCH,No. 5 Su-Keng Industrial 2nd Road,"Su-Keng Village, Chang Ping Town",Chang Ping Town,Dongguan City,523577,Tier 1 - Primary,Guangdong,Gear,24.0,Store
+64858,Adidas,China,"Ningbo Bridge Auslanbo Knitting, Co. Ltd. (New)","Bridge  industrial zone ,","500# guangwen road, ",shiqi town,Ningbo,315153,Tier 1 - Primary,Zhejiang,Accessories,33.0,Store
+64871,Adidas,China,"Dongguan City Shuoke Plastic & Metal Production Co., LTD",DN-110 Jingshan No.3 Industrial Zone,Chashan Town,(blank),Dongguan,523399,Tier 1 - Primary,Guangdong,Accessories,4.0,Store
+65410,Reebok,China,Guangzhou Panyu Dong Chong Chong Ming Glove Factory,"No. 43-5, Ji Xiang Wei Nan Street,",Dong Chong Town,Nansha District,Guangzhou,511453,Tier 1 - Primary,Guangdong,Apparel,34.0,Store
+65843,Reebok,Thailand,"UNIVERSAL SPORTING GOODS (THAI) CO., LTD.","91/1 MOO1 SOI WATTHIEN-DAD, PETCHKASEM RD., BAN-MAI, SAMPHARN",(blank),(blank),Nakhonpathom,73110,Tier 1 - Primary,Nakhon Pathom,Accessories,10.0,Store
+65846,Reebok,China,"XiaMen Yangli Clothing Co.Ltd [Itochu Fiber Trade (China) Co.,Ltd ]","No 152, TonganYuan, TongAn Industry",(blank),(blank),Xiamen,361000,Tier 1 - Primary,Fujian,Apparel,40.0,Store
+65860,Adidas,China,"Zhejiang Bangjie Digital Knitting Share Co., Ltd","Zhennan Estate, Suxi town Yiwu .Zhejiang.China",(blank),(blank),Yiwu,322009,Tier 1 - Primary,Zhejiang,Apparel,85.0,Distribution Centre
+65889,Reebok,China,"Tay Hsin (Nanhai, Foshan) Knitting Company Limited","No1. Shabu Wes Rd., Shabu Industrial District, ","Shachong, Lishui Town, Nanhai District, Foshan City.",Guangdong,Foshan,628244,Tier 1 - Primary,Guangdong,Accessories,31.0,Store
+66032,Adidas,Canada,"KG Spray-Pak, Inc.",8001 Keele Street,(blank),(blank),Vaughan,L4K1Y8,Tier 1 - Primary,Ontario,Accessories,20.0,Store
+66035,Reebok,Indonesia,PT Gistex,Jl Raya Bandung Cirebon Desa Sinarjati,RT 01 RW01,Dawuan,Majalengka,45453,Tier 1 - Primary,Jawa Barat,Apparel,214.0,Distribution Centre
+66089,Adidas,Bangladesh,Kenpark Bangladesh Apparel (Pvt) Ltd [K-5],"Plot #14/23, Sector #2",Karnaphuli Export Processing Zone,(blank),Chittagong,4204,Tier 1 - Primary,Chittagong / Chattogram,Apparel,260.0,Distribution Centre
+66218,Reebok,Honduras,POLYGRAPHIC,GREEN VALLEY INDUSTRIAL PARK,(blank),(blank),QUIMISTAN,,Tier 1 - Primary,Santa Barbara,Accessories,7.0,Store
+66357,Reebok,China,"ZheJiang Hindar Optical Co., Ltd",518# JIGUANG RD LOUQIAO IND AREA OUHAI DISTRICT,(blank),(blank),Wenzhou,325000,Tier 1 - Primary,Zhejiang,Accessories,42.0,Store
+66383,Adidas,United States,"Spirit Threads, LLC","11550 Plano Road, Suite 100",(blank),(blank),Dallas,75243,Tier 2 – Subcontractor,Texas,Apparel,2.0,Store
+66497,Reebok,Italy,Gloria Srl,"Via Torino, 101",Leini,(blank),Torino,10040,Tier 1 - Primary,Piemonte,Apparel,1.0,Store
+66566,Reebok,Indonesia,PT. Ricky Gunze,JL. Industry No.54,Tarikolot Citeureup,(blank),Bogor,16810,Tier 1 - Primary,Jawa Barat,Apparel,7.0,Store
+66643,Adidas,Japan,"Eishin Co., Ltd Fukushima Factory",43-1 Izumisaki Bouzukubo,Izumisaki Mura,Nishishirakawagun,Fukushima,969-0101,Tier 1 - Primary,(blank),Accessories,7.0,Store
+66662,Reebok,Bangladesh,Dada (Dhaka) Ltd.,"Holding #40, Village: Pagar, Joymot Khan Road"," Munnonagar, Pagar, Tongi",(blank),Gazipur,1710,Tier 1 - Primary,Dhaka,Apparel,214.0,Distribution Centre
+66696,Reebok,Indonesia,PT. Greentex Indonesia Utama II (New),JL. RAYA BANJARAN KM. 16.5,DS. BATUKARUT ,KECAMATAN ARJASARI,Bandung,40379,Tier 1 - Primary,Jawa Barat,Apparel,32.0,Store
+66728,Adidas,Argentina,Will Der S.A.,Cnel. Manuel Rosetti 3464,(blank),Olivos,Partido de Vicente Lopez,1636,Tier 1 - Primary,Buenos Aires,Apparel,4.0,Store
+66775,Adidas,Pakistan,Capital Sports Corporation (Pvt) Ltd.,Village Kopra,Wazirabad Road,"Sambrial, Sialkot","Sambrial, Sialkot",51070,Tier 1 - Primary,Punjab,Gear,18.0,Store
+66846,Reebok,Poland,Multi Packaging Solutions Tczew SP. Z.o.o.,ul. Malinowska 43,(blank),(blank),Tczew,83-100,Tier 1 - Primary,Pomorskie,Accessories,17.0,Store
+67010,Adidas,"Korea, Republic of (South Korea)",TaeHyun Apparel (New),"#444-13, Shinwol-dong, YangChen-gu",(blank),(blank),Seoul,158 091,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,6.0,Store
+67020,Adidas,China,"Zhuji Quanneng Knitting Co., Ltd.",NO22 Tianyuan Rd Lingshui Caota,(blank),(blank),ZhuJi,311812,Tier 1 - Primary,Zhejiang,Accessories,25.0,Store
+67241,Adidas,Pakistan,Style Textile (PVT) Limited (Sundar),"Block No.A(Plot No.143), Block-B(Plot No 152-A)",Block-C(Plot No.154-A) & Block-D(Plot No.153-B),Sunder Industrial Estate,"Lahore, Punjab",53801,Tier 1 - Primary,Punjab,Apparel,399.0,Factory
+67253,Reebok,Sri Lanka,Hirdaramani Garments Katunayake (pvt) Ltd (Cutting),"Ring Road 01, Export Process Zone",(blank),(blank),Katunayake,112,Tier 1 - Primary,Western,Apparel,10.0,Store
+67309,Adidas,Brazil,Industria de Calí_ados Serrota LTDA,Rua Manuel Camilo Cruz,Serrota,(blank),Pentecoste,0,Tier 2 – Subcontractor,Ceara,Footwear,18.0,Store
+67328,Adidas,United States,FIEBING COMPANY INC,516 S 2ND ST,(blank),(blank),MILWAUKEE,(blank),Tier 1 - Primary,(blank),Accessories,4.0,Store
+67355,Adidas,China,Wanguo(Qingyuan) footwear Ltd,"Qingyuan Nation Industrial Park,", Lianzhou city,(blank),Qingyuan ,513400,Tier 2 – Subcontractor,Guangdong,Footwear,60.0,Distribution Centre
+67412,Adidas,"Korea, Republic of (South Korea)",YUJIN TEXTILE CO.,"260-1,Sungsu-2Ga 1Dong",Sungdong-Gu,(blank),Seoul,4785,Tier 1 - Primary,Soul-t'ukpyolsi,Apparel,2.0,Store
+67414,Reebok,Japan,YUI KOUBOU CO. LTD,497-6 Yamanokami Machi,(blank),(blank),Ota-Shi,379-2302 ,Tier 1 - Primary,Gunma,Apparel,1.0,Store
+67454,Reebok,India,JVS SPORTING GOODS,B-9,"Sports Goods Complex , Delhi Road",(blank),Meerut,250001,Tier 1 - Primary,Uttar Pradesh,Accessories,9.0,Store
+68018,Reebok,China,"DADA WUXI Accessories Co.,Ltd","No.33,Deng Street,Hongdon Village,Gushan Town",(blank),(blank),Jiangyin,214400,Tier 1 - Primary,Jiangsu,Apparel,3.0,Store
+68061,Adidas,China,"Fujian Pageone Garments Co., Ltd",Chigang Overseas Chinese Economic Development Zone,(blank),(blank),Putian ,351117,Tier 1 - Primary,Fujian,Apparel,25.0,Store
+68089,Adidas,United States,Stone Age Equipment,1411 West State Street,(blank),(blank),Redlands,92373,Tier 1 - Primary,California,Accessories,1.0,Store
+68091,Adidas,Italy,Point Tricot srl,Via Dei Tigli 16,(blank),(blank),Osimo,60027,Tier 1 - Primary,(blank),Apparel,3.0,Store
+68248,Reebok,Spain,"GRAFOPACK, S.A.","Ctra. N-II, Km. 557",(blank),(blank),Odena,8711,Tier 1 - Primary,(blank),Accessories,13.0,Store
+68287,Reebok,China,"Ningbo Auning Clothing Co., Ltd. ","Building 3, No. 99 Baining St. ",Ailiu Industrial Park ,"Jiangdong, Ningbo ",Ningbo,313040,Tier 1 - Primary,Zhejiang,Apparel,10.0,Store
+68289,Reebok,Cambodia,Hulu Garment Co ltd,"Phum Chak Chrouk, Sangkat Samrong Kram,","Khan Dangkor, Phnom Penh,",Kingdon Of Cambodia,Phnom Penh,12400,Tier 1 - Primary,(blank),Apparel,105.0,Distribution Centre
+68297,Adidas,Vietnam,DOMEX (QUANG NAM) COMPANY LIMITED,"Lot B/B1, ","Ha Lam Industrial Group, ","Binh Phuc Commune, Duoc Market",Thang Binh District,51000,Tier 1 - Primary,Quang Nam,Apparel,98.0,Distribution Centre
+68307,Reebok,Vietnam,Seyang Vietnam Corporation,"PLOT NO.54-IN SMALL SCALE INDUSTRY COMPLEX,","TRADE VILLAGE, NHAT TAN COMMUNE",(blank),Kimbang District,700635492,Tier 1 - Primary,Ha Nam,Apparel,56.0,Distribution Centre
+68434,Reebok,Myanmar,United Knitting (Myanmar) Co. Ltd,Industrial Zone No. 3,No. 43 Hlain Tharyar Township,(blank),Yangon,11401,Tier 1 - Primary,Yangon,"Accessories, Apparel",32.0,Store
+68449,Reebok,Spain,"Sampling Innovations Europe, S.L.","C/ Placa nova, 1",(blank),(blank),Santa Perpetua de la Mogoda,8202,Tier 1 - Primary,(blank),Accessories,1.0,Store
+68523,Adidas,Brazil,Ranee Indústria e Comércio Ltda - Saudades,"Rua Marcilio Dias, 163 Centro",(blank),(blank),Saudades,89868000,Tier 1 - Primary,Santa Catarina,Apparel,3.0,Store
+68647,Adidas,Vietnam,"HIMARU BEN TRE CO., LTD","Tinh lo 883, EI-1 Block",Giao Long Industrial Park in 2nd Stages,"An Phuoc Village, Chau Thanh District",Ben Tre,930000,Tier 1 - Primary,Ben Tre,Accessories,44.0,Store
+68676,Adidas,"Korea, Republic of (South Korea)",SAMWOO CO,"147, IBIZ TOWER 1106, Seongsoo2-Ga",Seongdong-gu,(blank),Seoul,133 120,Tier 1 - Primary,Soul-t'ukpyolsi,Accessories,0.0,Store
+68746,Adidas,Vietnam,Thuan Phuong Embroideries Garments Company Limited Binh Chanh Factory,"D15/8 Dinh Duc Thien, Hamlet 4, Binh Chanh Commune, Binh Chanh District",(blank),(blank),Ho Chi Minh,70000,Tier 1 - Primary,Thanh pho Ho Chi Minh,Apparel,141.0,Distribution Centre
+68844,Adidas,Brazil,Ranee Industria e Comercio Ltda. 3 (Campo Erê),"Rua 31 de março, S/N",(blank),(blank),Campo Ere,89980000,Tier 1 - Primary,Rio Grande do Sul,Apparel,43.0,Store
+68847,Adidas,Cambodia,"PILOT KNIT SPORT WEAR (CAMBODIA) CO., LTD","Building 1, Vattanac II Industrial Park","Highway No.3,  ","Sangkat  Krang  Pongror,  Khan  Dangkor",Phnom Penh,12412,Tier 1 - Primary,Phnom Penh,Apparel,44.0,Store
+68886,Adidas,Vietnam,"Tuntex Soc Trang Viet Nam Co., Ltd","Lot H, An Nghiep Industrial zone",An Hiep commune,Chau Thanh district,Soc Trang,950000,Tier 1 - Primary,Soc Trang,Apparel,146.0,Distribution Centre
+68991,Adidas,Indonesia,PT Bintang Indokarya Gemilang,Jl. Raya Cendrawasih KM 20,Desa Tengguli No. 06,Kecamatan Tanjung Kabupaten Brebes,Brebes,52254,Tier 1 - Primary,Jawa Tengah,Footwear,289.0,Distribution Centre
+69055,Adidas,Myanmar,"Thong Thai Textile (Myanmar) Co.,Ltd","175 Pan Be Kaung Mg Khet Street ,",Hliang Thar Yar  Zone (1),(blank),Hliang Thar Yar Township,11401,Tier 1 - Primary,Yangon,Apparel,54.0,Distribution Centre
+69179,Reebok,Poland,TOMADEX SC,WARSZAWSKA 69A,(blank),(blank),ALEKSANDROW LODZKI,95-070,Tier 1 - Primary,Lodz,Apparel,7.0,Store
+69183,Reebok,China,JIANGXI NEW STAR ENTERPRISE CO LTD.,"Wanxin Management Area, ",Pingxiang Economic Development Zone,(blank),Pingxiang,337000,Tier 1 - Primary,Jiangxi,Footwear,78.0,Distribution Centre
+69241,Reebok,Spain,"Industrias Químicas Perlacos, S.L.","c/ Berlin, 33 - Pol. Ind.",(blank),(blank),Torres de la Alameda,28813,Tier 1 - Primary,Madrid,Accessories,2.0,Store
+69298,Reebok,China,"Lexi (Ningbo) Garment Co., Ltd.",Panhuo Inudstrial Zone,Sonjiang Road ,"Ningbo, Zhejiang ",Ningbo ,315100,Tier 1 - Primary,Zhejiang,Apparel,34.0,Store
+69392,Adidas,China,"Dongguan Hechang Bags&Leather Goods,Co Ltd","The 2nd Industrial Zone, Xinnan Village,Qishi Town, Dongguan Guangdong Province.",(blank),(blank),Dongguan,523500,Tier 1 - Primary,Guangdong,Accessories,15.0,Store
+69431,Reebok,China,Dongguan Bin Bin Fashion Co Ltd,49 ZhongXing Road,"Renzhonggang Industrial Zone, BeiZha",Hu Men Town,Dongguan,523900,Tier 1 - Primary,Guangdong,Apparel,25.0,Store
+69446,Reebok,Thailand,"Thai Daizo Aerosol Co.,Ltd.",700/372 Moo 6,Tambol Nongmaidaeng,(blank),Amphur Muang,20000,Tier 1 - Primary,Chon Buri,Accessories,56.0,Distribution Centre
+69610,Adidas,China,"HYOWON Shoe Manufacturing (Dalian) Co., Ltd","Lingqianwei, Xingda Street,",Zhuanghe,(blank),Dalian,116400,Tier 2 – Subcontractor,Liaoning,Footwear,18.0,Store
+69633,Adidas,China,Quanzhou Xingzhu Shoes Material Co. Ltd.,Jin jiang Economic Development Zone,(blank),(blank),Quanzhou,362200,Tier 2 – Subcontractor,Fujian,Footwear,176.0,Distribution Centre
+69852,Reebok,China,Worthpak Manufacturing Limited,Shanbaotan Industrial Zone,Shipai Town,(blank),Donguan City,523335,Tier 2 – Subcontractor,Guangdong,Accessories,30.0,Store
+69867,Adidas,United Kingdom,ExcelPress Ltd,"Unit 7 Wimsey Way, Alfreton Trading Estate","Somercotes, Alfreton",Derbyshire,Derbyshire,DE55 4LS,Tier 1 - Primary,England,Apparel,12.0,Store
+69990,Reebok,China,Hangzhou Xuanbo Fitness Equipment Co Ltd,"No 8,RD 05,Dongzhou Industry Zone, ",Fuyang District,(blank),Hangzhou,311401,Tier 1 - Primary,Zhejiang,Gear,12.0,Store
+70056,Adidas,Mauritius,RT KNITS LTD,PEUPLIERS AVENUE,(blank),(blank),POINTE AUX SABLES,11123,Tier 1 - Primary,(blank),Apparel,199.0,Distribution Centre
+70113,Adidas,China,"Hangzhou De Licacy textile., co.,Ltd.","NO.15, 14th street, Hangzhou economic & technological",(blank),(blank),Hangzhou,310018,Tier 1 - Primary,(blank),Apparel,90.0,Distribution Centre
+70139,Adidas,United States,"Southland Graphics Apparel, LLC","1230 Samples Industrial Drive, 57E 100-200",(blank),(blank),Cumming,30041,Tier 2 – Subcontractor,Georgia,Apparel,1.0,Store
+70164,Adidas,Myanmar,"Tsang Yih Co., Ltd.","Plot No. X3/X4/X5/X6, ",Myay Taing Block No. 20,Anawyahtar Industrial Zone ,Hlaing Thar Yar Township,11401,Tier 1 - Primary,Yangon,Footwear,60.0,Distribution Centre
+70373,Adidas,El Salvador,SUPERTEX LOURDES S.A. DE C.V.,KM 26.10 Carretera Panamericana,"Intercomplex Industrial Park, Block A.",(blank),San Juan Opico,,Tier 1 - Primary,La Libertad,Apparel,85.0,Distribution Centre
+70394,Adidas,Myanmar,Myanmar Pou Chen Company Limited,"No.112/121, No.4 High Way Road, ",Thardu Kan Industrial Zone,Shwe Pyi Thar Township,Yangon,11411,Tier 1 - Primary,Yangon,Footwear,473.0,Factory
+70420,Reebok,Italy,Alialux Srl,Via Napoli 42,(blank),(blank),Angera,21021,Tier 1 - Primary,Lombardia,Accessories,3.0,Store
+70740,Adidas,Argentina,Calcotrans S.R.L.,EC Villegas 2288 ( calle 47 ),Villa Maipu - San Martin - B 1650 LLT,(blank),Buenos Aires,0,Tier 2 – Subcontractor,Buenos Aires,Apparel,2.0,Store
+70770,Adidas,United States,RJ Liebe Company,582 Goddard Ave,(blank),(blank),Chesterfield,63005,Tier 2 – Subcontractor,Montana,Apparel,8.0,Store
+70785,Reebok,Pakistan,Masood Textile Mills (Eagle Div.),"Kohinoor Mills Jaranwala Road,",(blank),(blank),Faisalabad,38000,Tier 1 - Primary,Punjab,Apparel,247.0,Distribution Centre
+70839,Reebok,"Korea, Republic of (South Korea)",Skan,#522-5 Yonghyun Dong,(blank),(blank),Uijeong Bu City,480-859,Tier 1 - Primary,Kyonggi-do,Accessories,8.0,Store
+70841,Reebok,"Korea, Republic of (South Korea)",Leaders ENG,"#71-24 Samjung Dong, Ojung Gu",(blank),(blank),Bucheon City,410-834,Tier 1 - Primary,Kyonggi-do,Accessories,3.0,Store
+70867,Reebok,China,BAOJI HAWK IND. & TRADE CO. LTD,No. 17 Chencang Middle Road,"Chencang District,Baoji City,   ",(blank),Baoji ,721300,Tier 1 - Primary,Shanxi,Gear,20.0,Store
+70872,Reebok,China,"NANTONG RENAISSANCE ACCESSORIES CO.,LTD.","No. 98 Xingyuan Nan Road,",Xiayuan Town,Rugao (Shi),Nantong,226543,Tier 1 - Primary,Jiangsu,Apparel,10.0,Store
+70873,Reebok,China,"SUZHOU  HAOLILAI GARMENT CO.,LTD","NO.5-1, YOU XIANG ROAD",WUZHONG DISTRICT,(blank),SUZHOU,215104,Tier 1 - Primary,Jiangsu,Apparel,10.0,Store
+71079,Adidas,Pakistan,Challenge Apparels Limited,Rachna Town 2,Satyana Road,(blank),Faisalabad,38000,Tier 1 - Primary,Punjab,Apparel,110.0,Distribution Centre
+71140,Reebok,Russia,JSC Arnest,"Kombinatskaya str, 6",(blank),(blank),Nevinnomyssk,357107,Tier 1 - Primary,Stavropol'skiy,Accessories,120.0,Distribution Centre
+71169,Adidas,Turkey,Turkuaz Tekstil San. ve Tic. A.Ş. ,Akçeşme Mahallesi 2053 Sokak No.3 Merkez Efendi,(blank),(blank),Denizli,20020,Tier 1 - Primary,Denizli,Accessories,26.0,Store
+71190,Adidas,Vietnam,"HWASEUNG VINA CO., LTD - Nhon Trach Branch",Street No. 3,Nhon Trach Industrial Zone 1,Nhon Trach District,Dong Nai,815800,Tier 1 - Primary,Dong Nai,Footwear,300.0,Distribution Centre
+71334,Adidas,India,Aryan Apparels Pvt. Ltd. (Plot No. 109),Plot No. 109 Sec-04 IMT Manesar,(blank),(blank),Gurgaon,122050,Tier 1 - Primary,Haryana,Apparel,7.0,Store
+71350,Adidas,Vietnam,WORLDON (VIET NAM) COMPANY LIMITED,"Lot D1, Road D4, Dong Nam IP, Hoa Phu commune, ",Cu Chi district,(blank),Ho Chi Minh,733030,Tier 1 - Primary,(blank),Apparel,567.0,Factory
+71379,Adidas,India,Jeans Knit Private Limited (Flat Knits Sweater Unit),"Plot No.SW 9 & 10,  Apparel Park,","Industrial Area, Arehalli, Guddadahalli Village, ","Doddaballapura Taluk, ",Bangalore Rural District ,561203,Tier 1 - Primary,Karnataka,Apparel,154.0,Distribution Centre
+71413,Reebok,Taiwan,Sunever Eyewear Co LTD,"42, Lane 220, SEC.2 Gongxue RD.",Annan District,(blank),Tainan City,70947,Tier 1 - Primary,(blank),Accessories,10.0,Store
+71427,Adidas,China,"Young Sporting Goods (Suzhou) Co., Ltd.",No.498 ChangAn Road,Wujiang Economic & Technological Development Zone,(blank),SuZhou,215200,Tier 1 - Primary,Jiangsu,Accessories,51.0,Distribution Centre
+71511,Adidas,China,"Qingdao Bright Garment Co., Ltd.","57 Shuyundong Road, Unit 2-401, Chengyang",(blank),(blank),Qingdao,266107,Tier 1 - Primary,Shandong,Apparel,2.0,Store
+71665,Adidas,"Korea, Republic of (South Korea)","J.Fashion Co., Ltd.",Godong-ro 37,(blank),(blank),Iksan,570963,Tier 1 - Primary,Cholla-bukto,Accessories,3.0,Store
+71687,Reebok,China,Nan Jing Gather Europe Headwear Manufacture Co. Ltd.,ROOM 402,NO.16 FENGHUI AVENUE,YUHUA ECONOMIC DEVELOPMENT ZONE,Nanjing,210039,Tier 1 - Primary,Jiangsu,Apparel,2.0,Store
+71714,Reebok,United States,"Hydro Graphics, Inc.",705 S. Springbrook Rd. Suite A100,(blank),(blank),Newberg,97132,Tier 1 - Primary,Oregon,Gear,4.0,Store
+71731,Adidas,China,Fuzhou  HuiFu  Shoes Made  Co.LTD,Xianzhi Street NO.42,Huitou Industrial subdistrict,Mawei,Fuzhou,350014,Tier 2 – Subcontractor,Fujian,Footwear,30.0,Store
+71749,Adidas,Japan,"KANKO APPAREL CO.,LTD. HAKUTA FACTORY","101-1, Shimojunenbata, hakuta shou",(blank),(blank),Yasugi,692-0326,Tier 1 - Primary,Shimane,Apparel,4.0,Store
+71790,Reebok,Japan,"Seed Co.,Ltd.","3-5-25 Uchindai-cho, ",(blank),(blank),Miyakojima-ku,534-0013,Tier 1 - Primary,Osaka,Accessories,7.0,Store
+71791,Reebok,Japan,"Totsuya Echo Co.,ltd.",13-2 Sasame Kita-machi,(blank),(blank),Toda,335-0033,Tier 1 - Primary,Saitama,Accessories,11.0,Store
+71792,Adidas,Japan,"Mitsubishi Pencil Co.,Ltd. Gunma Factory","1091, Tateishi",(blank),(blank),Fujioka,375-8051,Tier 1 - Primary,Gunma,Accessories,25.0,Store
+71794,Reebok,Japan,"Yamagata Mitsubishi Pencil Precision Co.,ltd.","4026-1, kamikomatsu",(blank),(blank),kawanishi-machi,999-0121,Tier 1 - Primary,Yamagata,Accessories,33.0,Store
+71795,Reebok,Japan,"Syuyusya Co.,Ltd.","5-1-10, shinozaki-machi",(blank),(blank),Edogawa-ku,133-0061,Tier 1 - Primary,Tokyo,Accessories,0.0,Store
+71814,Adidas,Vietnam,"LEXCO CO., LTD.",street number 10,"factory 22&23, Long Thanh IZ",(blank),Long Thanh,71000,Tier 2 – Subcontractor,Dong Nai,Accessories,49.0,Store
+71824,Reebok,Thailand,"Nan Yang Garment Co., Ltd. 3","168,170,172 Moo1,Phetkasem Rd.,",(blank),(blank),Sampran,73110,Tier 1 - Primary,Nakhon Pathom,Apparel,26.0,Store
+71836,Reebok,Haiti,Val d'Or Apparel Manufacturing Haiti S.A (aka Valdor),Rue Pierre Paul Tabarre 27,Croix Des Bouquets,(blank),PORT-AU-PRINCE,HT6110,Tier 1 - Primary,Ouest,Apparel,141.0,Distribution Centre
+71857,Reebok,Vietnam,"Jasan socks Vietnam Co., LTD","No.2, Road 17, Vsip Hai Phong Township, "," Industrial & Service Park, Thuy Trieu ward,",Thuy Nguyen district,Hai Phong city,180000,Tier 1 - Primary,Thanh Pho Hai Phong,Accessories,120.0,Distribution Centre
+71890,Reebok,Pakistan,XPRO Sportswear PVT. LLC.,"Near Catholic Church, AADHA, Daska Road",(blank),(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Apparel,4.0,Store
+71891,Reebok,China,K-pack Company Ltd,3rd Building No.3 ,Industrial Zone,"Tiantou, Hengli Town",Dongguan,523478,Tier 2 – Subcontractor,Guangdong,Accessories,15.0,Store
+71893,Reebok,Romania,S.C. PROGRESS S.A.,"STREET:FANTANII,27A,",(blank),(blank),"Brasov,",500482,Tier 1 - Primary,(blank),Footwear,12.0,Store
+71904,Reebok,China,Zhejiang Arcana Power Sports Tech Co Ltd,Nr 618 Xinxing Avenue ,"Zonghan,Emerging Industrial Area",Cixi,Cixi,515000,Tier 1 - Primary,Zhejiang,Gear,83.0,Distribution Centre
+71907,Reebok,Indonesia,PT. Kanindo Makmur Jaya,"Jl. Raya Jepara Kudus KM 19,","Ds. Pendosawalan,",Kecamatan Kalinyamatan,Kabupaten Jepara,59462,Tier 1 - Primary,Jawa Tengah,Accessories,544.0,Factory
+71936,Adidas,China,Apache Footwear Ltd Jin Tan Branch Company,"Shangwan Village, Dawanggang, Jintan Town, Qingxing District",(blank),(blank),Qingyuan,511885,Tier 1 - Primary,Guangdong,Footwear,323.0,Distribution Centre
+72026,Adidas,Spain,VIDRERES 2000 S.L.,POLIGONO INDIUSTRIAL  CA PATALINA,CALLE FONT DE LA MINA Nº3,MALGRAT DE MAR ,BARCELONA ,8380,Tier 1 - Primary,Catalunya,Apparel,0.0,Store
+72159,Reebok,Japan,"Kokuyo Product Shiga Co.,Ltd.",312 Kamikano,(blank),(blank),Aisho-cho Echi-gun,529-1203,Tier 1 - Primary,Shiga,Accessories,17.0,Store
+72289,Adidas,Vietnam,Apache Footwear Vietnam Company Limited,Lot 79,"Long giang Industrial Park,","Tan Lap 1 Commune, Tan Phuoc District",Tien Giang,860000,Tier 1 - Primary,Tien Giang,Footwear,240.0,Distribution Centre
+72308,Reebok,Dominican Republic,Universal Athletics,Avenoda Maximo Gomez,Zona Franca La Ameria,San Cristobal,Zona Franca La Ameria,,Tier 1 - Primary,San Cristobal,Apparel,27.0,Store
+72312,Adidas,"Korea, Republic of (South Korea)","YOU YOUNG CO.,LTD","371,  ANAJI-RO, GYEYANG-GU",(blank),(blank),Inchon,21104,Tier 1 - Primary,Inch'on-gwangyoksi,Apparel,3.0,Store
+72355,Adidas,Honduras,"Gildan Honduras Distribution, S. de R.L.    ","  Zoli Gildan Choloma Textiles, S.A., ","Contiguo a Zip San Miguel VI, Rio Nance ",15.5Km Carretera a Pue,"Rio Nance, Choloma     ",,Tier 1 - Primary,Cortes,Apparel,52.0,Distribution Centre
+72357,Adidas,China,Framas China Ltd(Fuzhou),Lianhuang Road,Xiashan Village,Aojiang Town,Fuzhou,350500,Tier 2 – Subcontractor,Fujian,Footwear,55.0,Distribution Centre
+72499,Adidas,Myanmar,"Bago Sports Gloves Co., Ltd",Bago- Tite Kyi Road Plot-32,Foreign Industrial Area, Nyang Inn Village ,Bago,8017,Tier 1 - Primary,Bago,Accessories,40.0,Store
+72544,Reebok,China,Hengdian Lucheng Knitting Garment Factory,"No.9, Changsheng Road, Hengdian Town, Dongyang City, 322118",(blank),(blank),Dongyang City,322118,Tier 1 - Primary,Zhejiang,Apparel,9.0,Store
+72697,Adidas,Argentina,R.A. Intertrading S.A. (Aquino),Aquino 6077,(blank),(blank),buenos aires ,1439,Tier 1 - Primary,Ciudad Autonoma de Buenos Aires,Apparel,82.0,Distribution Centre
+72738,Reebok,China,"Lianyungang Uidea  Industry Co.,Ltd","A8 building, small-sized  enterprise park, West area","Economic development  district, Donghai",(blank),Lianyungang,222300,Tier 1 - Primary,Jiangsu,Apparel,8.0,Store
+72740,Adidas,United States,Junk Brands,1004 NW 11th Street,(blank),(blank),Bentonville,72712,Tier 1 - Primary,Arkansas,Accessories,3.0,Store
+72745,Adidas,India,LAKHANI FOOTWEAR PVT.LTD. PLANT II,"Plot N0.11, Sector-11, IIE,",SIDCUL,(blank),HARIDWAR,249403,Tier 1 - Primary,Uttarakhand,Footwear,65.0,Distribution Centre
+72786,Adidas,China,"Chaoyang Huahai Industry and Trade Co.,Ltd (New)",Culture road five section of no. 103,Longcheng Distrct,(blank),Chaoyang,122000,Tier 1 - Primary,Liaoning,Apparel,38.0,Store
+72792,Adidas,United States,"Douglas Keeffe Graphic Design, LLC ","103 Douglas Court, Suite 6",(blank),(blank),Sterling,20166,Tier 1 - Primary,Virginia,Apparel,2.0,Store
+72900,Reebok,China,"Xiangshan Xindongfang Knitting Machinery Co., Ltd.","No. 1, Jianye Road,","Xiangshan Economic Zone,",Xiangshan County,Ningbo,315700,Tier 1 - Primary,Zhejiang,Apparel,28.0,Store
+72957,Adidas,Indonesia,PT HANDAL SUKSES KARYA,"JL. MILLENNIUM RAYA 3B, BLOK H-1",MILLENNIUM INDUSTRIAL ESTATE,DESA PANONGAN,Tangerang,15710,Tier 2 – Subcontractor,Banten,Footwear,23.0,Store
+72960,Reebok,China,"Subsidiary Factory of Zhejiang Hongyao Socks Co, Ltd","No. 42, Chuntang Road,","Caota Town,",(blank),Zhuji,311820,Tier 1 - Primary,Zhejiang,Apparel,10.0,Store
+72972,Adidas,Vietnam,"Chang Chun Vina Co., Ltd","Street D1, Block B",An Ngai Industrial Zone-Small Scale Industry,An Ngai Commune,Long Dien,74000,Tier 2 – Subcontractor,Ba Ria-Vung Tau,Footwear,259.0,Distribution Centre
+72975,Adidas,Vietnam,"An Giang Samho Co., Ltd","Lot C3, Binh Hoa Industrial Park",Chau Thanh District,(blank),An Giang,0,Tier 2 – Subcontractor,An Giang,Footwear,426.0,Factory
+72980,Adidas,Japan,Satoh Glove Studio," 4-12-17, Oimazatominami,",Higashinari-ku,(blank),Osaka city,5370013,Tier 1 - Primary,Osaka,Gear,0.0,Store
+73022,Adidas,Indonesia,PT APPAREL ONE INDONESIA_2," Wijaya  Kawasan Industrial Estate,Jl Tugu Wijaya IV,","Randugarut Sub-District,",Tugu  Distric,Semarang,50153,Tier 1 - Primary,Jawa Tengah,Apparel,234.0,Distribution Centre
+73187,Reebok,Bangladesh,Eco-Couture Ltd. ,"Mogor Khal, Bypass Road","Vogra, Joydebpur",(blank),Joydebpur,1701,Tier 1 - Primary,Dhaka,Apparel,130.0,Distribution Centre
+73863,Adidas,Indonesia,PT. Parkland World Indonesia Jepara,Jalan Raya Jepara - Kudus,Desa Pelang RT 06 RW 02,"Kecamatan Mayong, Kabupaten Jepara",Jepara,59465,Tier 1 - Primary,Jawa Tengah,Footwear,823.0,Factory
+73977,Adidas,"Korea, Republic of (South Korea)",HANA COMPANY,"#29, 1ST FL, NAN GOK RO 55GIL, GUAN AK-GU ",(blank),(blank),Seoul,8771,Tier 1 - Primary,(blank),Accessories,4.0,Store
+74131,Reebok,Taiwan,"SUN SIGHT GLASSES CO., LTD.","No.25 Lane 150 Sec.2 An Ho Rd., Annan District (70967)",(blank),(blank),Tainan,70967,Tier 1 - Primary,Taiwan,Accessories,10.0,Store
+74143,Adidas,Vietnam,"Regina Miracle International Vietnam Co., ltd","No 9 East – West Road, VSIP Hai Phong","Dinh Vu Economic Zone, Thuy Nguyen District", Cat Hai,Hai Phong,84,Tier 1 - Primary,(blank),Apparel,1338.0,Factory
+74149,Reebok,United States,Dynamax Inc.,1300 Smith Road,STE 104,(blank),Austin,78721,Tier 1 - Primary,Texas,Gear,2.0,Store
+74166,Adidas,Indonesia,PT Lucky Textile Semarang (Plant 2),Kawasan Industri Wijayakusuma,Jl. Tugu Industri I No.7,(blank),Semarang,50153,Tier 1 - Primary,Jawa Tengah,Apparel,89.0,Distribution Centre
+74216,Reebok,China,Ningbo Kelly Fashions,Wangjiaqiao town,Yinzhou district,(blank),Ningbo City,315100,Tier 1 - Primary,(blank),Apparel,16.0,Store
+74498,Reebok,Brazil,Savoy Indústria de Cosméticos S.A.,"Rua Contorno Oeste, SN",Quadra 01 / Lote 01/16 / Módulo 01,Polo Coureiro,Senador Canedo,75250-000,Tier 1 - Primary,Goias,Accessories,169.0,Distribution Centre
+74504,Reebok,Taiwan,Dyaco International Inc.,"No 1 Gong 1st Rd, Gyuan Sing Industrial Park",(blank),(blank),"Hemei Town, Changhua County",508,Tier 1 - Primary,Taiwan,Gear,50.0,Store
+74605,Adidas,China,"Kunshan Gea-Reach Garments Co., Ltd.",No.577 Jiguang North Road,Shipu Qiandeng Town,(blank),Kunshan,215343,Tier 1 - Primary,Jiangsu,Apparel,40.0,Store
+74641,Adidas,India,MaxKing (India) Footwear Private Limited,"MaxKing (India) Footwear Private Limited,  Mambattu Village, Tada Mandal, SPSR Nellore District",(blank),(blank),Nellore,524401,Tier 2 – Subcontractor,Andhra Pradesh,Footwear,31.0,Store
+74652,Reebok,China,Hangzhou Crystal Sports Equipment Co. Ltd.,ChengDong Village,HengCun Town,TongLu Country,Hangzhou,311502,Tier 1 - Primary,Zhejiang,Gear,12.0,Store
+74662,Adidas,Vietnam,Ci Bao Co. Ltd (SHD),"N5 Street, Suoi Tre Industrial Park","Suoi Tre Village, Long Khanh Commune",(blank),Dong Nai Province,810000,Tier 1 - Primary,Dong Nai,Footwear,5.0,Store
+74683,Reebok,China,Rich Policy (Zheng Yang Sporting Goods Co Ltd),"NO.1 Hou Dao Road East, San Tun Industrial park, HouJie Town",(blank),(blank),Dongguan,523941,Tier 1 - Primary,Guangdong,Apparel,13.0,Store
+74694,Adidas,China,"Shicheng Xinhong Shoes Industrial Co., Ltd."," G-28, Guzhang Industrial Park, Shicheng County",(blank),(blank),Ganzhou,342700,Tier 2 – Subcontractor,Jiangxi,Footwear,4.0,Store
+74703,Reebok,Vietnam,"H&L APPAREL (VIETNAM) CO., LTD",Lot D_11_CN,"My Phuoc 2 Industrial Park,","My Phuoc Ward,",BEN CAT TOWN ,820000,Tier 1 - Primary,Binh Duong,Apparel,127.0,Distribution Centre
+74747,Reebok,Pakistan,Anwar Khawaja Composite,"Anwar Khawaja Yard, Sadra Badra, Daska road",(blank),(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Accessories,16.0,Store
+74947,Reebok,China,Shandong Gunze Apparel Ltd.,"Dongfeng Group Industry Zone Mingshui Economic  Zone,",(blank),(blank),Zhangqiu,250200,Tier 1 - Primary,Shandong,Apparel,37.0,Store
+74948,Reebok,Indonesia,PT. Harindotama Mandiri,"Kapuk Kamal Muara No.88, Tegal Alur,","Kalideres, Jakarta Barat",(blank),Jakarta,11820,Tier 1 - Primary,Daerah Khusus Ibukota Jakarta,Apparel,36.0,Store
+75072,Adidas,Indonesia,PT Hwaseung Indonesia (HWI),Jalan Krasak Desa Banyuputih RT09/RW03,Kalinyamatan,(blank),Jepara,59467,Tier 1 - Primary,Jawa Tengah,Footwear,628.0,Factory
+75085,Reebok,China,"Zhejiang Dongyang DingDa Leather Co., Ltd.","Dingzhai Village,","Qianxiang Town,",(blank),Dongyang,322124,Tier 1 - Primary,Zhejiang,Accessories,30.0,Store
+75200,Reebok,Vietnam,TNG Investment & Trading JSC - Dai Tu Branch,"Thang Loi Ward, Tien Hoi Commune, Dai Tu District, 250000",(blank),(blank),Thai Nguyen,250000,Tier 1 - Primary,Thai Nguyen,Apparel,99.0,Distribution Centre
+75572,Adidas,Japan,"Takaaki Co., Ltd.",100-1 Kokonokaichishimonochō,(blank),(blank),Toyooka,6680052,Tier 1 - Primary,Hyogo,Accessories,10.0,Store
+75578,Adidas,China,"Shirotori Creation Co, Ltd. (NEW)",No. 8 Guang  Yao Road,Dong Sheng Town,(blank), Zhongshan,528400,Tier 1 - Primary,Guangdong,Hard Goods,8.0,Store
+75601,Reebok,China,"ZhuJi HuaLiDa Knitting and Textile Co., Ltd.","Chuntang West Village,","Caota Town,",(blank),Zhuji City,311812,Tier 1 - Primary,Zhejiang,Apparel,14.0,Store
+75625,Adidas,Italy,Calzaturificio Stephen Srl,Via Gazzo 7,(blank),(blank),Pianezze San Lorenzo,36060,Tier 1 - Primary,Veneto,Footwear,6.0,Store
+75734,Adidas,China,Jing-Tuo Exquisite Metal Decoration Factory,Jinchuan Industrial Zone,Zholin precinct,Xiegang Town,Dongguan,523595,Tier 1 - Primary,Guangdong,Accessories,3.0,Store
+75753,Reebok,Egypt,Ahmed Ahmed Abbas for Readymade Garments,El Andalus St,El Bagour,(blank),Menofia,2002,Tier 1 - Primary,Al Minufiyah,Apparel,13.0,Store
+75889,Reebok,Cambodia,I-CHENG CORPORATION,"NATIONAL ROAD, NO. 3, PHUM TANG DONG, KHUM TANG DONG",(blank),(blank),SROK BATY,21311,Tier 1 - Primary,Takeo,Footwear,259.0,Distribution Centre
+75985,Adidas,India,SOL TEC (UNIT-II),"Soltec (UNIT –II), Khasra No. 3964 & 3965",Lal Tappar Ind. Area,(blank),Dehradun,248140,Tier 2 – Subcontractor,Uttarakhand,Footwear,21.0,Store
+76022,Reebok,Taiwan,"Jack Pan Co., Ltd.","No.9, Qianliao Rd., Shengang Dist.,",(blank),(blank),Taichung,429,Tier 1 - Primary,(blank),Accessories,1.0,Store
+76029,Reebok,Haiti,GO HAITI,"39 PARC INDUSTRIEL, SONAPI, RTE DE L’AEROPORT",(blank),(blank),PORT-AU-PRINCE,HT00043,Tier 1 - Primary,(blank),Apparel,96.0,Distribution Centre
+76065,Adidas,United States,OT Sports Ind. Inc.,172 Boone St.,(blank),(blank),Burlington,27215,Tier 1 - Primary,North Carolina,Accessories,8.0,Store
+76067,Adidas,Turkey,Atomik Tekstil San. ve Tic. A.S.,Canik Mah.,"Akcaova Mevkii, Efirli Koyu",Persembe,Ordu,52750,Tier 2 – Subcontractor,Ordu,Apparel,17.0,Store
+76076,Reebok,China,"SHENG COMPOSITE TECH CO., LTD (XIAMEN)","38TH HULI INDUSTRIAL PARK, MEIXI ROAD, XIKE TOWN",(blank),(blank),Xiamen,361100,Tier 1 - Primary,Fujian,Accessories,9.0,Store
+76112,Reebok,Vietnam,"Force Sports Tech Trading & Manufacturing Co., Ltd","Lot B1, Road 6, Long Hau -Hoa Binh Industrial Park, Nhi Thanh Ward, Thu Thua District",(blank),(blank),Long An ,85000,Tier 1 - Primary,Long An,Gear,16.0,Store
+76220,Adidas,United States,Logo Concepts,1265 W 1275 N #2,(blank),(blank),Centerville,84074,Tier 1 - Primary,Utah,Accessories,3.0,Store
+76276,Reebok,"Korea, Republic of (South Korea)",Saramsarang,"306 , GUNYOUNG B/D, 1188-1","JUKJEON-DONG, SUJI-GU,",(blank),YONGIN-CITY,3393,Tier 1 - Primary,Gyeonggi-do,Apparel,2.0,Store
+76394,Reebok,China,Dongguan Chunlee Watch Company Limited,"No.47,Street 7,",Long Yan Park,"Humen Town,",Dongguan,511761,Tier 1 - Primary,Guangdong,Accessories,22.0,Store
+76396,Reebok,China,Dongguan Surewin Watch Company Limited,"Block 6, Bai Da Industrial Zone",Bai Guo Dong District,Zhang Mutou Town,Dongguan,523638,Tier 1 - Primary,Guangdong,Accessories,13.0,Store
+76398,Reebok,China,"Shaoxing Gaobu Tourism Products Co., Ltd.","C1,C2,C3,D Buildings, Professional Umbrella Industrial Zone, Songxia Town, Shangyu District",(blank),(blank),Shaoxing,312365,Tier 1 - Primary,Zhejiang,Hard Goods,22.0,Store
+76399,Reebok,China,Q-Yield Outdoor Gear Ltd. ,"No. 9 Dongfu West 2nd Road, Haicang",(blank),(blank),Xiamen,361027,Tier 1 - Primary,Fujian,Accessories,26.0,Store
+76454,Reebok,Taiwan,"Pinda Industry Co., Ltd.","No. 42, Ln. 461, Caofeng Rd",Xianxi Township,Changhua County,Changhua County,50742,Tier 1 - Primary,Taiwan,Gear,1.0,Store
+76643,Adidas,Spain,DIEGO TORVISCO,GENERO DE PUNTO ,12/01/2001,(blank),MATARO ,8304,Tier 2 – Subcontractor,Catalunya,Apparel,0.0,Store
+76687,Adidas,Vietnam,Elite Long Thanh Co Ltd,"Lot D,","Loc An, Binh Son Industrial Park",Long Thanh District,Dong Nai,700000,Tier 1 - Primary,Dong Nai,Apparel,600.0,Factory
+76721,Reebok,China,ZHEJIANG TIANCHENG GARMENT CO. LTD.,"NANRI FENQU, GAOQIAO INDUSTRIAL ZONE, GAOQIAO TOWN, TONGXIANG CITY, ZHEJIANG PROVINCE, CHINA",(blank),(blank),Tongxiang,314500,Tier 1 - Primary,Zhejiang,Apparel,4.0,Store
+76807,Reebok,Russia,Capella Ltd.,"606000, 5 km. Avtozavodski Shausse, bld. 1",(blank),(blank),Dzerzhinsk,606000,Tier 1 - Primary,(blank),Accessories,9.0,Store
+76983,Adidas,Indonesia,PT. Pungkook Indonesia One [Grobogan],"Jl. Raya Purwodadi-Blora KM. 18 RT. 01 RW. 02,", Kel/Desa. Tanjungrejo Kec. Wirosari,(blank),Kab. Grobogan,58192,Tier 1 - Primary,Jawa Tengah,Accessories,840.0,Factory
+76989,Adidas,Poland,ASPEKT Sp. z o.o.,ul. Drohobycka 2,(blank),(blank),Legnica,59-220,Tier 1 - Primary,Dolnoslaskie,Apparel,2.0,Store
+77149,Adidas,Indonesia,PT. Gori Global Indonesia,Jl. Raya Gunung Sindur No. 07,(blank),(blank),Bogor,16340,Tier 1 - Primary,Jawa Barat,Apparel,47.0,Store
+77151,Adidas,Philippines,Sportsac Manufacturing Corp.,"#14 Road 5, GSIS Hills Subdivision",Barangay Talipapa,Caloocan City,Caloocan City,1116,Tier 1 - Primary,(blank),Accessories,3.0,Store
+77430,Adidas,Vietnam,SHIMMER PRODUCTION & TRADING JOINT STOCK COMPANY,"C2-C10, Cau Tram Industrial Park",Long Trach Commune,(blank),Long An,850000,Tier 2 – Subcontractor,Long An,Footwear,36.0,Store
+77476,Reebok,China,"Fujian Jinjiang Shenhu Dali Clothing And Knitting Co,.Ltd","No. 3 Shifengzhongcheng District,","Dongan, Shenhu,",(blank),jinjiang,362246,Tier 1 - Primary,Fujian,Apparel,25.0,Store
+77503,Adidas,Brazil,Paqueta Calçados Ltda. (Itapajé),Rua Bento Ávila de Sousa Nº 137 ,Bairro Santa Rita,(blank),Itapajé - CE,62600-000,Tier 1 - Primary,Ceara,Footwear,152.0,Distribution Centre
+78015,Reebok,Italy,Calzificio Anson,Via Racale-Melissano 133,(blank),(blank),Racale,73055,Tier 1 - Primary,(blank),Apparel,6.0,Store
+78090,Reebok,China,Baijia (Fujian) Underwear Co Ltd,Baijia Industrial Park ,Shenhu Town,(blank),jinjiang,362246,Tier 1 - Primary,Fujian,Apparel,75.0,Distribution Centre
+78180,Reebok,Spain,MANIPULADOS MICSOS S.L.,"Avinguda de Sant Julià, 125 - 127",(blank),(blank),Granollers,8403,Tier 1 - Primary,Catalunya,Accessories,3.0,Store
+78187,Adidas,Vietnam,"An Phat Invest Joint Stock Company -  Zone A ( Unit  2, 3, 4)","Tam Quan Industrial Zone, Tam Quan Town, Hoai Nhon District, Binh Dinh Province",(blank),(blank),Quy Nhon,53000,Tier 1 - Primary,Binh Dinh,Apparel,36.0,Store
+78189,Reebok,China,"Hwa Mao Optical (Xiamen) Co., Ltd (Tong An Branch)","No. 99, Si Kou Zhen Road,","Xin Min Town,",Tong An District,Xiamen,361100,Tier 1 - Primary,Fujian,Accessories,100.0,Distribution Centre
+78235,Reebok,China,DONGKOU CHANGGUANLONG SPORTING GOODS CO.,Dongkou Economic Development Zone,Dongkou County,Hunan Province,Shaoyang,422300,Tier 1 - Primary,Hunan,Gear,16.0,Store
+78301,Adidas,Germany,Oechsler Motion GmbH,Gottlieb-Daimler-Straße 8,(blank),(blank),Ansbach,91522,Tier 1 - Primary,Freistaat Bayern,Footwear,4.0,Store
+78483,Adidas,Mexico,"Industrias Manufactureras Myr, S.A. de C.V. - Sewing plant",Carretera Irapuato-Abasolo Km 5,Col. La Garrida,(blank),Irapuato,36590,Tier 1 - Primary,Guanajuato,Apparel,151.0,Distribution Centre
+78490,Adidas,Russia,REKLAMAPRO LIMITED LIABILITY COMPANY,"Kavkazskiy  blvd,59",(blank),(blank),Moscow ,115516,Tier 1 - Primary,(blank),Apparel,1.0,Store
+78561,Adidas,Vietnam,"HWASEUNG POLYTECH CO., LTD",Street No. 2,Nhon Trach Industrial Zone 1,"Phuoc Thien Commune, Nhon Trach District",Dong Nai,815800,Tier 2 – Subcontractor,(blank),Footwear,3.0,Store
+78725,Adidas,China,"Fuzhou Fulian shoes, Co. Ltd",Changtian industrial park  building 1#,"Changsheng Road 2#, Chang an investment  district",Fuzhou development Zone,Fuzhou,350016,Tier 2 – Subcontractor,Fujian,Footwear,18.0,Store
+78748,Adidas,Vietnam,PLUS ONE SPORTS COMPANY LIMITED,"Street No.5, Song May Industrial Zone, ","Bac Son Village, Trang Bom District",(blank),Trang Bom District,810000,Tier 1 - Primary,Dong Nai,Gear,70.0,Distribution Centre
+78757,Reebok,China,"Shenzhen Square Bottle Co., Ltd.","No.2&5, C3 Bldg, C District, ",Lianhe Industrial,"Nanye Community, Longgang District",Shenzhen City,518116,Tier 1 - Primary,Guangdong,Accessories,35.0,Store
+78758,Reebok,China,"Xiamen Mydo Sports Equipment Co., Ltd.","No. 30, Bannan Road",Dongfu Street,Haicang District,Xiamen,361026,Tier 1 - Primary,Fujian,Gear,37.0,Store
+78771,Reebok,Vietnam,"Fashion Garments Mekong Co., Ltd","814B, Highway 30, Hamlet 3, An Hoa Commune, Tam Nong District,",(blank),(blank),Tam Nong District,870000,Tier 1 - Primary,Dong Thap,Apparel,82.0,Distribution Centre
+78803,Adidas,Vietnam,PowerKnit Vietnam Company Ltd,Bau Xeo Industrial Zone,Hill 61 Commune,Trang Bom District ,Dong Nai Province,84061,Tier 1 - Primary,Dong Nai,Footwear,265.0,Distribution Centre
+78848,Reebok,Pakistan,Umar Garments,Plot No.1-B/2 Sector-29,Korangi Industrial Area,(blank),KARACHI,74900,Tier 1 - Primary,Sindh,Apparel,21.0,Store
+78859,Reebok,China,"Rongcheng City Yu Chang Sports Co., Ltd.",Rongcheng City West Town Industrial Park,(blank),(blank),Weihai Rongcheng,264300,Tier 1 - Primary,Shandong,Apparel,2.0,Store
+78933,Reebok,China,"QINGDAO YAHONGSHUN GARMENT CO.,LTD","NO.19 TONGXIN ROAD,JIAOZHOU,QINGDAO,SHANDONG",(blank),(blank),Qingdao City,266300,Tier 1 - Primary,Shandong,Apparel,8.0,Store
+78992,Adidas,China,Fuzhou Hongxinhua  shoes CO. Ltd,"Changtian industrial park  building 1#, Changsheng Road 2#,",Chang an investment  district,Fuzhou development Zone,Fuzhou,350016,Tier 2 – Subcontractor,Fujian,Footwear,10.0,Store
+79016,Reebok,Vietnam,"FORMOSA (VIETNAM) TEXTILE INDUSTRY CO., LTD",MY XUAN A2 INDUSTRIAL ZONE,TAN THANH DISTRICT,BA RIA VUN TAU PROVINCE,BA RIA  VUNG TAU,790000,Tier 1 - Primary,Ba Ria-Vung Tau,Apparel,93.0,Distribution Centre
+79122,Adidas,Indonesia,PT. Multi Kreasi Mandiri (MKM),Kawasan Industri Nambo Jaya,RT 01/05 Kel. Nambo Jaya,Kecamatan Karawaci,Tangerang,15113,Tier 2 – Subcontractor,Banten,Footwear,171.0,Distribution Centre
+79155,Reebok,Vietnam,Ivory Trieu Son Thanh Hoa Co.Ltd,Hamlet 4 - Tho Vuc commune - Trieu Son district - Thanh Hoa province,(blank),(blank),Trieu Son,440000,Tier 1 - Primary,Thanh Hoa,Apparel,220.0,Distribution Centre
+79179,Adidas,Vietnam,Branch of Binh Thuan – Nha Be Garment JSC – Tuy Phong Garment ,"Industrial zone of North of Tuy Phong,","Lac Tri Village, Phu Lac Commune",(blank),Binh Thuan,800000,Tier 1 - Primary,Binh Thuan,Apparel,217.0,Distribution Centre
+79232,Adidas,Pakistan,Style Textile (Pvt.) Limited (Unit 3),"1/2 Km, Deffence Road Off,   "," Bhobtian Chowk,  ","  Raiwind Road,","Lahore, Punjab",55150,Tier 1 - Primary,(blank),Apparel,150.0,Distribution Centre
+79286,Reebok,Pakistan,AL AMIN EXPORTS,"WH-12, Sector 16-B",NORTH KARACHI INDUSTRIAL AREA,(blank),KARACHI,75850,Tier 1 - Primary,(blank),Apparel,30.0,Store
+79326,Reebok,Cambodia,"Hathor International (Cambodia) Co., Ltd.","Natural road 3, km68, ","Phum Jom Pol, Khum Po Pel, Srok Tram Kok",(blank),Takeo,21463,Tier 1 - Primary,Takeo,Accessories,90.0,Distribution Centre
+79468,Adidas,Japan,"TAP Co., Ltd. KUKI Factory",48-2 Kiyoku-cho,(blank),(blank),KUKI,346-0035,Tier 1 - Primary,Saitama,Apparel,2.0,Store
+79559,Reebok,China,"Weixuan Weaving Co.,Ltd. of Fujian","Guan qiao, Longqiao, Anxi economic zone, Quanzhou, Fujian",(blank),(blank),Quanzhou,362441,Tier 1 - Primary,Fujian,Apparel,95.0,Distribution Centre
+79640,Adidas,United States,Team Pride Athletic Apparel LLC,2196 Sweetgum Rd,(blank),(blank),Rochester,46975,Tier 2 – Subcontractor,Indiana,Apparel,5.0,Store
+79658,Reebok,Vietnam,"NY Hoa Viet Co., Ltd","Chau Tu Hamlet, Chau Loc Commune, Hau Loc District, 440000.",(blank),(blank),1,440000,Tier 1 - Primary,Thanh Hoa,Apparel,401.0,Factory
+79744,Adidas,United States,adidas - Indy (Mt. Comfort Facility),6887 W. 350N,Suite 100,(blank),Greenfield,46140,Tier 2 – Subcontractor,Indiana,Apparel,7.0,Store
+79767,Adidas,Pakistan,Challenge Apparels Limited (Lahore),"31-KM,",Feroepur Road,PUNJAB,"Lahore,",53100,Tier 1 - Primary,(blank),Apparel,155.0,Distribution Centre
+79884,Adidas,United States,"TY Garments USA, LLC",8909 Fourche Dam Pike,Little Rock,Arkansas,Little Rock,72206,Tier 1 - Primary,Arkansas,Apparel,13.0,Store
+79923,Reebok,Pakistan,Force Five (PVT) Ltd.,"14km Daska Road,",(blank),(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Accessories,20.0,Store
+79992,Reebok,China,"YANGZHOU SUMEC CHANGJIANG GARMENT CO.,LTD","NO. 8 GUOSHUI,SHATOU TOWN, GUANGLING DISTRICT,YANGZHOU",(blank),(blank),YANGZHOU,225000,Tier 1 - Primary,Jiangsu,Apparel,21.0,Store
+80050,Reebok,Thailand,"Thai Daizo Aerosol Co., Ltd. (TDP)",700/413 Moo1,Tambol Bankao,(blank),Amphur Panthong,20160,Tier 1 - Primary,Chon Buri,Accessories,32.0,Store
+80072,Adidas,Vietnam,"NYG ( Vietnam) Co.,Ltd",Lot C Long Khanh Industrial Zone – Binh Loc commune,(blank),(blank),Long Khanh town,810000,Tier 1 - Primary,Dong Nai,Apparel,146.0,Distribution Centre
+80073,Adidas,Jordan,Classic Fashion Apparel Industry Ltd Co. - Unit 02,"Al Hassan Industrial Estate, Sector No 21,","P.O Box 54,  Al Ramtha",(blank),Amman,21467,Tier 1 - Primary,Irbid,Apparel,407.0,Factory
+80094,Adidas,Brazil,RS TUPÃ,"Av. 1º de Março, 5151",Bairro Liberdade,(blank),NOVO HAMBURGO,93320-010,Tier 2 – Subcontractor,Rio Grande do Sul,Footwear,15.0,Store
+80135,Reebok,China,"SHISHI  HENGCHANG  SPORTS  GOODS  TRADE  CO.,LTD","ZONGSAN   INDUSTRIAL   AREA,","GANGBIAN,YONGNING TOWN,","SHISHI CITY,",Quanzhou,362700,Tier 1 - Primary,Fujian,Accessories,5.0,Store
+80153,Reebok,Taiwan,HO CHENG SPORTS MFG. CO. LTD.,"NO. 22, LANE 23, ZHONGYANG ROAD,","YONGKANG, TAINAN CITY",(blank),Tainan,71045,Tier 1 - Primary,Taiwan,Accessories,2.0,Store
+80156,Reebok,China,"SHISHI YAOTIAN SPORTS GOODS. CO.,LTD.",THE THIRD INDUSTRIAL ZONE YONGNING TOWN,SHISHI ,FUJIAN P.R. CHINA,SHISHI,362700,Tier 1 - Primary,Fujian,Accessories,5.0,Store
+80261,Reebok,Taiwan,"MING HSING LEATHER CO., LTD.","403, Sec. 2, SHA-TIEN ROAD, TA-TU",TAICHUNG,TAIWAN,Taichung,43242,Tier 1 - Primary,Taiwan,Accessories,8.0,Store
+80267,Reebok,China,Quanzhou Mutuzhe Garments Co Ltd,"No.75th. Zhitai Road, Economic Development Zone",(blank),(blank),Quanzhou,(blank),Tier 1 - Primary,Fujian,Apparel,16.0,Store
+80289,Reebok,Taiwan,"Yao I Fabric Co.,Ltd",No.13 Lugong N.1st Rd,Lukang Township,(blank),Changhua County,50544,Tier 1 - Primary,Taiwan,Accessories,4.0,Store
+80290,Reebok,United States,1v1 Fight Gear,5320 Tower Way,(blank),(blank),Sanford,32773,Tier 1 - Primary,Florida,Accessories,0.0,Store
+80340,Reebok,China,"ZIEBART APPAREL (DALIAN)TRADING CO.,LTD.",TANGLI VILLAGE HONGQI STREET ,GANJINGZI DISTRICT DALIAN CHINA,(blank),Dalian,116000,Tier 1 - Primary,Liaoning,Apparel,5.0,Store
+80486,Reebok,Egypt,ELSHAMY TEXTILE,ALABASSIE - INDUSTRIAL ZONE -019 STREET 47,(blank),(blank),CAIRO,11517,Tier 1 - Primary,Al Qahirah,Apparel,9.0,Store
+80507,Reebok,El Salvador,"WESTTEX APPAREL, S.A. DE C.V.",ZONA FRANCA SAN BARTOLO CALLE CHAPARRASTIQUE POL K EDIFICIO No. 20,(blank),(blank),ILOPANGO,,Tier 1 - Primary,San Salvador,Apparel,31.0,Store
+80531,Adidas,Pakistan,Veer Sports ( Pvt ) Ltd,"Export Processing Zone, Wazirabad Road",(blank),(blank),Sialkot,51070,Tier 1 - Primary,(blank),Accessories,5.0,Store
+80538,Adidas,United States,"OECHSLER Motion, Inc.",601 Cherokee Parkway,(blank),(blank),Acworth,30102,Tier 1 - Primary,Georgia,Footwear,6.0,Store
+80599,Reebok,Pakistan,"Multi Sports Textile Pvt., Ltd.","29, K.M G.T Road Muridke",(blank),(blank),Muridke,39000,Tier 1 - Primary,Punjab,Apparel,4.0,Store
+80690,Reebok,United States,JSP Intl. (Pednar),4335 County Farm Road,Jackson,MI,Michigan,48854,Tier 1 - Primary,Michigan,Gear,14.0,Store
+80785,Reebok,Vietnam,"Yegin Industrial (Vietnam) Co., Ltd.","Lot 36A,37A, Long Giang Industrial Park, Tan Lap 1 Commune, Tan Phuoc District, Tien Giang Province",(blank),(blank),Tan Phuoc District,(blank),Tier 1 - Primary,Tien Giang,Gear,82.0,Distribution Centre
+83210,Reebok,Taiwan,"Jiuh Shin Co., LTD","40-19, Bo Kon Kun",Shi-Fu Village,Shan Yih Hsiang,Miaoli Hsien,36744,Tier 1 - Primary,Taiwan,Gear,7.0,Store
+83217,Adidas,El Salvador,Grupo Miguel SA. de CV.,"Complejo Industrial Intercomplex, km 26 1/2 carretera a Santa Ana",(blank),(blank),San Juan Opico,,Tier 2 – Subcontractor,La Libertad,Apparel,59.0,Distribution Centre
+83218,Adidas,China,Cheng Guan Sport Product Technology Co. ltd,"Xin cheng Industrial Park, Liao Bu Town",(blank),(blank),Dongguan,523426,Tier 1 - Primary,Guangdong,Accessories,17.0,Store
+83251,Adidas,United States,Hitmaster Graphics LLC,1706 West Fig Street,(blank),(blank),Tampa,33606,Tier 2 – Subcontractor,Florida,Apparel,3.0,Store
+83303,Adidas,Vietnam,HWASEUNG RACH GIA COMPANY LIMITED (HSRG),"Road 4, Thanh Loc Industrial Park,",Thanh Loc Commune,(blank),Chau Thanh District,0,Tier 2 – Subcontractor,Kien Giang,Footwear,24.0,Store
+83388,Adidas,Taiwan,"Taiwan Morito Co., Ltd.(New)","NO.640,　SEC 5, CHONGDE RD.,","TANZI DIST., ",(blank),Taichung City,42748,Tier 1 - Primary,(blank),Accessories,1.0,Store
+83453,Reebok,China,"Zhejiang Shaxue Underwear Co., Ltd.","No. 100 Qianan Road, Fotang Town",(blank),(blank),Yiwu,322023,Tier 1 - Primary,Zhejiang,Apparel,24.0,Store
+83454,Adidas,Indonesia,PT Dian Ningsari Sejahtera (New),KP. Hutan Tua RT.001 RW.003,Kelurahan Karang Asem Barat,"Kecamatan Citeureup, Kabupaten Bogor",Bogor,16810,Tier 2 – Subcontractor,(blank),Apparel,42.0,Store
+83463,Reebok,Indonesia,PT KANAAN GLOBAL INDONESIA,"JL. Ronggolawe RT.02/18 Kel. Telukan, Kec. Grogol Kab. ",(blank),(blank),Sukoharjo,57552,Tier 1 - Primary,Jawa Tengah,Accessories,56.0,Distribution Centre
+83468,Reebok,China,"ZHE JIANG FEIFENG SPORTS GOODS CO.,LTD",LANTING ECONOMY EMPOLDER SECTION,(blank),(blank),Shaoxing,312000,Tier 1 - Primary,Zhejiang,Accessories,5.0,Store
+83478,Reebok,China,"Jinjiang Tianyue Garments Co., Ltd.","#3 Shifeng Industrial Areas, Shenhu Town",(blank),(blank),jinjiang,362246,Tier 1 - Primary,Fujian,Apparel,62.0,Distribution Centre
+83479,Reebok,China,Xiangshan Changrong Knitting Clothing Co Ltd,#21 Wanhai Rd Juexi Town,(blank),(blank),Xiangshan,315700,Tier 1 - Primary,Zhejiang,Apparel,10.0,Store
+83481,Reebok,China,"Automax Anhui Co., Ltd.","No. 8 & 15 Building, 123 Intelligent Knitting Park",Intersection of East Road & Yinglin Road,Yingshang Economic Development Zone,Fuyang,236200,Tier 1 - Primary,Anhui,Apparel,12.0,Store
+83493,Adidas,China,Jangchun Shoe Manufacturing Chaoyang Co Ltd,"#36C Building, No. 5-99E","Wenhua Road, ",Longcheng District,Chaoyang,122000,Tier 2 – Subcontractor,Liaoning,Footwear,17.0,Store
+83496,Reebok,China,Quanzhou Hecheng Bags Co. Ltd,Tangxi Industrial Zone,Wanan Street ,Luojiang District,Quanzhoou,362000,Tier 1 - Primary,Fujian,Accessories,7.0,Store
+83516,Reebok,China,Fujian Ezon Information Technology Co. Ltd,"Building 15, Cangshan Industrial Area, Juyuanzhou, Jinshan District, Fuzhou, Fujian Province",(blank),(blank),Fuzhou,350000,Tier 2 – Subcontractor,Fujian,Accessories,36.0,Store
+83561,Adidas,Vietnam,OECHSLER Motion Vietnam LLC (OMV),"Lot F2-2 +  F3-1, Road 13, Thuan Dao Industrial Park","Long Dinh Commune, Can Duoc District",(84)2723637786,Long An,850000,Tier 2 – Subcontractor,(blank),Footwear,3.0,Store
+83593,Reebok,Vietnam,"Shilla Glovis Viet Nam Co., LTD","Cho Moi Hamlet, Long Hoa Commune, Go Cong Town, Tien Giang Province, Viet Nam",(blank),(blank),Tien Giang,860000,Tier 1 - Primary,Tien Giang,Accessories,158.0,Distribution Centre
+83607,Adidas,Thailand,"Reliance Screen Co.,Ltd. ",109 Moo 2,Tambon Muang Phu,Amphoe Ban Phai,Khon Kaen,40110,Tier 2 – Subcontractor,(blank),Apparel,13.0,Store
+83630,Reebok,China,XIAMEN MINGHO BROTHERS MFG CO.，LTD.,"XITANG VILLAGE,XINMIN TOWN,TONG’AN DISTRICT",(blank),(blank),Xiamen,361100,Tier 1 - Primary,Fujian,Hard Goods,26.0,Store
+83710,Reebok,China,Putian Unitech Footwear Co Ltd,1855# Zhulin Road,"Hualin Industrial Zone, Chengxiang",(blank),Putian,351100,Tier 1 - Primary,Fujian,Footwear,4.0,Store
+83713,Reebok,China,"ZHEJIANG KINGNER SPORTING GOODS MANUFACTURE CO., LTD.","19 TAIHE ROAD, HAIRUN STREET, SANMEN COUNTY TAIZHOU",(blank),(blank),Taizhou City,317100,Tier 1 - Primary,Zhejiang,Accessories,9.0,Store
+83729,Adidas,India,Pearl Apparels,Plot No. 357A,Pace City II,Sector - 37,Gurgaon,122001,Tier 1 - Primary,Haryana,Apparel,40.0,Store
+83836,Reebok,Pakistan,CRESCENT SOCKS (PVT) LIMITED,31 KM. FEROZEPUR ROAD,SUA AASIL,(blank),LAHORE,(blank),Tier 1 - Primary,Punjab,Accessories,24.0,Store
+83840,Reebok,Czech Republic,Ravensburger Karton s.r.o. (RKC),"Strizezska 968,  ",(blank),(blank),Policka,57201,Tier 1 - Primary,(blank),Accessories,65.0,Distribution Centre
+83908,Reebok,China,"Hunan Sky Knitting Co., Ltd.",Yi Yang Industrial Corridor,(blank),(blank),Changning ,421500,Tier 1 - Primary,Hunan,Apparel,13.0,Store
+84018,Adidas,Brazil,Calçados Ramarim Ltda - Nova Hartz,"Rua Angra dos Reis, 171",(blank),B. Das Rosas,Nova Hartz – RS,93890-000,Tier 1 - Primary,Rio Grande do Sul,Footwear,155.0,Distribution Centre
+84163,Adidas,Cambodia,BEAUTY SILK SCREEN LIMITED ,"Veng Sreng Blvd, Phum Trapeang Thleung","Sangkat Chom Chao, Khan Porsenchey  ",(blank),Phnom Penh  ,12405,Tier 2 – Subcontractor,Phnom Penh,Apparel,24.0,Store
+84500,Adidas,India,Camphor Shoes (India) Private Limited,APIIC Industrial Park  (Apache SEZ Development),Mambatuu Village,Ta da Mandal,SPSR Nellore District,524401,Tier 2 – Subcontractor,Andhra Pradesh,Footwear,43.0,Store
+84503,Adidas,United States,"Motionwear, LLC",1315 Sunday Drive,(blank),(blank),Indianapolis,46217,Tier 1 - Primary,Indiana,Apparel,0.0,Store
+84510,Adidas,China,"Ningbo Shenzhou Knitting Co.,Ltd. No.5 Garment Factory","No.19,Dagang Rd 5. , Xinqie,  ",Beilun District,(blank),Ningbo,315800,Tier 1 - Primary,(blank),Apparel,421.0,Factory
+84524,Reebok,India,SSG Apparels - Unit II,No. 34 Nethaji Apparel Park,EEtiveerampalayam,(blank),New Tirupur,641666,Tier 1 - Primary,Tamil Nadu,Apparel,38.0,Store
+84546,Reebok,Pakistan,DK FITNESS (PVT) LTD.,SAIDPUR ROAD,(blank),(blank),Sialkot,51310,Tier 1 - Primary,Punjab,Accessories,4.0,Store
+84636,Adidas,Myanmar,Shyang Peng Cheng Co. Ltd  (SHB),"No.(9/3,41,42,52) Kwin No.(620-Ka)","West Maekhone Steet, Maekhone Village",(blank),Bago,8011,Tier 2 – Subcontractor,Bago,Footwear,24.0,Store
+84643,Adidas,Brazil,FORMAS KUNZ LTDA,"RODOVIA RS239, Nº 4631",(blank),(blank),NOVO HAMBURGO,(blank),Tier 2 – Subcontractor,Rio Grande do Sul,Footwear,12.0,Store
+84657,Reebok,Vietnam,Minh Anh - Kim Lien Garment Joint Stock Company,"Bac Vinh Industrial Zone,","Hung Dong Commune,",Nghe An Province,Vinh City,46000 – 47000,Tier 1 - Primary,(blank),Apparel,180.0,Distribution Centre
+84976,Reebok,China,"LYSA & LYCO (FUJIAN) GARMENT INDUSTRIES CO., LTD.","DONGSHAN VILLAGE, SHENHU TOWN",(blank),(blank),jinjiang,362246,Tier 1 - Primary,Fujian,Apparel,42.0,Store
+85029,Reebok,Vietnam,Hung Kiu (Vietnam) garment Mfg. Ltd. ,"Road N7, Phu Chanh 1 Industrial Cluster, ","Phu Chanh Ward, Tan Uyen Town, Binh Duong Province.",(blank),Binh Duong,75000,Tier 1 - Primary,Binh Duong,Apparel,98.0,Distribution Centre
+85030,Reebok,Pakistan,CROWN TEXTILE ,F-352/A S.I.T.E ,(blank),(blank),KARACHI,75700,Tier 1 - Primary,Sindh,Apparel,30.0,Store
+85043,Reebok,Cambodia,"City Spark  (Cambodia) Co., Ltd","No 18F, Prey Pring Tboung, Chom Chao, Por Sen Chey",(blank),(blank),Phnom Penh,,Tier 1 - Primary,(blank),Accessories,10.0,Store
+85099,Adidas,Vietnam,"Yupoong Vietnam Co., Ltd. (Expanded Facility)","Loteco EPZ, Lot A-2, 3 and 4",Route 15A,Long Binh Ward,Bien Hoa,(blank),Tier 1 - Primary,Dong Nai,Accessories,66.0,Distribution Centre
+85178,Adidas,India,GOKALDAS  INDIA,"No. 21b & 21c, Survey No. 34-37","Nalagadaranahalli,  II Phase,"," Industrial area, Peenya",Bangalore,560058,Tier 1 - Primary,Karnataka,Apparel,115.0,Distribution Centre
+85190,Reebok,China,"Jiangsu Southwest Intelligent Textile Co., Ltd.",Smart Knitting Industry Park,Shuyang Economic Development Zone,"East of 205 Road, North Side of Youfu Road ",Shuyang,223600,Tier 1 - Primary,Jiangsu,Apparel,12.0,Store
+85205,Adidas,China,YIA-CHYNS TEXTILE (SHANGHAI) CORP,"BUILDING 2, NO.688 FENG YONG ROAD, FENGXIAN DISTRICT",(blank),(blank),Shanghai,201414,Tier 1 - Primary,Shanghai Shi,Apparel,13.0,Store
+85210,Reebok,China,"Lianyungang Taiyoung Fashion Co., Ltd.",No. 998 Jingdudadao Economic Industrial Park,Donghai,(blank),Lianyungang,222300,Tier 1 - Primary,Jiangsu,Apparel,12.0,Store
+85251,Adidas,Brazil,R DOIS INJETADOS LTDA ,"AV. OSCAR MARTINS RANGEL , 4310",(blank),(blank),TAQUARA,95600-000,Tier 2 – Subcontractor,Rio Grande do Sul,Footwear,12.0,Store
+85331,Reebok,China,"Kunshan Swordsman Fitness CO., LTD",No 88 Wangjiadian Road,Photoelectric Park ,Zhoushi Town,Kunshan,215337,Tier 1 - Primary,Jiangsu,Gear,5.0,Store
+85332,Adidas,United States,"Liebe Dallas, LLC",2030 S Hwy 45,(blank),(blank),Corsicana,75110,Tier 2 – Subcontractor,Texas,Apparel,1.0,Store
+85338,Adidas,India,CARNIVAL CLOTHING COMPANY ,"No. 2/A-1, Chikkaveeranna Road Cross",Bannimantap Extension,(blank),Mysore,570015,Tier 1 - Primary,Karnataka,Apparel,74.0,Distribution Centre
+85423,Reebok,China,"Zhejiang Fenglaoda Socks Co., Ltd.","No. 8 Jianshe East Road, Fengshi Yanguan Town",(blank),(blank),Haining,311100,Tier 1 - Primary,Zhejiang,Apparel,28.0,Store
+85494,Reebok,China,Bonny Composite-Tech(Tongxiang)LTD.,"No. 199,East Fengxiang Road",(blank),(blank),Tongxiang,314500,Tier 1 - Primary,Zhejiang,Gear,110.0,Distribution Centre
+85628,Reebok,Germany,DÖHLER GMBH,Riedstraße 7-9,(blank),(blank),Darmstadt,64295,Tier 1 - Primary,(blank),Accessories,26.0,Store
+85715,Reebok,Austria,MONTFORT Kunststofftechnik GmbH,Bundesstraße 15,(blank),(blank),Koblach,6842,Tier 1 - Primary,(blank),Accessories,3.0,Store
+85820,Reebok,Taiwan,Baby Duck Working House Co. Ltd,No. 432 Chung Cheng Road,Kwan Miao District,(blank),Tainan,718,Tier 1 - Primary,Taiwan,Accessories,1.0,Store
+85826,Reebok,Vietnam,"KY VINA CO., LTD","TAN DINH PRODUCTION AREA, TAN DINH WARD, BEN CAT TOWN, BINH DUONG PROVINCE",(blank),(blank),BINH DUONG ,75000,Tier 1 - Primary,Binh Duong,Apparel,70.0,Distribution Centre
+85851,Adidas,India,Aryan Apparels Pvt. Ltd. (Plot No. 266),Plot No. 266 ,Sec-06,IMT Manesar,Gurgaon,(blank),Tier 1 - Primary,Haryana,Apparel,2.0,Store
+85865,Reebok,China,"Zhejiang Ou Wei Socks Co., Ltd.",No. 700 Longtan Road,"Datang Town, Luxixin Village",(blank),Zhuji,311801,Tier 1 - Primary,Zhejiang,Apparel,11.0,Store
+85929,Adidas,United Kingdom,MJ Services,Building 329 Shepperton Studios ,Studios Road,(blank),Shepperton,TW17 0QD,Tier 1 - Primary,England,Apparel,1.0,Store
+86021,Reebok,China,Xiangshui Talent Knitting Garment Limited,Economic and Development Zone,"Economic and Development Zone,Xiangshui County,",(blank),Yancheng,224600,Tier 1 - Primary,Jiangsu,Apparel,21.0,Store
+86023,Adidas,Vietnam,"DinSen Vietnam Enterprise Co., Ltd (Long An)","Land No.998, 1180, 1258, 1268, 3701, Map No.2"," Long Hiep Ward, Ben Luc District","Long An Province, Vietnam",Tan An ,850000,Tier 1 - Primary,Long An,Apparel,20.0,Store
+86077,Reebok,Cambodia,"BING  WIN GARMENT (CAMBODIA) CO.,LTD","No.7 Chhun Hong Industrial Park, National Road No4, Svay Chrum, Beckchan Commune,","Angsnoul District, Kandal Province,Cambodia",(blank), Phnom Penh     ,8103,Tier 1 - Primary,(blank),Apparel,76.0,Distribution Centre
+86212,Reebok,Austria,Greiner Packaging GmbH,Landstraße 14,(blank),(blank),Wartberg,4552,Tier 1 - Primary,(blank),Accessories,8.0,Store
+86322,Adidas,Italy,Maestria Italiana Srl,Via 1 Maggio 3/5,(blank),(blank),Lograto,25030,Tier 1 - Primary,Lombardia,Apparel,2.0,Store
+86365,Adidas,Vietnam,Far Eastern New Apparel (Vietnam) Ltd,"D1 Street, Bac Dong Phu Industrial Park",Tan Phu Town,(blank),Binh Phuoc Province,830000,Tier 1 - Primary,(blank),Apparel,367.0,Factory
+86397,Adidas,China,"Shanghai Xinfeng Garment Co., Ltd",No.66 Lane 257 Zhuting Road Yexie Town Songjiang District ,(blank),(blank),Shanghai,201608,Tier 1 - Primary,Shanghai Shi,Apparel,15.0,Store
+86571,Reebok,China,"OMA Fitness Equipment Co., Ltd. (2018 Site)","No,93 Tai’an Road South,Yang’e village,Lun Jiao Town",Shunde,(blank),Foshan,528311,Tier 1 - Primary,Guangdong,Gear,33.0,Store
+86698,Adidas,Vietnam,"Regina Miracle International Vietnam Co., ltd(Factory C)","No.9, East West Road,VSIP Hai Phong Township, Industrial and Service Park,","Duong Quan Commune, Thuy Nguyen District",(blank),Hai Phong,(blank),Tier 1 - Primary,(blank),Apparel,548.0,Factory
+86706,Reebok,Vietnam,"Fashion Garments 2 co., Ltd – Xuan Tay","Hamlet 1, Xuan Tay Commune, Cam My District, Dong Nai province, Viet Nam",(blank),(blank),Cam My District,810000,Tier 1 - Primary,Dong Nai,Apparel,74.0,Distribution Centre
+86844,Reebok,China,"Jiangsu Huansheng Apparel Co.,Ltd","SIHONG  ECONOMIC  DEVELOPMENT AREA,SHUANGYANG  WEST ROAD SOUTHERN SIDE,SUQIAN CITY",(blank),(blank),Suqian,(blank),Tier 1 - Primary,(blank),Apparel,10.0,Store
+86941,Adidas,United States,"Riddell Sports Group, Inc.",7501 Performance Lane,(blank),(blank),North Ridgeville,44039,Tier 1 - Primary,Ohio,Gear,36.0,Store
+87031,Reebok,China,Jiangsu Dali STT Co Ltd,"No 2 Building, Smart Knitting Industrial Park, Shuyang",(blank),(blank),Suqian,223600,Tier 1 - Primary,Jiangsu,Apparel,24.0,Store
+87266,Adidas,India,Camphor Shoes (India) Private Limited Expanded facility,APIIC Industrial park (Apache SEZ Development) Mambattu Village,Tada Mandal,SPSR Nellore District,Tada Mandal,524401,Tier 2 – Subcontractor,Andhra Pradesh,Footwear,43.0,Store
+87631,Adidas,Turkey,ERATEKS Tekstil San Ve Tic.AŞ Fatsa Şube 2,Fatsa OSB 101.Sok.No:15/3 ,(blank),(blank),Fatsa,(blank),Tier 1 - Primary,Ordu,Apparel,10.0,Store

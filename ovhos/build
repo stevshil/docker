@@ -1,0 +1,1 @@
+docker build -t steve353/ovh:1.0 .

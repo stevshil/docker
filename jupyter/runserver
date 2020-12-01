@@ -1,0 +1,5 @@
+#!/bin/bash
+
+docker run -itd --restart always -p 8888:8888 --name jupyter -v "$PWD":/home/jovyan/work jupyter/datascience-notebook:9b06df75e445
+
+# Password secret123
