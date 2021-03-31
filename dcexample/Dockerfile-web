@@ -1,0 +1,15 @@
+# Use apache2
+FROM httpd
+# Install mysql client so we can connect to the database
+RUN apt-get -y update
+RUN apt-get -y install mariadb-client
+# A shell script that will generate a web page on start up that shows some DB output
+RUN mkdir /app
+COPY getsql /app
+# Our start page
+COPY index.html /usr/local/apache2/htdocs/
+# Database password for the script to use
+ENV PASSWORD=boo
+# Run the shell script on launch
+RUN chmod +x /app/getsql
+CMD /app/getsql

@@ -1,0 +1,22 @@
+version: "3.0"
+services:
+  db:
+    build:
+      context: .
+      dockerfile: Dockerfile-db
+    image: mydb:0.1
+    container_name: mydbhost
+    environment:
+      - MYSQL_ROOT_PASSWORD=secret123
+    ports:
+      - "3306"
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile-web
+    image: myweb:0.1
+    container_name: mywebserver
+    environment:
+      - PASSWORD=secret123
+    ports:
+      - "80"

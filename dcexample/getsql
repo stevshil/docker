@@ -1,0 +1,20 @@
+#!/bin/bash
+count=0
+until mysql -u root -p$PASSWORD -h mydbhost -e 'show databases;'
+do
+  sleep 5
+  if (( count == 30 ))
+  then
+    exit 1
+  fi
+  (( count = count + 1 ))
+done
+
+echo "DB is up" 1>&2
+echo "Running"
+echo "mysql -u root -p$PASSWORD -h mydbhost mysql 'show tables;' >/usr/share/apache2/htdocs/db.html"
+
+mysql -u root -p$PASSWORD -h mydbhost mysql -e 'show tables;' >/usr/local/apache2/htdocs/db.html
+
+# Need this to keep the container running
+httpd -DFOREGROUND
