@@ -1,10 +1,11 @@
-FROM centos:7.6.1810
+FROM almalinux:8.4
+#FROM centos:7.6.1810
 
 # Update containers packages
-RUN yum -y update
+RUN dnf -y update
 
 # Install named/bind
-RUN yum -y install bind bind-utils net-tools
+RUN dnf -y install bind bind-utils net-tools wget
 
 RUN rm -rf /etc/named /etc/named.rfc1912.zones
 

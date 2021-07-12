@@ -49,9 +49,14 @@ else
 	fi
 fi
 
+# Update Root cache
+rm -f /var/named/named.ca
+wget https://www.internic.net/domain/named.root -O /var/named/named.ca
+
+
 /usr/sbin/named -f -c /etc/named.conf
 
-while :
-do
-	sleep 360
-done
+#while :
+#do
+	#sleep 360
+#done
