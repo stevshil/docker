@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Edited using Gateway Setup Editor version GA3.1.0-150227 at 2019-06-13 11:14:38 by Administrator on WIN-70OAN17IPPO-->
+<!-- Gateway-created setup include file for user ActiveConsole2 at 3.219.91.239 -->
+<gateway compatibility="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.itrsgroup.com/GA4.1.0-170114/gateway.xsd">
+	<managedEntities>
+		<managedEntityGroup name="PROD">
+			<addTypes>
+				<type ref="System Checks">
+					<environment ref="EMEAPROD"/>
+				</type>
+			</addTypes>
+			<managedEntity name="ELK Server">
+				<probe ref="ELK"/>
+			</managedEntity>
+			<managedEntity name="Financial Feed">
+				<probe ref="Feed"/>
+			</managedEntity>
+			<managedEntity name="Deployment Server">
+				<probe ref="uDeploy"/>
+			</managedEntity>
+			<managedEntity name="Docker Registry">
+				<probe ref="Docker Registry"/>
+			</managedEntity>
+			<managedEntityGroup name="AppServer">
+				<addTypes>
+					<type ref="App Servers">
+						<environment ref="EMEAPROD"/>
+					</type>
+				</addTypes>
+				<managedEntity name="Application Production Server">
+					<probe ref="AppProd"/>
+				</managedEntity>
+			</managedEntityGroup>
+		</managedEntityGroup>
+		<managedEntityGroup name="DEV">
+			<addTypes>
+				<type ref="System Checks">
+					<environment ref="EMEADEV"/>
+				</type>
+			</addTypes>
+			<managedEntityGroup name="AppServer">
+				<addTypes>
+					<type ref="App Servers">
+						<environment ref="EMEADEV"/>
+					</type>
+				</addTypes>
+				<managedEntity name="Application Developer Server">
+					<probe ref="AppDev"/>
+				</managedEntity>
+			</managedEntityGroup>
+		</managedEntityGroup>
+		<managedEntityGroup name="TEST">
+			<addTypes>
+				<type ref="System Checks">
+					<environment ref="EMEATEST"/>
+				</type>
+			</addTypes>
+			<managedEntityGroup name="AppServer">
+				<addTypes>
+					<type ref="App Servers">
+						<environment ref="EMEATEST"/>
+					</type>
+				</addTypes>
+				<managedEntity name="Application UAT Server">
+					<probe ref="AppUAT"/>
+				</managedEntity>
+			</managedEntityGroup>
+		</managedEntityGroup>
+	</managedEntities>
+	<environments>
+		<environmentGroup name="EMEA">
+			<environment name="EMEADEV">
+				<var name="IntervalTime">
+					<integer>10</integer>
+				</var>
+				<var name="DBPass">
+					<stdEncodedPassword>
+						<std>+en+tddqfs</std>
+					</stdEncodedPassword>
+				</var>
+			</environment>
+			<environment name="EMEAPROD">
+				<var name="IntervalTime">
+					<integer>30</integer>
+				</var>
+				<var name="DBPass">
+					<stdEncodedPassword>
+						<std>+en+tddqfs</std>
+					</stdEncodedPassword>
+				</var>
+			</environment>
+			<environment name="EMEATEST">
+				<var name="IntervalTime">
+					<integer>30</integer>
+				</var>
+				<var name="DBPass">
+					<stdEncodedPassword>
+						<std>+en+tddqfs</std>
+					</stdEncodedPassword>
+				</var>
+			</environment>
+		</environmentGroup>
+	</environments>
+</gateway>

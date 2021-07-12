@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Edited using Gateway Setup Editor version GA3.1.0-150227 at 2019-06-13 10:59:39 by Administrator on WIN-70OAN17IPPO-->
+<!-- Gateway-created setup include file for user ActiveConsole2 at 3.219.91.239 -->
+<gateway compatibility="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.itrsgroup.com/GA4.1.0-170114/gateway.xsd">
+	<actions>
+		<action name="Create my file">
+			<script>
+				<exeFile>/usr/bin/touch /tmp/steve</exeFile>
+				<arguments>
+					<data/>
+				</arguments>
+				<runLocation>netprobe</runLocation>
+				<probe ref="ITRS Gateway"/>
+			</script>
+		</action>
+	</actions>
+	<rules>
+		<rule name="CPU Critical">
+			<targets>
+				<target>/geneos/gateway[(@name=&quot;student014&quot;)]/directory/probe/managedEntity[(attr(&quot;Purpose&quot;)=&quot;Web Server&quot;)]/sampler[(@name=&quot;CPU info&quot;)][(@type=&quot;System Checks&quot;)]/dataview[(@name=&quot;CPU info&quot;)]/rows/row/cell[(@column=&quot;percentUtilisation&quot;)]</target>
+			</targets>
+			<priority>1</priority>
+			<block>
+				<if>
+					<gt>
+						<dataItem>
+							<property>@value</property>
+						</dataItem>
+						<integer>10</integer>
+					</gt>
+					<transaction>
+						<update>
+							<property>state/@severity</property>
+							<severity>critical</severity>
+						</update>
+						<action ref="Create my file"/>
+					</transaction>
+					<if>
+						<gt>
+							<dataItem>
+								<property>@value</property>
+							</dataItem>
+							<integer>4</integer>
+						</gt>
+						<transaction>
+							<delay unit="samples">3</delay>
+							<update>
+								<property>state/@severity</property>
+								<severity>warning</severity>
+							</update>
+						</transaction>
+						<transaction>
+							<update>
+								<property>state/@severity</property>
+								<severity>ok</severity>
+							</update>
+						</transaction>
+					</if>
+				</if>
+			</block>
+		</rule>
+		<rule name="SSH Not Running">
+			<targets>
+				<target>/geneos/gateway[(@name=&quot;student014&quot;)]/directory/probe/managedEntity/sampler[(@name=&quot;Web Server Processes&quot;)][(@type=&quot;Web servers&quot;)]/dataview[(@name=&quot;Web Server Processes&quot;)]/rows/row[(@name=&quot;ssh&quot;)]/cell[(@column=&quot;instanceCount&quot;)]</target>
+			</targets>
+			<priority>1</priority>
+			<block>
+				<if>
+					<equal>
+						<dataItem>
+							<property>@value</property>
+						</dataItem>
+						<integer>0</integer>
+					</equal>
+					<transaction>
+						<update>
+							<property>state/@severity</property>
+							<severity>critical</severity>
+						</update>
+					</transaction>
+					<transaction>
+						<update>
+							<property>state/@severity</property>
+							<severity>ok</severity>
+						</update>
+					</transaction>
+				</if>
+			</block>
+		</rule>
+		<rule name="Low Memory">
+			<targets>
+				<target>/geneos/gateway[(@name=&quot;student014&quot;)]/directory/probe/managedEntity/sampler[(@name=&quot;HW Info&quot;)][(@type=&quot;System Checks&quot;)]/dataview[(@name=&quot;HW Info&quot;)]/rows/row[(@name=&quot;memoryAvailablePct&quot;)]/cell[(@column=&quot;Value&quot;)]</target>
+			</targets>
+			<priority>1</priority>
+			<block>
+				<if>
+					<lt>
+						<dataItem>
+							<property>@value</property>
+						</dataItem>
+						<integer>20</integer>
+					</lt>
+					<transaction>
+						<update>
+							<property>state/@severity</property>
+							<severity>critical</severity>
+						</update>
+					</transaction>
+					<if>
+						<lt>
+							<dataItem>
+								<property>@value</property>
+							</dataItem>
+							<integer>40</integer>
+						</lt>
+						<transaction>
+							<update>
+								<property>state/@severity</property>
+								<severity>critical</severity>
+							</update>
+						</transaction>
+						<transaction>
+							<update>
+								<property>state/@severity</property>
+								<severity>ok</severity>
+							</update>
+						</transaction>
+					</if>
+				</if>
+			</block>
+		</rule>
+		<rule name="Big files are bad">
+			<targets>
+				<target>/geneos/gateway[(@name=&quot;student014&quot;)]/directory/probe/managedEntity/sampler[(@name=&quot;Big files&quot;)][(@type=&quot;Web servers&quot;)]/dataview[(@name=&quot;Big files&quot;)]/rows/row/cell[(@column=&quot;Size&quot;)]</target>
+			</targets>
+			<priority>1</priority>
+			<block>
+				<if>
+					<gt>
+						<dataItem>
+							<property>@value</property>
+						</dataItem>
+						<integer>100000</integer>
+					</gt>
+					<transaction>
+						<update>
+							<property>state/@severity</property>
+							<severity>critical</severity>
+						</update>
+					</transaction>
+					<transaction>
+						<update>
+							<property>state/@severity</property>
+							<severity>ok</severity>
+						</update>
+					</transaction>
+				</if>
+			</block>
+		</rule>
+		<rule name="I love VI">
+			<targets>
+				<target>/geneos/gateway[(@name=&quot;student014&quot;)]/directory/probe[(@name=&quot;Steve&quot;)]/managedEntity[(@name=&quot;Steves Gateway&quot;)]/sampler[(@name=&quot;Web Server Processes&quot;)][(@type=&quot;Web servers&quot;)]/dataview[(@name=&quot;Web Server Processes&quot;)]/rows/row[(@name=&quot;vim&quot;)]/cell[(@column=&quot;instanceCount&quot;)]</target>
+			</targets>
+			<priority>1</priority>
+			<block>
+				<if>
+					<equal>
+						<dataItem>
+							<property>@value</property>
+						</dataItem>
+						<integer>0</integer>
+					</equal>
+					<transaction>
+						<update>
+							<property>state/@severity</property>
+							<severity>critical</severity>
+						</update>
+						<action ref="Create my file"/>
+					</transaction>
+					<transaction>
+						<update>
+							<property>state/@severity</property>
+							<severity>ok</severity>
+						</update>
+					</transaction>
+				</if>
+			</block>
+		</rule>
+	</rules>
+	<activeTimes>
+		<activeTime name="Business Hours UK">
+			<scheduledPeriod>
+				<startTime>08:00:00</startTime>
+				<endTime>18:00:00</endTime>
+				<days>
+					<monday>true</monday>
+					<tuesday>true</tuesday>
+					<wednesday>true</wednesday>
+					<thursday>true</thursday>
+					<friday>true</friday>
+					<saturday>false</saturday>
+					<sunday>false</sunday>
+				</days>
+			</scheduledPeriod>
+		</activeTime>
+	</activeTimes>
+</gateway>

@@ -43,3 +43,5 @@ testexample/mydb
 **/.nb-gradle/
 **/build/
 ibmucd/**/*.zip
+itrs/files/new
+itrs/files/ITRS

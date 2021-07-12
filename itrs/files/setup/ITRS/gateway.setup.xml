@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Edited using Gateway Setup Editor version GA3.1.0-150227 at 2019-06-13 10:59:39 by Administrator on WIN-70OAN17IPPO-->
+<gateway compatibility="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.itrsgroup.com/GA4.1.0-170114/gateway.xsd">
+	<includes>
+		<priority>1</priority>
+		<include>
+			<priority>2</priority>
+			<required>true</required>
+			<location>EMEA</location>
+		</include>
+		<include>
+			<priority>3</priority>
+			<required>true</required>
+			<location>NAM</location>
+		</include>
+		<include>
+			<priority>4</priority>
+			<required>true</required>
+			<location>APAC</location>
+		</include>
+		<include>
+			<priority>5</priority>
+			<required>true</required>
+			<location>StarterTypes</location>
+		</include>
+		<include>
+			<priority>6</priority>
+			<required>true</required>
+			<location>StarterSamplers</location>
+		</include>
+		<include>
+			<priority>7</priority>
+			<required>true</required>
+			<location>StarterActionRules</location>
+		</include>
+	</includes>
+	<probes>
+		<probe name="ELK">
+			<hostname>elk.training.local</hostname>
+			<port>559070361</port>
+		</probe>
+		<probe name="AppDev">
+			<hostname>appsrvdev.training.local</hostname>
+			<port>7036</port>
+		</probe>
+		<probe name="AppProd">
+			<hostname>appsrvprod.training.local</hostname>
+			<port>7036</port>
+		</probe>
+		<probe name="AppUAT">
+			<hostname>appsrvuat.training.local</hostname>
+			<port>7036</port>
+		</probe>
+		<probe name="Feed">
+			<hostname>feed.training.local</hostname>
+			<port>7036</port>
+		</probe>
+		<probe name="uDeploy">
+			<hostname>udeploy.training.local</hostname>
+			<port>7036</port>
+		</probe>
+		<probe name="Docker Registry">
+			<hostname>dockerreg.training.local</hostname>
+			<port>7036</port>
+		</probe>
+		<probe name="ITRS Gateway">
+			<hostname>itrs.training.local</hostname>
+			<port>7036</port>
+		</probe>
+	</probes>
+	<knowledgeBase>
+		<urlTemplate name="Martins Notes">
+			<urlTemplateElements>
+				<urlTemplateElement>
+					<literal>http://citi.oldfrog.com</literal>
+				</urlTemplateElement>
+			</urlTemplateElements>
+		</urlTemplate>
+	</knowledgeBase>
+	<operatingEnvironment>
+		<!--The gateway name must be set, the listen port should be set-->
+		<gatewayName>ITRS</gatewayName>
+		<listenPort>7038</listenPort>
+	</operatingEnvironment>
+</gateway>

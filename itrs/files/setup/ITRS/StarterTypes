@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--Edited using Gateway Setup Editor version GA3.1.0-150227 at 2019-06-13 11:13:24 by Administrator on WIN-70OAN17IPPO-->
+<!-- Gateway-created setup include file for user ActiveConsole2 at 3.219.91.239 -->
+<gateway compatibility="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.itrsgroup.com/GA4.1.0-170114/gateway.xsd">
+	<types>
+		<type name="System Checks">
+			<sampler ref="CPU info"/>
+			<sampler ref="Disk info"/>
+			<sampler ref="Network Info"/>
+			<sampler ref="HW Info"/>
+		</type>
+		<type name="Web servers">
+			<sampler ref="Web Server Processes"/>
+			<sampler ref="Web Server port check"/>
+			<sampler ref="Big files"/>
+			<sampler ref="JMX Sample"/>
+			<sampler ref="Trades Table Check"/>
+			<sampler ref="Check for ERROR"/>
+			<sampler ref="File arrival"/>
+			<sampler ref="Google DNS"/>
+			<sampler ref="All Processes"/>
+		</type>
+		<type name="Database Oracle">
+			<sampler ref="Oracle DB Check"/>
+			<sampler ref="DB Processes"/>
+			<sampler ref="Oracle Data Partition"/>
+			<sampler ref="Oracle Data IO"/>
+		</type>
+		<type name="App Servers">
+			<sampler ref="Docker Running"/>
+			<sampler ref="Trade App Components"/>
+		</type>
+	</types>
+</gateway>
