@@ -1,1 +1,10 @@
-docker build -t steve353/ovh:1.0 .
+#!/bin/bash
+
+version=$1
+if [[ -z $version ]]
+then
+  echo "Please specify version number"
+  exit 1
+fi
+
+docker build -t steve353/ovh:$version .
