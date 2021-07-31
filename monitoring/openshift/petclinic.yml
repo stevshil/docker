@@ -1,0 +1,71 @@
+apiVersion: v1
+kind: DeploymentConfig
+metadata:
+  labels:
+    app: petclinic
+  name: petclinic
+spec:
+  replicas: 1
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: petclinic
+    spec:
+      containers:
+      - env:
+        - name: DBPASSWORD
+          value: petclinic
+        - name: DBSERVERNAME
+          value: mysql
+        - name: DBUSERNAME
+          value: root
+        image: steve353/petclinic
+        name: petclinic
+        ports:
+        - containerPort: 8080
+        resources: {}
+      restartPolicy: Always
+  triggers:
+  - type: ConfigChange
+  - imageChangeParams:
+      automatic: true
+      containerNames:
+      - petclinic
+      from:
+        kind: ImageStreamTag
+        name: petclinic
+    type: ImageChange
+status: {}
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    service: petclinic
+  name: petclinic
+spec:
+  ports:
+  - name: "8080"
+    port: 8080
+    targetPort: 8080
+  selector:
+    app: petclinic
+status:
+  loadBalancer: {}
+
+---
+
+apiVersion: v1
+kind: Route
+metadata:
+  name: petclinic
+spec:
+  host: petclinic.appsrv.tps.local
+  port:
+    targetPort: '8080'
+  to:
+    kind: Service
+    name: petclinic

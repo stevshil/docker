@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if (( $# < 1 ))
+then
+	echo "SYNTAX: $0 <VERSIONNUMBER>" 1>&2
+	exit 1
+fi
+
+VERSION=$1
+
+docker build -t steve353/prometheus:$VERSION .

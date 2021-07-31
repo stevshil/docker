@@ -1,0 +1,63 @@
+version: "3.7"
+services:
+  database:
+    build:
+      context: database
+    image: monitor/database
+    container_name: database
+    volumes:
+      - type: volume
+        source: db-data
+        target: /var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=petclinic
+      - MYSQL_DATABASE=petclinic
+  petclinic:
+    build:
+      context: petclinic-docker-build
+      dockerfile: Dockerfile.mon
+    image: monitor/petclinic
+    container_name: petclinic
+    environment:
+      - DBSERVERNAME=database
+      - DBUSERNAME=root
+      - DBPASSWORD=petclinic
+    ports:
+      - 1080:8080
+  dbmon:
+    image: prom/mysqld-exporter:v0.13.0
+    container_name: dbmon
+    environment:
+      DATA_SOURCE_NAME: 'exporter:promexporter123@(database:3306)/'
+    command: --collect.global_status --collect.info_schema.innodb_metrics --collect.auto_increment.columns --collect.info_schema.processlist --collect.binlog_size --collect.info_schema.tablestats --collect.global_variables --collect.info_schema.query_response_time --collect.info_schema.userstats --collect.info_schema.tables --collect.perf_schema.tablelocks --collect.perf_schema.file_events --collect.perf_schema.eventswaits --collect.perf_schema.indexiowaits --collect.perf_schema.tableiowaits --collect.slave_status
+  prometheus:
+    build:
+      context: prometheus
+    image: monitor/prometheus
+    container_name: prometheus
+    volumes:
+      - type: volume
+        source: prom-data
+        target: /var/lib/prometheus
+    ports:
+      - 9100:9100
+      - 9090:9090
+  grafana:
+    build:
+      context: grafana
+    image: image/grafana
+    container_name: grafana
+    ports:
+      - 3000:3000
+  itrs:
+    build:
+      context: itrs
+    image: monitor/itrs
+    container_name: itrs
+    ports:
+      - 7038:7038
+      - 7036:7036
+
+volumes:
+  db-data:
+  prom-data:
