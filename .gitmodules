@@ -4,3 +4,6 @@
 [submodule "dockerDB"]
 	path = dockerDB
 	url = https://github.com/stevshil/dockerDB.git
+[submodule "monitoring/containers/petclinic-docker-build"]
+	path = monitoring/containers/petclinic-docker-build
+	url = https://github.com/stevshil/petclinic-docker-build.git
