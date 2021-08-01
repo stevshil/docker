@@ -3,6 +3,7 @@
   gather_facts: false
 
   tasks:
+  # Dashboards from library
   - name: Add Prometheus node_exporter dashboard
     community.grafana.grafana_dashboard:
       grafana_url: http://localhost:3000
@@ -15,7 +16,7 @@
       # folder: Prometheus
       #path: /tmp/prometheus-2-0-overview_rev2.json
       # dashboard_url: https://grafana.com/api/dashboards/3662/revisions/2/download
-    
+
   - name: Add Docker and Host dashboard
     community.grafana.grafana_dashboard:
       grafana_url: http://localhost:3000
@@ -25,23 +26,55 @@
       dashboard_revision: "7"
       overwrite: yes
       state: present
-    
-  # - name: Add MySQL dashboard
-  #   community.grafana.grafana_dashboard:
-  #     grafana_url: http://localhost:3000
-  #     url_username: admin
-  #     url_password: "{{grafana_admin_password}}"
-  #     dashboard_id: "6239"
-  #     dashboard_revision: "1"
-  #     overwrite: yes
-  #     state: present
-  #   notify: Restart Grafana
+
+  - name: Named processes by host
+    community.grafana.grafana_dashboard:
+      grafana_url: http://localhost:3000
+      url_username: admin
+      url_password: "{{ lookup('env', 'ADMIN_PW') }}"
+      dashboard_id: "4202"
+      dashboard_revision: "1"
+      overwrite: yes
+      state: present
+
+  - name: MySQL Prometheus dashboard
+    community.grafana.grafana_dashboard:
+      grafana_url: http://localhost:3000
+      url_username: admin
+      url_password: "{{ lookup('env', 'ADMIN_PW') }}"
+      dashboard_id: "6239"
+      dashboard_revision: "1"
+      overwrite: yes
+      state: present
+
+  - name: MySQL Exporter Quickstart and Dashboard
+    community.grafana.grafana_dashboard:
+      grafana_url: http://localhost:3000
+      url_username: admin
+      url_password: "{{ lookup('env', 'ADMIN_PW') }}"
+      dashboard_id: "14057"
+      dashboard_revision: "1"
+      overwrite: yes
+      state: present
+
+  - name: Named processes
+    community.grafana.grafana_dashboard:
+      grafana_url: http://localhost:3000
+      url_username: admin
+      url_password: "{{ lookup('env', 'ADMIN_PW') }}"
+      dashboard_id: "249"
+      dashboard_revision: "1"
+      overwrite: yes
+      state: present
+
+# Local dashboards
+
   - name: Upload MySQL dashboard
     copy:
       src: MySQLPrometheus.json
       dest: /tmp/MySQLPrometheus.json
-  
-  - name: Add MySQL dashboard
+
+  - name: Add MySQL local dashboard
     community.grafana.grafana_dashboard:
       grafana_url: http://localhost:3000
       url_username: admin
@@ -49,19 +82,5 @@
       overwrite: yes
       state: present
       path: /tmp/MySQLPrometheus.json
-  
-  - name: Upload Simple Docker dashboard
-    copy:
-      src: DockerSystem.json
-      dest: /tmp/DockerSystem.json
-  
-  - name: Simple Docker dashboard
-    community.grafana.grafana_dashboard:
-      grafana_url: http://localhost:3000
-      url_username: admin
-      url_password: "{{ lookup('env', 'ADMIN_PW') }}"
-      overwrite: yes
-      state: present
-      path: /tmp/DockerSystem.json
 
 # https://grafana.com/docs/grafana/latest/administration/provisioning/#dashboards

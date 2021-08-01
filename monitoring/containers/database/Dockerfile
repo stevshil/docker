@@ -15,6 +15,7 @@ RUN tar xvf /tmp/process-exporter-0.7.5.linux-amd64.tar.gz
 RUN mv process-exporter-0.7.5.linux-amd64/process-exporter /opt/exporters/process-exporter
 RUN rm -rf process-exporter-0.7.5.linux-amd64
 RUN rm -f process-exporter-0.7.5.linux-amd64.tar.gz
+COPY process-exporter.conf /opt/exporters
 RUN wget https://github.com/prometheus/node_exporter/releases/download/v1.2.0/node_exporter-1.2.0.linux-amd64.tar.gz -O /tmp/node_exporter-1.2.0.linux-amd64.tar.gz
 RUN cd /opt/exporters; tar xvf /tmp/node_exporter-1.2.0.linux-amd64.tar.gz; mv node*/node_exporter /opt/exporters/node_exporter
 RUN rm -rf /tmp/node_exporter-1.2.0.linux-amd64.tar.gz /opt/exporters/node_exporter-*

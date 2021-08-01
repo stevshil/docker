@@ -13,12 +13,13 @@ scrape_configs:
   - job_name: 'petclinic'
     # scrape_interval: 5s
     static_configs:
-      - targets: ['petclinic:9100','petclinic:9995']
+      - targets: ['petclinic:9100','petclinic:9995','petclinic:9100','petclinic:9256']
         labels:
           group: 'petclinic'
 
   - job_name: 'Database'
     static_configs:
-      - targets: ['dbmon:9104','database:9995','database:9100']
+      # 9104 = mysqld_exporter, 9256 Process exporter, 9995 disk exporter, 9100 node
+      - targets: ['dbmon:9104','database:9995','database:9100','database:9256']
         labels:
           group: 'database'

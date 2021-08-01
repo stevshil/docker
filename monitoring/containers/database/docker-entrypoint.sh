@@ -202,7 +202,7 @@ fi
 
 # Start Process exporter
 cd /opt/exporters
-./process-exporter &
+./process-exporter -config.path process-exporter.conf &
 
 # Start Node exporter
 ./node_exporter &
