@@ -7,7 +7,7 @@ $dbhost=$_SERVER['DBHOST'];
 $dbname=$_SERVER['DBNAME'];
 $dbuser=$_SERVER['DBUSER'];
 $dbpass=$_SERVER['DBPASS'];
-$wwwroot=$_SERVER['URI'];
+$wwwroot=$_SERVER['SERVER_NAME'].":".$_SERVER['SERVER_PORT'];
 
 #$CFG->dbtype    = 'mysqli';
 $CFG->dbtype    = 'mariadb';
@@ -16,6 +16,7 @@ $CFG->dbhost    = $dbhost;
 $CFG->dbname    = $dbname;
 $CFG->dbuser    = $dbuser;
 $CFG->dbpass    = $dbpass;
+$CFG->lang      = "en";
 $CFG->prefix    = 'mdl_';
 $CFG->dboptions = array (
   'dbpersist' => 0,

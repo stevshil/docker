@@ -1,12 +1,16 @@
-#FROM mysql:5.7.19
-FROM mariadb:10.2.39
-RUN apt -y update
-RUN apt -y install git wget
-RUN git clone https://github.com/spring-projects/spring-petclinic.git /app
-RUN cp /app/src/main/resources/db/mysql/schema.sql /docker-entrypoint-initdb.d/01.sql
-RUN cp /app/src/main/resources/db/mysql/data.sql /docker-entrypoint-initdb.d/02.sql
-COPY exporter.sql /docker-entrypoint-initdb.d/03.sql
-COPY moodle.sql /docker-entrypoint-initdb.d/04.sql
+FROM bitnami/moodle:3.9.2
+ENV MOODLE_USERNAME=admin
+ENV MOODLE_PASSWORD=admin123
+ENV MOODLE_DATABASE_USER=root
+ENV MOODLE_DATABASE_PASSWORD=petclinic
+ENV MOODLE_DATABASE_NAME=moodle
+ENV MOODLE_DATABASE_HOST=database
+ENV MYSQL_CLIENT_DATABASE_HOST=database
+ENV MYSQL_CLIENT_DATABASE_ROOT_PASSWORD=petclinic
+ENV BITNAMI_DEBUG=false
+
+RUN apt-get -y update
+RUN apt-get -y install wget
 
 # Install monitoring
 RUN wget https://github.com/ncabatoff/process-exporter/releases/download/v0.7.5/process-exporter-0.7.5.linux-amd64.tar.gz -O /tmp/process-exporter-0.7.5.linux-amd64.tar.gz
@@ -24,6 +28,9 @@ RUN wget https://github.com/dundee/disk_usage_exporter/releases/download/v0.1.0/
 RUN cd /opt/exporters; tar xvf /tmp/disk_usage_exporter_linux_amd64.tgz; mv disk* disk_usage_exporter
 COPY disk_usage_exporter.yaml /opt/exporters/disk_usage_exporter.yaml
 
-COPY docker-entrypoint.sh.mariadb /usr/local/bin/docker-entrypoint.sh
-RUN chmod +x /usr/local/bin/docker-entrypoint.sh
-# ENTRYPOINT ["/start.sh"]
+# Update entrypoint
+RUN sed -i '/exec "$@"/i\cd \/opt\/exporters' /opt/bitnami/scripts/moodle/entrypoint.sh
+RUN sed -i '/exec "$@"/i\.\/disk_usage_exporter &' /opt/bitnami/scripts/moodle/entrypoint.sh
+RUN sed -i '/exec "$@"/i\.\/node_exporter &' /opt/bitnami/scripts/moodle/entrypoint.sh
+RUN sed -i '/exec "$@"/i\.\/process-exporter -config.path process-exporter.conf &' /opt/bitnami/scripts/moodle/entrypoint.sh
+RUN sed -i '/exec "$@"/i\cd -' /opt/bitnami/scripts/moodle/entrypoint.sh
