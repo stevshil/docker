@@ -1,0 +1,45 @@
+apiVersion: v1
+kind: DeploymentConfig
+metadata:
+  creationTimestamp: null
+  labels:
+    io.kompose.service: itrs
+  name: itrs
+spec:
+  replicas: 1
+  selector:
+    io.kompose.service: itrs
+  strategy:
+    resources: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        io.kompose.service: itrs
+    spec:
+      containers:
+        - image: ' '
+          name: itrs
+          ports:
+            - containerPort: 7038
+            - containerPort: 7036
+          resources: {}
+      restartPolicy: Always
+  test: false
+  triggers:
+    - type: ConfigChange
+    - imageChangeParams:
+        automatic: true
+        containerNames:
+          - itrs
+        from:
+          kind: ImageStreamTag
+          name: itrs:latest
+      type: ImageChange
+status:
+  availableReplicas: 0
+  latestVersion: 0
+  observedGeneration: 0
+  replicas: 0
+  unavailableReplicas: 0
+  updatedReplicas: 0
