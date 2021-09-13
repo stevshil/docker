@@ -45,3 +45,5 @@ testexample/mydb
 ibmucd/**/*.zip
 itrs/files/new
 itrs/files/ITRS
+**/*.mmdb
+**/*.rpm

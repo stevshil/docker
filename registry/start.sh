@@ -28,7 +28,7 @@ docker run -itd -p 5000:5000 \
 	-v /home/share/dockerreg:/var/lib/registry \
 	-v certs:/certs \
 	--restart=always \
-	-v /var/tmp/dockerreg_config.yml:/etc/docker/registry/config.yml:ro \
 	registry:2
+	#-v /var/tmp/dockerreg_config.yml:/etc/docker/registry/config.yml:ro \
 	#-e REGISTRY_HTTP_TLS_CERTIFICATE=/certs/domain.crt \
   	#-e REGISTRY_HTTP_TLS_KEY=/certs/domain.key \
