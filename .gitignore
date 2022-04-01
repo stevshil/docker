@@ -47,3 +47,4 @@ itrs/files/new
 itrs/files/ITRS
 **/*.mmdb
 **/*.rpm
+**/*.deb
