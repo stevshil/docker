@@ -1,10 +1,11 @@
 version: "3"
 services:
-  app:
+  unison:
     image: steve353/unison
     build: .
     environment:
       - DISPLAY=${DISPLAY}
+      - UNISONDIR=/home/steve
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix:ro
       - /home:/home
