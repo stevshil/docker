@@ -9,5 +9,4 @@ VOLUME /tmp/.X11-unix
 VOLUME /home
 USER steve
 ENV DISPLAY=:1
-ENV UNISONDIR=/home
 CMD ["/start.sh"]
