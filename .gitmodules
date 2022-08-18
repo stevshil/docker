@@ -4,6 +4,3 @@
 [submodule "dockerDB"]
 	path = dockerDB
 	url = https://github.com/stevshil/dockerDB.git
-[submodule "monitoring-lab"]
-	path = monitoring-lab
-	url = https://github.com/stevshil/monitoring-lab.git
