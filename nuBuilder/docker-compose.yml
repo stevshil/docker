@@ -1,0 +1,27 @@
+version: "3.7"
+services:
+  nudb:
+    image: mariadb:jammy
+    container_name: nudb
+    volumes:
+      - type: volume
+        source: nudb-data
+        target: /var/lib/mysql
+    environment:
+      MARIADB_ROOT_PASSWORD: secret123
+      MARIADB_DATABASE: nubuilder4
+  nubuilder:
+    build:
+      context: .
+    image: steve353/nubuilder:0.1
+    environment:
+      DBUSER: root
+      DBPASS: secret123
+      DBHOSTNAME: nudb
+      DBNAME: nubuilder4
+      GLOBALADMINPW: nu123
+    ports:
+      - 80
+
+volumes:
+  nudb-data:
