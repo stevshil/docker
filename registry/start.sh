@@ -25,6 +25,7 @@ _END_
 
 docker run -itd -p 5000:5000 \
 	--name dockerreg \
+	-m 40m \
 	-v /home/share/dockerreg:/var/lib/registry \
 	-v certs:/certs \
 	--restart=always \

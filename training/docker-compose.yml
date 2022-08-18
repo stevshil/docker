@@ -11,6 +11,7 @@ services:
       - 13306:3306
     environment:
       - MYSQL_ROOT_PASSWORD=secret123
+    command: --lower_case_table_names=1
   jupytertrain:
     image: jupyter/datascience-notebook:9b06df75e445
     container_name: jupytertrain

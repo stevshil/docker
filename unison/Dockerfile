@@ -8,5 +8,6 @@ RUN chmod +x /start.sh
 VOLUME /tmp/.X11-unix
 VOLUME /home
 USER steve
+WORKDIR /home/steve
 ENV DISPLAY=:1
 CMD ["/start.sh"]
