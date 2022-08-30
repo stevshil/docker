@@ -20,4 +20,4 @@ services:
     volumes:
       - /tmp/.X11-unix:/tmp/.X11-unix:ro
       - /home:/home
-#    network_mode: host
+    network_mode: host
