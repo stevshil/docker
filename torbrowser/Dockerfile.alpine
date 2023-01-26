@@ -1,0 +1,19 @@
+# Broken as binary doesn't work on Alpine
+FROM alpine:3.17.1 AS builder
+RUN wget https://www.torproject.org/dist/torbrowser/12.0.2/tor-browser-linux64-12.0.2_ALL.tar.xz -O /tmp/tor.tar.xz
+WORKDIR /
+RUN tar xvf /tmp/tor.tar.xz
+
+FROM alpine:3.17.1
+RUN apk update
+RUN apk add openssh-client-default openssh kdialog xmessage bash
+#RUN apk add https://distfiles.adelielinux.org/adelie/1.0/user/aarch64/gxmessage-lang-3.4.3-r1.apk
+RUN addgroup -S anon
+RUN adduser -S anon -G anon -h /home/anon
+COPY --from=builder /tor-browser /tor-browser
+RUN chown -R anon:anon /tor-browser
+USER anon
+VOLUME /tmp/.X11-unix
+VOLUME /home/anon
+ENV DISPLAY=:1
+CMD ["/tor-browser/Browser/start-tor-browser"]

@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  tor:
+    build:
+      context: .
+    image: steve353/torbrowser:latest
+    deploy:
+      resources:
+        limits:
+          memory: 500M
+    environment:
+      DISPLAY: ${DISPLAY}
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix:ro
+      - /tmp:/root/Downloads
