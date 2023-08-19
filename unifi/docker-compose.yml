@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+
+  unifi:
+    build:
+      context: .
+    image: steve353/unifi-controller:7.4.162-1
+    container_name: unifi
+    volumes: 
+      - type: bind
+        source: /Data/var/lib/unifi/data
+        target: /var/lib/unifi/data
+    ports:
+      - 8080:8080
+      - 8443:8443
+    restart: always
+    network_mode: host
