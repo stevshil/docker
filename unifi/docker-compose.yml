@@ -14,4 +14,4 @@ services:
       - 8080:8080
       - 8443:8443
     restart: always
-    network_mode: host
+#    network_mode: host
